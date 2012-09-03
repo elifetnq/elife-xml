@@ -477,7 +477,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f001"/>
 </fig>
 
-<fig id="sfig1" position="margin">
+<fig id="sfig1" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.002</object-id>
 <label>Fig. 1&#x2013; Figure Supplement 1</label>
 <caption>
@@ -1056,6 +1056,7 @@
 </fn>
 </table-wrap-foot>
 </table-wrap>
+
 </p>
 <p>The bacterial cell envelope components lipopolysaccharide (LPS) and peptidoglycan (PGN) from Gram-negative bacteria have long been known to affect host biology (<xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib44">Hoffmann et al., 1999</xref>; <xref ref-type="bibr" rid="bib89">Takeuchi et al., 1999</xref>; <xref ref-type="bibr" rid="bib57">Kopp &#x26; Medzhitov, 1999</xref>; <xref ref-type="bibr" rid="bib70">Medzhitov &#x26; Janeway, 2000</xref>; <xref ref-type="bibr" rid="bib50">Kimbrell &#x26; Beutler, 2001</xref>; <xref ref-type="bibr" rid="bib24">Cohn &#x26; Morse, 1960</xref>), but neither LPS nor PGN from <italic>A. machipongonensis</italic> triggered rosette development, alone or in combination (<xref ref-type="fig" rid="fig3">Figure 3A</xref>). Instead, we found that <italic>A. machipongonensis</italic> crude lipid extracts enriched in sphingolipids robustly induced rosette development (<xref ref-type="fig" rid="fig3">Figure 3A</xref>). In animals, sphingolipid signaling pathways regulate developmental processes such as cell death, survival, differentiation, and migration (<xref ref-type="bibr" rid="bib41">Hannun et al., 2001</xref>; <xref ref-type="bibr" rid="bib71">Merrill et al., 2001</xref>; <xref ref-type="bibr" rid="bib79">Prieschl &#x26; Baumruker, 2000</xref>; <xref ref-type="bibr" rid="bib88">Spiegel &#x26; Milstien, 2000</xref>; <xref ref-type="bibr" rid="bib42">Herr et al., 2003</xref>; <xref ref-type="bibr" rid="bib81">Pyne &#x26; Pyne, 2000</xref>). Moreover, sphingolipids serve essential functions both as structural components of cell membranes and as signaling molecules in diverse eukaryotes (<xref ref-type="bibr" rid="bib40">Hannich et al., 2011</xref>). In contrast, the phylogenetic distribution of sphingolipids in bacteria is largely limited to Bacteroidetes and <italic>Sphingomonas</italic>, where their endogenous functions are poorly understood (<xref ref-type="bibr" rid="bib4">An et al., 2011</xref>; <xref ref-type="bibr" rid="bib78">Olsen &#x26; Jantzen, 2001</xref>).
 
@@ -1070,7 +1071,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f003"/>
 </fig>
 
-<fig id="sfig2" position="margin">
+<fig id="sfig2" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.007</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 1</label>
 <caption>
@@ -1080,7 +1081,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs002"/>
 </fig>
 
-<fig id="sfig3" position="margin">
+<fig id="sfig3" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.008</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 2</label>
 <caption>
@@ -1090,7 +1091,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs003"/>
 </fig>
 
-<fig id="sfig4" position="margin">
+<fig id="sfig4" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.009</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 3</label>
 <caption>
@@ -1102,7 +1103,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs004"/>
 </fig>
 
-<fig id="sfig5" position="margin">
+<fig id="sfig5" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 4</label>
 <caption>
@@ -1114,7 +1115,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs005"/>
 </fig>
 
-<fig id="sfig6" position="margin">
+<fig id="sfig6" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.011</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 5</label>
 <caption>
@@ -1124,7 +1125,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs006"/>
 </fig>
 
-<fig id="sfig7" position="margin">
+<fig id="sfig7" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.012</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 6</label>
 <caption>
@@ -1137,7 +1138,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs007"/>
 </fig>
 
-<fig id="sfig8" position="margin">
+<fig id="sfig8" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.013</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 7</label>
 <caption>
@@ -1148,7 +1149,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs008"/>
 </fig>
 
-<fig id="sfig9" position="margin">
+<fig id="sfig9" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.014</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 8</label>
 <caption>
@@ -1158,7 +1159,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs009"/>
 </fig>
 
-<fig id="sfig10" position="margin">
+<fig id="sfig10" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.015</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 9</label>
 <caption>
@@ -1168,7 +1169,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs010"/>
 </fig>
 
-<fig id="sfig11" position="margin">
+<fig id="sfig11" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.016</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 10</label>
 <caption>
@@ -1178,7 +1179,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs011"/>
 </fig>
 
-<fig id="sfig12" position="margin">
+<fig id="sfig12" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.017</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 11</label>
 <caption>
@@ -1190,7 +1191,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs012"/>
 </fig>
 
-<fig id="sfig13" position="margin">
+<fig id="sfig13" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.018</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 12</label>
 <caption>
@@ -1206,7 +1207,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs013"/>
 </fig>
 
-<fig id="sfig14" position="margin">
+<fig id="sfig14" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.019</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 13</label>
 <caption>
@@ -1222,7 +1223,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs014"/>
 </fig>
 
-<fig id="sfig15" position="margin">
+<fig id="sfig15" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.020</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 14</label>
 <caption>
@@ -1232,7 +1233,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs015"/>
 </fig>
 
-<fig id="sfig16" position="margin">
+<fig id="sfig16" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.021</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 15</label>
 <caption>
@@ -1406,7 +1407,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f004"/>
 </fig>
 
-<fig id="sfig17" position="margin">
+<fig id="sfig17" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.024</object-id>
 <label>Fig. 4&#x2013; Figure Supplement 1</label>
 <caption>
