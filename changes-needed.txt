@@ -4,7 +4,9 @@
 - include identifiers in abstract @done
 - figure out how to hide author names as "group authors"
 - make decision on data statement tagging @done 
-- make decision on sub-image tagging
+- make decision on sub-image tagging @done 
 - review issue around identifiers in sub-articles - this really seems to be an error in the PMC previewer.
 - keywords are repeated in the executive summary 
-- spacing issue in data statement
+- spacing issue in data statement. 
+- object ids do not appear in figures. 
+- figure order is odd. 
