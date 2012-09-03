@@ -268,18 +268,6 @@
 	<related-article related-article-type="in-this-issue" ext-link-type="doi" xlink:href="10.7554/eLife.000007" id="ra1">XXX</related-article>
 
 
-	<kwd-group>
-	<kwd>Salpingoeca rosetta</kwd>
-	<kwd>Algoriphagus</kwd>
-	<kwd>bacterial sulfonolipid</kwd>
-	<kwd>multicellular development</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="research-organism">
-	<kwd>Other</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="major-subject-area">
-	<kwd>Cell biology</kwd>
-	</kwd-group>
 
 
 <abstract>
@@ -343,6 +331,20 @@
 
 	<p>The work of Alegado <italic>et al.</italic> suggests that interactions between <italic>S. rosetta</italic> and <italic>Algoriphagus</italic> bacteria could be a productive model system for studying the influences of bacteria on animal cell biology and for investigating the mechanisms of signal delivery and reception. Moreover, the molecular mechanisms revealed by this work leave open the possibility that bacteria might have contributed to the evolution of multicellularity in animals.</p>
 	</abstract>
+
+	<kwd-group>
+	<kwd>Salpingoeca rosetta</kwd>
+	<kwd>Algoriphagus</kwd>
+	<kwd>bacterial sulfonolipid</kwd>
+	<kwd>multicellular development</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="research-organism">
+	<kwd>Other</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="major-subject-area">
+	<kwd>Cell biology</kwd>
+	</kwd-group>
+
 
 
 <funding-group>
