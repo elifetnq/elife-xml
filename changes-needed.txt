@@ -6,3 +6,4 @@
 - make decision on data statement tagging
 - make decision on sub-image tagging
 - review issue around identifiers in sub-articles
+- keywords are repeated in the executive summary 
