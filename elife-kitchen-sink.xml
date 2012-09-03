@@ -3450,58 +3450,45 @@
 </ref-list>
 </back>
 
-<sub-article article-type="decision-letter" id="s025">
-
-<front-stub>
-<journal-meta>
-	<journal-id journal-id-type="nlm-ta">eLife</journal-id>
-	<journal-id journal-id-type="hwp">eLife</journal-id>
-	<journal-id journal-id-type="publisher-id">eLife</journal-id>
-	<journal-title-group>
-	<journal-title>eLife</journal-title>
-	</journal-title-group>
-	<issn pub-type="epub">2050-084X</issn>
-	<publisher>
-	<publisher-name>elife Sciences Publications, Ltd</publisher-name>
-	</publisher>
-</journal-meta>
-	
-<article-id pub-id-type="doi">10.7554/eLife.00013.025</article-id>
-<title-group>
-<article-title>Decision letter</article-title>
-</title-group>
-</front-stub>
-
+<sub-article article-type="article-commentary" id="SA1">
+    <front-stub>
+        <title-group><article-title>Decision letter</article-title></title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Editor</surname>
+              <given-names>One</given-names>
+            </name>
+            <aff>Susan E. Kirk, MD, is Assistant Professor in Internal Medicine and Obstetrics and
+              Gynecology, Division of Endocrinology and Metabolism, University of Virginia Health
+              System, Charlottesville, VA.</aff>
+          </contrib>
+        </contrib-group>
+         <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Senior Editor</surname>
+              <given-names>Two</given-names>
+            </name>
+            <aff>Susan E. Kirk, MD, is Assistant Professor in Internal Medicine and Obstetrics and
+              Gynecology, Division of Endocrinology and Metabolism, University of Virginia Health
+              System, Charlottesville, VA.</aff>
+          </contrib>
+        </contrib-group>
+    </front-stub>
 <body>
 <p>This paper reports that a bacterial sulfonolipid is able to induce colony development in a choanoflagellate. The active compound, which is produced by the bacterium in tiny amounts, turns out to be active in femtomolar concentrations. Its structure (but not its stereochemistry) is determined on the basis of extensive mass spectrometric and NMR analysis. This is a beautiful piece of work, demonstrating that this sulfonolipid produced by bacteria upon which the choanoflagellate feeds has a profound influence on the predator&#x27;s development.</p>
 <p>Specifically, a particular choanoflagellate species will form rosettes, i.e., become multicellular, when certain species of Bacteroidetes are present. The researchers went on to purify and characterize the bacterial molecule responsible for this behavior in the protist. The findings should be of broad interest to the community of biologists, as it includes elements of microbiology, signaling between bacterial and eukaryotic cells that is based on molecules not before known to carry out this function, and the evolution of multicellularity in the sister group to the animals, the choanoflagellates. The work represents a major contribution to concepts about the mechanisms that may have been in play when the evolutionary step to multicellularity took place &#x223c; a billion years ago.The paper has implications regarding the development of eukaryotic multicellularity. The signal, a bacterial sulfonolipid, is active at remarkably low concentrations.The fmolar activity of the signal seems extraordinary. Could the authors comment in the manuscript how this compares to other ultrasensitive receptors. Are there any described receptors that are more sensitive?The potency of the pure compound compared to the crude extracts is low. This received comment in the manuscript. The authors conclude that it is how the signal is delivered-as a pure relatively hydrophobic compound vs in the context of the bacterial membrane. This is one possibility. It could also be that there is a second signal required for full potency- one that is inactive in the absence of sulfonolipid. We don&#x27;t know yet about the receptors. Did the authors try any kind of reconstitution experiments that might speak to the hypothesis that potency of sulfonolipids is dependent on the context of delivery? One shortcoming in this work, from an organic chemist&#x27;s point of view, is that the three-dimensional structure of the signalling molecule has not been defined. With four asymmetric centers in the structure, that means that the active molecule is one of sixteen stereochemical possibilities. So, there is more to be done, and if this research group does not do it quickly, some other organic chemical research group will certainly do it for them!</p>
 </body>
-</sub-article>
+  </sub-article>
 
-<sub-article article-type="reply" id="s026">
+  <sub-article article-type="reply" id="s026">
 
 
 <front-stub>
-<journal-meta>
-	<journal-id journal-id-type="nlm-ta">eLife</journal-id>
-	<journal-id journal-id-type="hwp">eLife</journal-id>
-	<journal-id journal-id-type="publisher-id">eLife</journal-id>
-	<journal-title-group>
-	<journal-title>eLife</journal-title>
-	</journal-title-group>
-	<issn pub-type="epub">2050-084X</issn>
-	<publisher>
-	<publisher-name>elife Sciences Publications, Ltd</publisher-name>
-	</publisher>
-</journal-meta>
-
-<article-id pub-id-type="doi">10.7554/eLife.00013.026</article-id>
 <title-group>
 <article-title>Author letter</article-title>
 </title-group>
-
-
-
 </front-stub>
 
 <body>
