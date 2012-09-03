@@ -3557,6 +3557,7 @@
 <sub-article article-type="article-commentary" id="SA1">
 
     <front-stub>
+    		<article-id pub-id-type="doi">10.7554/eLife.00013.90a9sd9fa</article-id>
         <title-group><article-title>Decision letter</article-title></title-group>
 
 	<contrib-group>
@@ -3607,10 +3608,8 @@
   </sub-article>
 
   <sub-article article-type="reply" id="s026">
-
-
-
 <front-stub>
+		<article-id pub-id-type="doi">10.7554/eLife.00013.0999u0</article-id>
 <title-group>
 <article-title>Author letter</article-title>
 </title-group>
