@@ -3453,6 +3453,19 @@
 <sub-article article-type="decision-letter" id="s025">
 
 <front-stub>
+<journal-meta>
+	<journal-id journal-id-type="nlm-ta">eLife</journal-id>
+	<journal-id journal-id-type="hwp">eLife</journal-id>
+	<journal-id journal-id-type="publisher-id">eLife</journal-id>
+	<journal-title-group>
+	<journal-title>eLife</journal-title>
+	</journal-title-group>
+	<issn pub-type="epub">2050-084X</issn>
+	<publisher>
+	<publisher-name>elife Sciences Publications, Ltd</publisher-name>
+	</publisher>
+</journal-meta>
+	
 <article-id pub-id-type="doi">10.7554/eLife.00013.025</article-id>
 <title-group>
 <article-title>Decision letter</article-title>
@@ -3469,10 +3482,26 @@
 
 
 <front-stub>
+<journal-meta>
+	<journal-id journal-id-type="nlm-ta">eLife</journal-id>
+	<journal-id journal-id-type="hwp">eLife</journal-id>
+	<journal-id journal-id-type="publisher-id">eLife</journal-id>
+	<journal-title-group>
+	<journal-title>eLife</journal-title>
+	</journal-title-group>
+	<issn pub-type="epub">2050-084X</issn>
+	<publisher>
+	<publisher-name>elife Sciences Publications, Ltd</publisher-name>
+	</publisher>
+</journal-meta>
+
 <article-id pub-id-type="doi">10.7554/eLife.00013.026</article-id>
 <title-group>
 <article-title>Author letter</article-title>
 </title-group>
+
+
+
 </front-stub>
 
 <body>
