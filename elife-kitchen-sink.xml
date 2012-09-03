@@ -147,9 +147,61 @@
 <back>
 
 <fn-group>
-<fn fn-type="con">
-<label>Author Contributions</label><p>MCS: Conception and design of experiments, acquisition of data, analysis and interpretation of data, drafting and revising the article</p><p>KB: Conception and design of experiments, acquisition of data, analysis and interpretation of data, revising the article</p><p>ITB:Conception and design of experiments, acquisition of data, analysis and interpretation of data, drafting and revising the article.</p></fn>
+<title>&#x2020;Current address</title>
+<fn fn-type="present-address" id="pa1">
+<label>a</label>
+<p>Department of Wellcome Trust, Sanger Institute, London, UK</p>
+</fn>
+<fn fn-type="present-address" id="pa2">
+<label>b</label>
+<p>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, United States</p>
+</fn>
 </fn-group>
+
+<fn-group>
+<title>Author Contributions</title>
+<fn fn-type="con" id="con1">
+<label>RA:</label>
+<p>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+</fn>
+<fn fn-type="con" id="con2">
+<label>LB:</label>
+<p>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+</fn>
+<fn fn-type="con" id="con3">
+<label>SC:</label>
+<p>Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+</fn>
+<fn fn-type="con" id="con4">
+<label>RD:</label>
+<p>Acquisition of data, Analysis and interpretation of data</p>
+</fn>
+<fn fn-type="con" id="con5">
+<label>RZ:</label>
+<p>Acquisition of data, Analysis and interpretation of data</p>
+</fn>
+<fn fn-type="con" id="con6">
+<label>SF:</label>
+<p>Acquisition of data, Analysis and interpretation of data</p>
+</fn>
+<fn fn-type="con" id="con7">
+<label>JC:</label>
+<p>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
+</fn>
+<fn fn-type="con" id="con8">
+<label>NK:</label>
+<p>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
+</fn>
+</fn-group>
+
+<fn-group>
+<title>Competing interests</title>
+<fn fn-type="conflict" id="conf1">
+<label>JC:</label>
+<p>Is one of <italic>eLife&#x27;s</italic> Reviewing Editors.</p>
+</fn>
+</fn-group>
+
 
 <fn-group>
 <title>Ethics statement</title>
