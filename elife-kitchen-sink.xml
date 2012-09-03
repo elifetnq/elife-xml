@@ -269,13 +269,61 @@
 
 <abstract>
 	<p>Bacterially-produced small molecules exert profound influences on animal health, morphogenesis, and evolution through poorly understood mechanisms. In one of the closest living relatives of animals, the choanoflagellate <italic>Salpingoeca rosetta</italic>, we find that colony development is induced by the prey bacterium <italic>Algoriphagus machipongonensis</italic> and its close relatives in the Bacteroidetes phylum. Here we show that a rosette inducing factor (RIF-1) produced by <italic>A. machipongonensis</italic> belongs to the small class of sulfonolipids, obscure relatives of the better known sphingolipids that play important roles in signal transmission in plants, animals and fungi. RIF-1 has extraordinary potency (femtomolar, or 10<sup>&#x2212;15</sup> M) and <italic>S. rosetta</italic> can respond to it over a broad dynamic range &#x2013; nine orders of magnitude. This study provides a prototypical example of bacterial sulfonolipids triggering eukaryotic morphogenesis and suggests molecular mechanisms through which bacteria may have contributed to the evolution of animals.</p>
+<p>
+	<mml:math>
+<mml:semantics>
+<mml:mrow>
+<mml:munder>
+<mml:mo>&sum;</mml:mo>
+<mml:mi>m</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mover accent='true'>
+<mml:mi>p</mml:mi>
+<mml:mo>&dot;</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:mrow>
+</mml:semantics>
+</mml:math>
+</p>
+
 	</abstract>
 
 <abstract abstract-type="executive-summary">
 	<title>eLife digest</title>
 	<p>Humans and other animals evolved in a world filled with bacteria, and bacteria have influenced the evolution of animals and humans. Although bacteria are most familiar as pathogens, they also produce small molecules that animals and other eukaryotes need, although the details of these beneficial effects are not well understood.</p>
 	<p>The choanoflagellates are water-dwelling organisms that use their whip-like flagella to move around, feeding on bacteria. They can exist as one cell or a colony of multiple cells and, perhaps surprisingly, are the closest known living relatives of animals. This means that experiments on these organisms have the potential to improve our understanding of animal development and the transition from egg to embryo to adult.</p>
-	<p>Alegado <italic>et al.</italic> have explored how the morphology of <italic>Salpingoeca rosetta,</italic> a colony-forming choanoflagellate, is influenced by its interactions with various species of bacteria. In particular, they find that the development of multicellularity in <italic>S. rosetta</italic> is triggered by the presence of the bacterium <italic>Algoriphagus machipongonensis</italic> as well as its close relatives. They also identify the signaling molecule produced by the bacteria to be C<sub>32</sub>H<sub>64</sub>NO<sub>7</sub>S; this lipid molecule is an obscure relative of the sphingolipid molecules that have important roles in signal transmission in animals, plants, and fungi. Moreover, Alegado <italic>et al.</italic> show that <italic>S. rosetta</italic> can respond to this molecule &#x2013; which they call rosette-inducing factor (RIF-1) &#x2013; over a wide range of concentrations, including concentrations as low as 10<sup>&#x2212;17</sup> M.</p>
+	<p>Alegado <italic>et al.</italic> have explored how the morphology of <italic>Salpingoeca rosetta,</italic> a colony-forming choanoflagellate, is influenced by its interactions with various species of bacteria. In particular, they find that the development of multicellularity in <italic>S. rosetta</italic> is triggered by the presence of the bacterium <italic>Algoriphagus machipongonensis</italic> as well as its close relatives. They also identify the signaling molecule produced by the bacteria to be C<sub>32</sub>H<sub>64</sub>NO<sub>7</sub>S; this lipid molecule is an obscure relative of the sphingolipid molecules that have important roles in signal transmission in animals, plants, and fungi. Moreover, Alegado <italic>et al.</italic> show that <italic>S. rosetta</italic> can respond to this molecule &#x2013; which they call rosette-inducing factor (RIF-1) &#x2013; over 	 a wide range of concentrations, including concentrations as low as 10<sup>&#x2212;17</sup> M.</p>
+<p>
+	<mml:math>
+<mml:semantics>
+<mml:mrow>
+<mml:munder>
+<mml:mo>&sum;</mml:mo>
+<mml:mi>m</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mover accent='true'>
+<mml:mi>p</mml:mi>
+<mml:mo>&dot;</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:mrow>
+</mml:semantics>
+</mml:math>
+</p>
+
 	<p>The work of Alegado <italic>et al.</italic> suggests that interactions between <italic>S. rosetta</italic> and <italic>Algoriphagus</italic> bacteria could be a productive model system for studying the influences of bacteria on animal cell biology and for investigating the mechanisms of signal delivery and reception. Moreover, the molecular mechanisms revealed by this work leave open the possibility that bacteria might have contributed to the evolution of multicellularity in animals.</p>
 	</abstract>
 
@@ -443,6 +491,19 @@
 </p>
 </caption>
 </media>
+
+<media id="jmol1" xlink:role="media-player-id" content-type="play-in-place height-250 width-310" xlink:href="00013jmol1">
+<object-id pub-id-type="doi">10.7554/eLife.00013.02342</object-id>
+<label>Molecule 1.</label>
+<caption>
+<p>This is an example of a payload containing a molecule.</p>
+<p>
+<ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol">https://www.dropbox.com/s/yqgeotanxf81t8r/mol.jmol</ext-link>
+</p>
+</caption>
+</media>
+
+
 <table-wrap id="tbl1" position="float">
 <object-id pub-id-type="doi">10.7554/eLife.00013.003</object-id>
 <label>Table 1.</label>
@@ -1382,6 +1443,31 @@
 </sec>
 <sec id="sec1-8">
 <title>Activity profile of RIF-1</title>
+
+<p>
+	<mml:math>
+<mml:semantics>
+<mml:mrow>
+<mml:munder>
+<mml:mo>&sum;</mml:mo>
+<mml:mi>m</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mover accent='true'>
+<mml:mi>p</mml:mi>
+<mml:mo>&dot;</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:mrow>
+</mml:semantics>
+</mml:math>
+</p>
+
 <p>The potency of pure RIF-1 was determined using the quantitative bioassay for rosette colony development. Briefly, 100 ug of pure RIF-1 was solubilized in 100 ul DMSO and this 1 g L<sup>&#x2212;1</sup> stock was stored at -80 &#xb0;C. For each experiment, serial dilutions ranging from 10<sup>&#x2212;1</sup> g L<sup>&#x2212;1</sup> down to 10<sup>&#x2212;17</sup> g L<sup>&#x2212;1</sup> were made in DMSO. 2 &#x3bc;L of each dilution was premixed with 1 mL of fresh cereal grass infused seawater (<xref ref-type="bibr" rid="bib52">King et al., 2003</xref>) to avoid precipitation of RIF-1 and the premixed RIF-1 dilution was then added to 1 mL RCA cultures to yield final concentrations ranging from 10<sup>&#x2212;3</sup> g L<sup>&#x2212;1</sup> to 10<sup>&#x2212;20</sup> g L<sup>&#x2212;1</sup>, equivalent to 1.6 x 10<sup>9</sup> fM down to 1.6 x 10<sup>&#x2212;8</sup> fM. The percentage of rosette colonial cells was determined as described above in three independent cell lines in triplicate. From the percent rosette colony development, a bell-shaped dose-response model was determined to be the nonlinear regression curve of best fit determined using GraphPad Prism 5 statistical software.</p>
 </sec>
 </sec>
