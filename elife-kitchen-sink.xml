@@ -1613,91 +1613,25 @@
 </fn-group>
 
 
-
 <fn-group>
 <title>Funding Information</title>
 <fn fn-type="other">
-	<funding-group>
-	<award-group id="par-2">
-	<funding-source>National Institutes of Health</funding-source>
-	<award-id>F32 GM086054</award-id>
-	<principal-award-recipient>
-	<institution>
-	</institution>
-	<name>
-	<surname>Alegado</surname>
-	<given-names>Rosanna A.</given-names>
-	</name>
-	</principal-award-recipient>
-	</award-group>
-	</funding-group>
-
-	<funding-group>
-	<award-group id="par-3">
-	<funding-source>National Institutes of Health</funding-source>
-	<award-id>F32 GM089018</award-id>
-	<principal-award-recipient>
-	<institution>
-	</institution>
-	<name>
-	<surname>Brown</surname>
-	<given-names>Laura W.</given-names>
-	</name>
-	</principal-award-recipient>
-	</award-group>
-	</funding-group>
-
-	<funding-group>
-	<award-group id="par-4">
-	<funding-source>National Institutes of Health</funding-source>
-	<award-id>R01 GM086258</award-id>
-	<principal-award-recipient>
-	<institution>
-	</institution>
-	<name>
-	<surname>Clardy</surname>
-	<given-names>Jon</given-names>
-	</name>
-	</principal-award-recipient>
-	</award-group>
-	</funding-group>
-
-	<funding-group>
-	<award-group id="par-5">
-	<funding-source>National Institutes of Health</funding-source>
-	<award-id>R01 GM099533</award-id>
-	<principal-award-recipient>
-	<institution>
-	</institution>
-	<name>
-	<surname>Clardy</surname>
-	<given-names>Jon</given-names>
-	</name>
-	<name>
-	<surname>King</surname>
-	<given-names>Nicole</given-names>
-	</name>
-	</principal-award-recipient>
-	</award-group>
-	</funding-group>
-
-	<funding-group>
-	<award-group id="par-6">
-	<funding-source>National Institutes of Health</funding-source>
-	<award-id>T32 HG00047</award-id>
-	<principal-award-recipient>
-	<name>
-	<surname>Fairclough</surname>
-	<given-names>Stephen R.</given-names>
-	</name>
-	</principal-award-recipient>
-	</award-group>
-	</funding-group>
-
-	<funding-statement>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</funding-statement>
+	<p>The authors of this paper were supported through the following grants<p>
+	<p>RA: National Institutes of Health F32 GM086054</p>
+	<p>LB: National Institutes of Health F32 GM089018</p>
+	<p>JC: National Institutes of Health R01 GM086258</p>
+	<p>NK, JC: National Institutes of Health R01 GM099533</p>
+	<p>FS: National Institutes of Health T32 HG00047</p>
 </fn>
 </fn-group>
 
+
+<fn-group>
+	<title>Funding Statement</title>
+	<fn type="other">
+		<p>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</p>
+	</fn>
+</fn-group>
 
 <ack id="ack">
 <title>Acknowledgements</title>
