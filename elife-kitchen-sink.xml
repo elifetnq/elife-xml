@@ -128,12 +128,32 @@
 <funding-group>
 <funding-statement>Funding information All funding was provided by the Max Planck Society, which was not involved in the design of the study, collection or analysis and interpretation of data, nor in the decision to submit this study to eLIFE.</funding-statement>
 </funding-group>
+
 <custom-meta-group>
 <custom-meta>
 <meta-name>Data statement and reporting standards</meta-name>
 <meta-value>All data will first be deposited to an institute server, and we will consider also depositing it with Dryad.</meta-value>
 </custom-meta>
+	<custom-meta specific-use="meta-only">
+	<meta-name>author-impact-statement</meta-name>
+	<meta-value>
+	<fn fn-type="other">
+	<label>Author Impact Statement</label>
+	<p>The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules</p>
+	</fn>
+	</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
+	<meta-name>editor-impact-statement</meta-name>
+	<meta-value>
+	<fn fn-type="other">
+	<label>Editor Impact Statement</label>
+	<p>The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules</p>
+	</fn>
+	</meta-value>
+	</custom-meta>
 </custom-meta-group>
+	
 </article-meta>
 </front>
 
