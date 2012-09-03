@@ -1491,7 +1491,7 @@
 <sec sec-type="datasets">
 	<title>Dataset</title>
 	<p>The following datasets were generated</p>
-	<related-object content-type="generated-dataset" id="ro1" document-id="Dataset ID and/or url">
+	<related-object content-type="generated-dataset" id="dataro1" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
 	<name>
 	<surname>Alegado</surname>
 	<given-names>Rosanna A</given-names>
@@ -1501,7 +1501,7 @@
 	<comment>Database, license, and accessibility information</comment>
 	</related-object>
 	<p>The following are previously published datasets</p>
-	<related-object content-type="generated-dataset" id="ro2" document-id="Dataset ID and/or url">
+	<related-object content-type="generated-dataset" id="dataro2" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
 	<name>
 	<surname>Fowler-Finn</surname>
 	<given-names>KD</given-names>
