@@ -430,6 +430,7 @@
 	</name>
 	</principal-award-recipient>
 	</award-group>
+
 	<funding-statement>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</funding-statement>
 	</funding-group>
 
@@ -3541,28 +3542,47 @@
 <sub-article article-type="article-commentary" id="SA1">
     <front-stub>
         <title-group><article-title>Decision letter</article-title></title-group>
-        <contrib-group>
-          <contrib contrib-type="author">
-            <name>
-              <surname>Editor</surname>
-              <given-names>One</given-names>
-            </name>
-            <aff>Susan E. Kirk, MD, is Assistant Professor in Internal Medicine and Obstetrics and
-              Gynecology, Division of Endocrinology and Metabolism, University of Virginia Health
-              System, Charlottesville, VA.</aff>
-          </contrib>
-        </contrib-group>
-         <contrib-group>
-          <contrib contrib-type="author">
-            <name>
-              <surname>Senior Editor</surname>
-              <given-names>Two</given-names>
-            </name>
-            <aff>Susan E. Kirk, MD, is Assistant Professor in Internal Medicine and Obstetrics and
-              Gynecology, Division of Endocrinology and Metabolism, University of Virginia Health
-              System, Charlottesville, VA.</aff>
-          </contrib>
-        </contrib-group>
+
+	<contrib-group>
+
+	<contrib contrib-type="editor">
+	<name>
+	<surname>Handling</surname>
+	<given-names>Editor</given-names>
+	</name>
+	<role>Editor</role>
+	</contrib>
+	<aff>
+	<institution>Pediatric Dengue Vaccine Initiative</institution>, <country>United States of America</country>
+	</aff>
+	</contrib-group>
+
+	<contrib-group>
+	<contrib contrib-type="reviewer">
+	<name>
+	<surname>Reviewer</surname>
+	<given-names>One</given-names>
+	</name>
+	<role>Reviewer</role>
+	</contrib>
+	<aff>
+	<institution>Pediatric Dengue Vaccine Initiative</institution>, <country>United States of America</country>
+	</aff>
+	</contrib-group>
+
+	<contrib-group>
+	<contrib contrib-type="reviewer">
+	<name>
+	<surname>Reviewer</surname>
+	<given-names>Two</given-names>
+	</name>
+	<role>Reviewer</role>
+	</contrib>
+	<aff>
+	<institution>Pediatric Dengue Vaccine Initiative</institution>, <country>United States of America</country>
+	</aff>
+	</contrib-group>
+
     </front-stub>
 <body>
 <p>This paper reports that a bacterial sulfonolipid is able to induce colony development in a choanoflagellate. The active compound, which is produced by the bacterium in tiny amounts, turns out to be active in femtomolar concentrations. Its structure (but not its stereochemistry) is determined on the basis of extensive mass spectrometric and NMR analysis. This is a beautiful piece of work, demonstrating that this sulfonolipid produced by bacteria upon which the choanoflagellate feeds has a profound influence on the predator&#x27;s development.</p>
