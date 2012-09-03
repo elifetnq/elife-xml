@@ -1628,7 +1628,7 @@
 
 <fn-group>
 	<title>Funding Statement</title>
-	<fn type="other">
+	<fn fn-type="other">
 		<p>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</p>
 	</fn>
 </fn-group>
