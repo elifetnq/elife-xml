@@ -82,38 +82,40 @@
 </fn>
 </author-notes>
 
-<pub-date pub-type="epub">
-<day>01</day>
-<month>07</month>
-<year>2012</year>
-</pub-date>
-<pub-date pub-type="collection">
-<year>2012</year>
-</pub-date>
-<volume>0</volume>
-<elocation-id>7</elocation-id>
+	<pub-date pub-type="epub">
+	<day>31</day><month>08</month><year>2012</year>
+	</pub-date>
+	<pub-date pub-type="collection">
+	<year>2012</year>
+	</pub-date>
+	<volume>1</volume>
+	<elocation-id>13</elocation-id>
 
-<history>
-<date date-type="received">
-<day>7</day>
-<month>5</month>
-<year>2012</year>
-</date>
-<date date-type="accepted">
-<day>11</day>
-<month>7</month>
-<year>2012</year>
-</date>
-</history>
+	<history>
+	<date date-type="received">
+	<day>22</day>
+	<month>06</month>
+	<year>2012</year>
+	</date>
+	<date date-type="accepted">
+	<day>18</day>
+	<month>07</month>
+	<year>2012</year>
+	</date>
+	</history>
 
-<permissions>
-<copyright-statement>Copyright &#x00A9; 2012, Schuman et al.</copyright-statement>
-<copyright-year>2012</copyright-year>
-<copyright-holder>Schuman et al.</copyright-holder>
-<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
-<license-p>This work is licensed under a Creative Commons Attribution 3.0 Unported License. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
-</license>
-</permissions>
+	<permissions>
+	<copyright-statement>Copyright &#xa9; 2012, Alegado et al</copyright-statement>
+	<copyright-year>2012</copyright-year>
+	<copyright-holder>Alegado et al</copyright-holder>
+	<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+	<license-p>This work is licensed under a Creative Commons Attribution 3.0 Unported License. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+	</license>
+	</permissions>
+
+	<self-uri xlink:title="pdf" xlink:href="elife00013.pdf"/>
+	<related-article related-article-type="in-this-issue" ext-link-type="doi" xlink:href="10.7554/eLife.000007" id="ra1">XXX</related-article>
+
 
 <abstract>
 <p>From </p>
