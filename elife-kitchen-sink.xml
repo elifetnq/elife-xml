@@ -1615,6 +1615,7 @@
 <fn-group>
 <title>Funding Information</title>
 <fn fn-type="other">
+	<funding-group>
 	<award-group id="par-2">
 	<funding-source>National Institutes of Health</funding-source>
 	<award-id>F32 GM086054</award-id>
@@ -1689,6 +1690,7 @@
 	</name>
 	</principal-award-recipient>
 	</award-group>
+	</funding-group>
 
 	<funding-statement>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</funding-statement>
 </fn>
