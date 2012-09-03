@@ -1,0 +1,8 @@
+# Changes/Issues that need to be addressed
+
+- replace JMOL tagging with suggestion from HW
+- include identifiers in abstract
+- figure out how to hide author names as "group authors"
+- make decision on data statement tagging
+- make decision on sub-image tagging
+- review issue around identifiers in sub-articles
