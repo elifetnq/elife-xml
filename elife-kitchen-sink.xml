@@ -408,10 +408,981 @@
 </front>
 
 <body>
+<p>Eukaryotes evolved in a world filled with bacteria and throughout their shared history these two branches of life have developed a complex set of ways to compete and cooperate with each other. While research on these interactions has historically emphasized bacterial pathogens, bacteria also regulate the biology of eukaryotes in many other ways (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>) and may have exerted critical influences on animal evolution. Choanoflagellates, microscopic bacteria-eating eukaryotes that are the closest living relatives of animals, could provide particularly important insights into the mechanisms underlying bacterial influences on animal biology and evolution (<xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>). Moreover, some choanoflagellates have both solitary and multicellular stages in their life histories (<xref ref-type="bibr" rid="bib61">Leadbeater, 1983</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib49">Karpov &#x26; Coupe, 1880</xref>) and understanding the environmental cues that regulate choanoflagellate colony formation could provide a molecular model for animal multicellularity.</p>
+<p>In the choanoflagellate <italic>Salpingoeca rosetta</italic>, rosette-shaped multicellular colonies develop when a single founder cell undergoes multiple rounds of incomplete cytokinesis, leaving neighboring cells physically attached by fine intercellular bridges (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>). Although the original stock of <italic>S. rosetta</italic> (ATCC50818) was established from a rosette colony (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>), laboratory cultures consistently produced single cells, with small numbers of rosette colonies forming only sporadically (<xref ref-type="fig" rid="fig1">Figure 1A</xref>, <xref ref-type="fig" rid="sfig1">Fig. 1 - Figure Supplement 1</xref>). Serendipitously, we discovered that the bacterial community influences rosette colony development. Treatment of the ATCC50818 culture with an antibiotic cocktail resulted in a culture of <italic>S. rosetta</italic> cells that proliferated robustly by feeding on the remaining antibiotic-resistant bacteria but never formed rosette colonies, even upon removal of antibiotics (<xref ref-type="fig" rid="fig1">Figure 1B</xref>). This culture line is hereafter referred to as RCA (for &#x27;Rosette Colonies Absent&#x27;). Supplementation of RCA cultures with bacteria from ATCC50818 (<xref ref-type="table" rid="tbl1">Table 1</xref>) restored rosette colony development, revealing that <italic>S. rosetta</italic> cells in the RCA culture remained competent to form colonies and would do so when stimulated by the original community of environmental bacteria (<xref ref-type="other" rid="video1">Video 1</xref>).<fig-group>
+<fig id="fig1" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.001</object-id>
+<label>Fig. 1</label>
+<caption>
 <p>
-	Hi
-</p>
+<bold>Rosette colony development in <italic>S. rosetta</italic> is regulated by <italic>A. machipongonensis</italic>. A</bold>. The original culture of <italic>S. rosetta</italic>, ATCC 50818, contains diverse co-isolated environmental bacteria and forms rosette colonies (arrowheads) rarely. <bold>B</bold>. Treatment of ATCC50818 with a cocktail of antibiotics reduced the bacterial diversity and yielded an <italic>S. rosetta</italic> culture line, RCA, in which rosette colonies never formed. (Representative single cells indicated by arrows.) <bold>C</bold>. Addition of <italic>A. machipongonensis</italic> to RCA cultures was sufficient to induce rosette development. Scale bar, 20 &#x3bc;m.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f001"/>
+</fig>
 
+<fig id="sfig1">
+<object-id pub-id-type="doi">10.7554/eLife.00013.002</object-id>
+<label>Fig. 1&#x2013; Figure Supplement 1</label>
+<caption>
+<p>
+<bold>Frequency of rosette colonies in <italic>S. rosetta</italic> environmental isolate ATCC 50818, RCA with and without <italic>A. machipongonensis</italic> and a monoxenic line with <italic>A. machipongonensis</italic> feeder bacteria (Px1)</bold>. Altering bacterial diversity in <italic>S. rosetta</italic> cultures alters the frequency of rosette colonies. Data are the whisker-box plots of the frequency of colonial cells in ATCC 50818 and a monoxenic culture of <italic>S. rosetta</italic> fed only <italic>A. machipongonensis</italic> bacteria (Px1) for three experiments.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs001"/>
+</fig>
+</fig-group>
+
+<media id="video1" xlink:role="media-player-id" content-type="play-in-place height-250 width-310" xlink:href="00013vid1">
+<object-id pub-id-type="doi">10.7554/eLife.00013.027</object-id>
+<label>Video 1.</label>
+<caption>
+<p>On-plant assay, plant 7u, WT, 18th June 2011.</p>
+<p>
+<ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/Video%20S1.AVI">https://www.dropbox.com/s/yqgeotanxf81t8r/Video%20S1.AVI</ext-link>
+</p>
+</caption>
+</media>
+<table-wrap id="tbl1" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.003</object-id>
+<label>Table 1.</label>
+<caption>
+<p>Species tested for colony induction</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<td>Species</td>
+<td>16S rDNA Accession number</td>
+<td>Reference</td>
+<td>Rosette Colonies<xref ref-type="table-fn" rid="tblfn1">&#x2a;</xref>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<italic>Algoriphagus machipongonensis</italic> PR1</td>
+<td>NZ_AAXU00000000</td>
+<td>
+<xref ref-type="bibr" rid="bib3">Alegado et al. (2012)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus alkaliphilus</italic> AC-74</td>
+<td>AJ717393</td>
+<td>
+<xref ref-type="bibr" rid="bib91">Tiago et al. (2006)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus boritolerans</italic> T-22</td>
+<td>AB197852</td>
+<td>
+<xref ref-type="bibr" rid="bib2">Ahmed et al. (2007)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus mannitolivorans</italic> JC2050</td>
+<td>AY264838</td>
+<td>
+<xref ref-type="bibr" rid="bib97">Yi &#x26; Chun (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus marincola</italic> SW-2</td>
+<td>AY533663</td>
+<td>
+<xref ref-type="bibr" rid="bib98">Yoon et al. (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus ornithinivorans</italic> JC2052</td>
+<td>AY264840</td>
+<td>
+<xref ref-type="bibr" rid="bib97">Yi &#x26; Chun (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus vanfongensis</italic> KMM 6241</td>
+<td>EF392675</td>
+<td>
+<xref ref-type="bibr" rid="bib92">Van Trappen et al. (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus antarcticus</italic> LMG 21980</td>
+<td>AJ577141</td>
+<td>
+<xref ref-type="bibr" rid="bib74">Nedashkovskaya et al. (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus aquimarinus</italic> LMG 21971</td>
+<td>AJ575264</td>
+<td>
+<xref ref-type="bibr" rid="bib74">Nedashkovskaya et al. (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus chordae</italic> LMG 21970</td>
+<td>AJ575265</td>
+<td>
+<xref ref-type="bibr" rid="bib74">Nedashkovskaya et al. (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus halophilus</italic> JC2051</td>
+<td>AY264839</td>
+<td>
+<xref ref-type="bibr" rid="bib97">Yi &#x26; Chun (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus locisalis</italic> MSS-170</td>
+<td>AY835922</td>
+<td>
+<xref ref-type="bibr" rid="bib100">Yoon et al. (2005)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus ratkowskyi</italic> LMG 21435</td>
+<td>AJ608641</td>
+<td>
+<xref ref-type="bibr" rid="bib12">Bowman et al. (2003)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus terrigena</italic> DS-44</td>
+<td>DQ178979</td>
+<td>
+<xref ref-type="bibr" rid="bib101">Yoon et al. (2006)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus winogradskyi</italic> LMG 21969</td>
+<td>AJ575263</td>
+<td>
+<xref ref-type="bibr" rid="bib74">Nedashkovskaya et al. (2004)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Algoriphagus yeomjeoni</italic> MSS-160</td>
+<td>AY699794</td>
+<td>
+<xref ref-type="bibr" rid="bib99">Yoon et al. (2005)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Agrobacterium tumefaciens</italic> C58</td>
+<td>AE007870</td>
+<td>
+<xref ref-type="bibr" rid="bib96">Wood et al. (2001)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Aquiflexum balticum</italic> BA160</td>
+<td>AJ744861</td>
+<td>
+<xref ref-type="bibr" rid="bib14">Brettar et al. (2004)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Bacillus subitilis</italic> 168</td>
+<td>AL009126</td>
+<td>
+<xref ref-type="bibr" rid="bib60">Kunst et al. (1997)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Bacteroides fragilis</italic> NCTC9343</td>
+<td>CR626927</td>
+<td>
+<xref ref-type="bibr" rid="bib20">Cerdeno-Tarraga et al. (2005)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Belliella baltica</italic> BA134</td>
+<td>AJ564643</td>
+<td>
+<xref ref-type="bibr" rid="bib15">Brettar et al. (2004)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Caulobacter crescentus</italic> CB15</td>
+<td>AE005673</td>
+<td>
+<xref ref-type="bibr" rid="bib76">Nierman et al. (2001)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Croceibacter atlanticus</italic> HTCC2559</td>
+<td>NR_029064</td>
+<td>
+<xref ref-type="bibr" rid="bib22">Cho &#x26; Giovannoni (2003)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Cyclobacterium marinum</italic> LMG 13164</td>
+<td>AJ575266</td>
+<td>
+<xref ref-type="bibr" rid="bib82">Raj &#x26; Maloy (1990)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Cytophaga hutchinsonii</italic> ATCC 33406</td>
+<td>M58768</td>
+<td>
+<xref ref-type="bibr" rid="bib63">Lewin (1969)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Dyadobacter fermentans</italic> DSM 18053</td>
+<td>NR_027533</td>
+<td>
+<xref ref-type="bibr" rid="bib21">Chelius &#x26; Triplett (2000)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Echinicola pacifica</italic> KMM 6172</td>
+<td>NR_043619</td>
+<td>
+<xref ref-type="bibr" rid="bib75">Nedashkovskaya et al. (2006)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Escherichia coli</italic> MG1655</td>
+<td>U00096</td>
+<td>
+<xref ref-type="bibr" rid="bib10">Blattner et al. (1997)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Flavobacteria johnsoniae</italic> UW101</td>
+<td>CP000685</td>
+<td>
+<xref ref-type="bibr" rid="bib9">Bernardet et al. (1996)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Flectobacillus major</italic> DSM 103</td>
+<td>M62787</td>
+<td>
+<xref ref-type="bibr" rid="bib82">Raj &#x26; Maloy (1990)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Listeria monocytogenes</italic> 10403S</td>
+<td>CP002002</td>
+<td>
+<xref ref-type="bibr" rid="bib30">Edman et al. (1968)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Magnetospirillum magneticum</italic> AMB-1</td>
+<td>AP007255</td>
+<td>
+<xref ref-type="bibr" rid="bib64">Matsunaga et al. (2005)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Microscilla marina</italic> ATCC 23134</td>
+<td>M123134</td>
+<td>
+<xref ref-type="bibr" rid="bib35">Garrity (2010)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Oceanostipes pacificus</italic> HTCC2170</td>
+<td>CP002157</td>
+<td>
+<xref ref-type="bibr" rid="bib77">Oh et al. (2011)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Robigintalea biformata</italic> HTCC2501</td>
+<td>CP001712</td>
+<td>
+<xref ref-type="bibr" rid="bib23">Cho &#x26; Giovannoni (2004)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Salinibacter ruber</italic> DSM13855</td>
+<td>CP000159</td>
+<td>
+<xref ref-type="bibr" rid="bib5">Anton et al. (2002)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Sphingomonas wittichii</italic> RW1</td>
+<td>CP000699</td>
+<td>
+<xref ref-type="bibr" rid="bib72">Miller et al. (2010)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Vibrio fischeri</italic> ES114</td>
+<td>CP000021</td>
+<td>
+<xref ref-type="bibr" rid="bib84">Ruby et al. (2005)</xref>
+</td>
+<td>&#x2212;</td>
+</tr>
+<tr>
+<td>
+<italic>Zobellia galactonovorans</italic> Dsij</td>
+<td>NR_025053</td>
+<td>
+<xref ref-type="bibr" rid="bib8">Barbeyron et al. (2001)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+<tr>
+<td>
+<italic>Zobellia uglinosa</italic> ATCC 14397</td>
+<td>M62799</td>
+<td>
+<xref ref-type="bibr" rid="bib65">Matsuo et al. (2003)</xref>
+</td>
+<td>&#x2b;</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="tblfn1">
+<label>&#x2a;</label>
+<p>no rosette colonies observed, &#x2b; rosette colonies observed</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</p>
+<p>To determine which co-isolated bacterial species stimulate rosette colony development in <italic>S. rosetta</italic>, the RCA cell line was supplemented with 64 independent bacterial isolates from ATCC50818 and monitored for the appearance of rosette colonies. Only one bacterial species from ATCC50818, the previously undescribed <italic>Algoriphagus machipongonensis</italic> (phylum Bacteroidetes) (<xref ref-type="bibr" rid="bib3">Alegado et al., 2012</xref>), induced rosette colony development in the RCA cell line (<xref ref-type="fig" rid="fig1">Figure 1C</xref>). <italic>S. rosetta</italic> cultures fed solely with <italic>A. machipongonensis</italic> yielded high percentages of rosette colonies (<xref ref-type="fig" rid="sfig1">Fig. S1</xref>, <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>), demonstrating that no other co-isolated bacterial species is required to stimulate rosette colony development.</p>
+<p>What was not clear was whether other bacteria might also be competent to induce rosette colony development. Therefore, representative Bacteroidetes and non-Bacteroidetes bacteria were cultured and fed to RCA cultures (<xref ref-type="fig" rid="fig2">Figure 2</xref>, <xref ref-type="table" rid="tbl1">Table 1</xref>). None of the non-Bacteroidetes species tested, including members of the &#x3b3;-proteobacteria, &#x3b1;-proteobacteria<italic>,</italic> and Gram-positive bacteria, were competent to induce rosette colony development. In contrast, all 15 <italic>Algoriphagus</italic> species tested induced rosette colony development, as did six of 16 other closely related species tested in the Bacteroidetes phylum (<xref ref-type="table" rid="tbl1">Table 1</xref>). Therefore, the ability to induce rosette colony development is enriched in <italic>Algoriphagus</italic> bacteria and their relatives.<fig id="fig2" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.004</object-id>
+<label>Fig. 2</label>
+<caption>
+<p>
+<bold>Diverse members of the Bacteroidetes phylum induce rosette colony development</bold>. A maximum likelihood phylogeny inferred from 16S rDNA gene sequences reveals the evolutionary relationships among <italic>A. machipongonensis</italic>, other members of the Bacteroidetes phylum, and representative &#x3b3;-proteobacteria (&#x3b3;)<italic>,</italic> &#x3b1;-proteobacteria (&#x3b1;)<italic>,</italic> and Gram-positive (&#x2b;) bacteria. All 15 members of the <italic>Algoriphagus</italic> genus (<xref ref-type="table" rid="tbl1">Table 1</xref>), as well as six other species in the Bacteroidetes phylum, were competent to induce colony development (filled squares). In contrast, no species outside of Bacteroidetes and most of the non-<italic>Algoriphagus</italic> bacteria tested failed to induce rosette colony development (open squares). Scale bar, 0.1 substitutions per nucleotide position.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"/>
+</fig>
+
+</p>
+<p>Although Bacteroidetes bacteria regulate morphogenetic processes in such diverse lineages as animals, red algae, and green algae (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib80">Provasoli &#x26; Pintner, 1980</xref>; <xref ref-type="bibr" rid="bib66">Matsuo et al., 2005</xref>), the bacterially produced chemical cues that regulate most of these partnerships remain obscure. The limited phylogenetic distribution of bacteria capable of inducing rosette colony development suggested that <italic>A. machipongonensis</italic> and its close relatives may produce a characteristic molecule that could be identified biochemically. The complete absence of rosette colonies in RCA cultures provided the basis for a robust bioassay that we developed to identify the rosette-inducing molecule(s), which we named RIFs (Rosette-Inducing Factors), from <italic>A. machipongonensis</italic> cultures. Preliminary studies demonstrated that RIF activity was present in conditioned medium from <italic>A. machipongonensis,</italic> even when grown in the absence of choanoflagellates. Furthermore, the activity was also found in the <italic>A. machipongonensis</italic> cell envelope and was heat, protease, and nuclease resistant, revealing that the compound is not a protein, RNA, or DNA (<xref ref-type="table" rid="tbl2">Table 2</xref>).<table-wrap id="tbl2" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.005</object-id>
+<label>Table 2.</label>
+<caption>
+<p>Responses of RCA<xref ref-type="table-fn" rid="tblfn2">&#x2a;</xref> culture to various supplements</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<td>Treatment</td>
+<td>Rosette Colonies</td>
+<td>Interpretation</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sea water</td>
+<td>&#x2212;</td>
+<td/>
+</tr>
+<tr>
+<td>CM<sup>
+<xref ref-type="table-fn" rid="tblfn3">&#xa7;</xref>
+</sup> from ATCC50818</td>
+<td>&#x2b;</td>
+<td>RIF-1<xref ref-type="table-fn" rid="tblfn2">&#x2a;</xref> present in environmental isolate ATCC 50818</td>
+</tr>
+<tr>
+<td>CM from RCA</td>
+<td>&#x2212;</td>
+<td>RIF-1<sup>
+<xref ref-type="table-fn" rid="tblfn4">&#x2021;</xref>
+</sup> is absent in RCA lines</td>
+</tr>
+<tr>
+<td>Live <italic>A. machipongonensis</italic> (cell pellet)</td>
+<td>&#x2b;&#x2b;</td>
+<td>RIF-1 is produced by <italic>A. machipongonensis</italic>
+</td>
+</tr>
+<tr>
+<td>Heat killed <italic>A. machipongonensis</italic> (cell pellet)</td>
+<td>&#x2b;&#x2b;</td>
+<td>RIF-1 is resistant to heat</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> CM</td>
+<td>&#x2b;</td>
+<td>RIF-1 is released by live <italic>Algoriphagus</italic>
+</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> CM, boiled 10 min</td>
+<td>&#x2b;</td>
+<td>RIF-1 is not labile</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> CM &#x2b; Proteinase K</td>
+<td>&#x2b;</td>
+<td>RIF-1 is not a protein</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> CM &#x2b; DNAse</td>
+<td>&#x2b;</td>
+<td>RIF-1 is not DNA</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> CM &#x2b; RNAse</td>
+<td>&#x2b;</td>
+<td>RIF-1 is not RNA</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> CM, MeOH extract</td>
+<td>&#x2b;</td>
+<td>RIF-1 is an organic compound</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> cell pellet, MeOH extract</td>
+<td>&#x2b;&#x2b;</td>
+<td>RIF-1 is present in the <italic>Algoriphagus</italic> cell envelope</td>
+</tr>
+<tr>
+<td>
+<italic>A. machipongonensis</italic> cell pellet, Bligh-Dyer extract</td>
+<td>&#x2b;&#x2b;</td>
+<td>RIF-1 is a lipid</td>
+</tr>
+<tr>
+<td>Sphingomyelin (20 mg/mL)</td>
+<td>&#x2212;</td>
+<td>Sphingomyelin does not induce rosette colony development</td>
+</tr>
+<tr>
+<td>Monosialoganglioside (20 mg/mL)</td>
+<td>&#x2212;</td>
+<td>Monosialoganglioside does not induce rosette colony development</td>
+</tr>
+<tr>
+<td>Galactocerebroside (20 mg/mL)</td>
+<td>&#x2212;</td>
+<td>Galactocerebroside does not induce rosette colony development</td>
+</tr>
+<tr>
+<td>N-palmitoyl-DL-dihydrolacto cerebroside (20 mg/mL)</td>
+<td>&#x2212;</td>
+<td>N-palmitoyl-DL-dihydrolacto cerebroside does not induce rosette colony development</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="tblfn2">
+<label>&#x2a;</label>
+<p>RCA &#x3d; rosette colonies absent;</p>
+</fn>
+<fn id="tblfn3">
+<label>&#xa7;</label>
+<p>CM &#x3d; conditioned medium;</p>
+</fn>
+<fn id="tblfn4">
+<label>&#x2021;</label>
+<p>RIF-1 &#x3d; rosette inducing factor 1; &#x2212; no induction, &#x2b; low induction, &#x2b;&#x2b; high induction</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</p>
+<p>The bacterial cell envelope components lipopolysaccharide (LPS) and peptidoglycan (PGN) from Gram-negative bacteria have long been known to affect host biology (<xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib44">Hoffmann et al., 1999</xref>; <xref ref-type="bibr" rid="bib89">Takeuchi et al., 1999</xref>; <xref ref-type="bibr" rid="bib57">Kopp &#x26; Medzhitov, 1999</xref>; <xref ref-type="bibr" rid="bib70">Medzhitov &#x26; Janeway, 2000</xref>; <xref ref-type="bibr" rid="bib50">Kimbrell &#x26; Beutler, 2001</xref>; <xref ref-type="bibr" rid="bib24">Cohn &#x26; Morse, 1960</xref>), but neither LPS nor PGN from <italic>A. machipongonensis</italic> triggered rosette development, alone or in combination (<xref ref-type="fig" rid="fig3">Figure 3A</xref>). Instead, we found that <italic>A. machipongonensis</italic> crude lipid extracts enriched in sphingolipids robustly induced rosette development (<xref ref-type="fig" rid="fig3">Figure 3A</xref>). In animals, sphingolipid signaling pathways regulate developmental processes such as cell death, survival, differentiation, and migration (<xref ref-type="bibr" rid="bib41">Hannun et al., 2001</xref>; <xref ref-type="bibr" rid="bib71">Merrill et al., 2001</xref>; <xref ref-type="bibr" rid="bib79">Prieschl &#x26; Baumruker, 2000</xref>; <xref ref-type="bibr" rid="bib88">Spiegel &#x26; Milstien, 2000</xref>; <xref ref-type="bibr" rid="bib42">Herr et al., 2003</xref>; <xref ref-type="bibr" rid="bib81">Pyne &#x26; Pyne, 2000</xref>). Moreover, sphingolipids serve essential functions both as structural components of cell membranes and as signaling molecules in diverse eukaryotes (<xref ref-type="bibr" rid="bib40">Hannich et al., 2011</xref>). In contrast, the phylogenetic distribution of sphingolipids in bacteria is largely limited to Bacteroidetes and <italic>Sphingomonas</italic>, where their endogenous functions are poorly understood (<xref ref-type="bibr" rid="bib4">An et al., 2011</xref>; <xref ref-type="bibr" rid="bib78">Olsen &#x26; Jantzen, 2001</xref>).<fig-group>
+<fig id="fig3" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.006</object-id>
+<label>Fig. 3</label>
+<caption>
+<p>
+<bold>RIF-1, a sulfonolipid that induces rosette colony development. A</bold>. Rosette colony development is induced by live <italic>A. machipongonensis</italic> and the sphingolipid-enriched lipid fraction (20 mg/ml), but not by fresh medium, <italic>A. machipongonensis</italic> LPS (10 mg/ml), PGN (50 mg/ml), or LPS&#x2b;PGN. Shown are the whisker-box plots of the % colonial cells/total cells under each condition in three independent experiments. <bold>B</bold>. The molecular structure of RIF-1 deduced from MS and 1D- and 2D-NMR data. The RIF-1 structure, 3,5-dihydroxy-2-(2-hydroxy-13-methyltetradecanamido)-15-methylhexadecane-1-sulfonic acid, has two parts: a base (shown in red) that defines the capnine, and a fatty acid (shown in black). Features that distinguish RIF-1 from other known capnoids are shown with colored arrows: the 2-hydroxy on the fatty acid (black) and the 5-hydroxy on the capnine base (red).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f003"/>
+</fig>
+
+<fig id="sfig2">
+<object-id pub-id-type="doi">10.7554/eLife.00013.007</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 1</label>
+<caption>
+<p>
+<bold>Separation of <italic>A. machipongonensis</italic> sphingolipids by thin layer chromatography (TLC)</bold>. Lipids enriched in sphingolipids were separated by TLC after visualization with ammonium molybdate in 10% H<sub>2</sub>SO<sub>4</sub>. Bands (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>; <xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>) as well as regions between bands (A-F) were tested for morphogenic activity. Region F possessed activity and was further purified.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs002"/>
+</fig>
+
+<fig id="sfig3">
+<object-id pub-id-type="doi">10.7554/eLife.00013.008</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 2</label>
+<caption>
+<p>
+<bold>MS/MS analysis of RIF-1</bold>. A major fragment derived from <italic>m/z</italic> &#x3d; 606 (M-H) in the MS/MS spectrum of RIF-1 corresponds to amino-sulfonic acid <bold>S1</bold>. <bold>HRMS</bold> <italic>m/z</italic> calcd for C<sub>17</sub>H<sub>36</sub>NO<sub>5</sub>S (M-H): 366.23142. Found: 366.2310 (M-H)<sup>&#x2212;</sup>.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs003"/>
+</fig>
+
+<fig id="sfig4">
+<object-id pub-id-type="doi">10.7554/eLife.00013.009</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 3</label>
+<caption>
+<p>
+<bold>Key two-dimensional (2D) correlations (a-c) and NMR spectra (d-m) of RIF-1</bold>. <bold>A</bold>. <bold>Observed COSY correlations</bold>: Red double-head arrows show key <sup>3</sup>
+<italic>J</italic> or <sup>4</sup>
+<italic>J</italic> H-H correlations in the head regions (1 to 6 and 2&#x2019; to 3&#x2019;) of the fatty acid and the capnine base and in the tail regions with geminal dimethyl groups (14 to 17 and 12&#x2019; to 15&#x2019;).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs004"/>
+</fig>
+
+<fig id="sfig5">
+<object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 4</label>
+<caption>
+<p>
+<bold>B</bold>. <bold>Observed HMBC correlations</bold>: Blue single-head arrows show key <sup>2</sup>
+<italic>J</italic> or <sup>3</sup>
+<italic>J</italic> H-C correlations in the head and tail regions of the fatty acid and capnine base. The correlations between C-1&#x2019; and H-2/N-H demonstrated that the fatty acid and capnine base are joined through an amide bond.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs005"/>
+</fig>
+
+<fig id="sfig6">
+<object-id pub-id-type="doi">10.7554/eLife.00013.011</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 5</label>
+<caption>
+<p>
+<bold>C</bold>. <bold>Observed TOCSY spin systems</bold>: Green bonds show two key spin systems in RIF-1 &#x2013; HO-CH- in the fatty acid fragment and -CH<sub>2</sub>-CH(NH)-CH(OH)-CH<sub>2</sub>-CH(OH)-CH<sub>2</sub>- in the capnine base fragment.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs006"/>
+</fig>
+
+<fig id="sfig7">
+<object-id pub-id-type="doi">10.7554/eLife.00013.012</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 6</label>
+<caption>
+<p>
+<bold>D</bold>. <sup>
+<bold>1</bold>
+</sup>
+<bold>H NMR spectrum of RIF-1</bold>: The spectrum exhibits one NH (&#x3b4;<sub>H</sub> 8.21), three hydroxyl groups (&#x3b4;<sub>H</sub> 5.52, 5.20, and 4.31), five signals from 2.50-4.00 ppm (four methines connected to either nitrogen at &#x3b4;<sub>H-2</sub> 3.88 or oxygens at &#x3b4;<sub>H-2&#x2019;</sub> 3.80/&#x3b4;<sub>H-3</sub> 3.71-3.78/&#x3b4;<sub>H-5</sub> 3.53-3.61, and one methylene connected to sulfur at &#x3b4;<sub>H-1</sub> 2.56 &#x26; 3.01), twenty methylenes and four methyls (&#x3b4;<sub>H</sub> d, <italic>J</italic> &#x3d; 6.6 Hz, 12H) in the high field region (&#x3b4;<sub>H</sub> 0.75-1.75 ppm).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs007"/>
+</fig>
+
+<fig id="sfig8">
+<object-id pub-id-type="doi">10.7554/eLife.00013.013</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 7</label>
+<caption>
+<p>
+<bold>E</bold>. <bold>gHMQC spectrum of RIF-1</bold>: The <sup>1</sup>
+<italic>J</italic> H-C correlations demonstrate that 2 (&#x3b4;<sub>H</sub> 3.88, &#x3b4;<sub>C</sub> 50.89) is connected to a nitrogen; 2&#x2019;, 3, and 5 (&#x3b4;<sub>H</sub> 3.80/&#x3b4;<sub>C</sub> 71.29, &#x3b4;<sub>H</sub> 3.71-3.78/&#x3b4;<sub>C</sub> 71.51, and &#x3b4;<sub>H</sub> 3.53-3.61/&#x3b4;<sub>C</sub> 70.20, respectively) are oxygenated; 1 (&#x3b4;<sub>H</sub> 3.01 and 2.56, &#x3b4;<sub>C</sub> 51.87) is adjacent to a sulfonic acid group; and all the other twenty methylenes and four methyls at high filed (&#x3b4;<sub>H</sub> 0.75-1.75/&#x3b4;<sub>C</sub> 22.00-42.00).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs008"/>
+</fig>
+
+<fig id="sfig9">
+<object-id pub-id-type="doi">10.7554/eLife.00013.014</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 8</label>
+<caption>
+<p>
+<bold>F</bold>. <bold>gCOSY spectrum of RIF-1</bold>: Indicated are important H-H correlations between NH and H-2, 2&#x2019;-OH and H-2&#x2019;, 3-OH and H-3, and 5-OH and H-5.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs009"/>
+</fig>
+
+<fig id="sfig10">
+<object-id pub-id-type="doi">10.7554/eLife.00013.015</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 9</label>
+<caption>
+<p>
+<bold>G. dqfCOSY spectrum of RIF-1</bold>: A dqfCOSY spectrum was collected in order to get a clear connectivity in the oxygenated region (1-position to 6-position) in the capnoid base fragment.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs010"/>
+</fig>
+
+<fig id="sfig11">
+<object-id pub-id-type="doi">10.7554/eLife.00013.016</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 10</label>
+<caption>
+<p>
+<bold>H</bold>. <bold>Expanded dqfCOSY spectra of RIF-1</bold>: In panel A (&#x3b4;<sub>H</sub> 1.15-1.65 ppm/&#x3b4;<sub>H</sub> 3.52-3.82 ppm), H-3 (&#x3b4;<sub>H</sub> 3.73) shows correlation to H-4a (&#x3b4;<sub>H</sub> 1.30), H-5 (&#x3b4;<sub>H</sub> 3.57) to H-4a/H-4b (&#x3b4;<sub>H</sub> 1.30/1.47), and H-5 to H<sub>2</sub>-6 (&#x3b4;<sub>H</sub> 1.20/1.29); H-2&#x2019; (&#x223c;&#x3b4;<sub>H</sub> 3.8) correlates to H<sub>2</sub>-3&#x2019; (&#x3b4;<sub>H</sub> 1.45 and 1.54). Panel B (&#x3b4;<sub>H</sub> 2.4-4.0 ppm/&#x3b4;<sub>H</sub> 2.4-4.0 ppm) demonstrates the correlations between H<sub>2</sub>-1 (&#x3b4;<sub>H</sub> 2.56/&#x223c;3.0) and H-2 (&#x3b4;<sub>H</sub> 3.88), and between H-2 and H-3. Panel C (&#x3b4;<sub>H</sub> 0.75-1.60 ppm/&#x3b4;<sub>H</sub> 0.75-1.60 ppm) exhibits correlations in the other methylenes and methyl groups.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs011"/>
+</fig>
+
+<fig id="sfig12">
+<object-id pub-id-type="doi">10.7554/eLife.00013.017</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 11</label>
+<caption>
+<p>
+<bold>I</bold>. <bold>gHMBC spectrum of RIF-1</bold>: Indicated are important <sup>2</sup>
+<italic>J</italic> or <sup>3</sup>
+<italic>J</italic> H-C correlations between NH/H-2/H-2&#x2019; and C-1&#x2019; (&#x3b4;<sub>C</sub> 173.23), and between NH and C-2/C-3 (&#x3b4;<sub>C</sub> 50.89/71.51). Based on the MS/MS analysis (Supplementary <xref ref-type="fig" rid="sfig5">Figure 4</xref>), the fatty acid fragment must be 2-hydroxy-13-methyltetradecanoyl, and the capnine base fragment must be 2-NH-3,5-dihydroxy-15-methylhexadecane-1-sulfonate. Hence, the planar structure of RIF-1 is determined as shown in Fig. 3 and Supplementary Figure 5a-5c.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs012"/>
+</fig>
+
+<fig id="sfig13">
+<object-id pub-id-type="doi">10.7554/eLife.00013.018</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 12</label>
+<caption>
+<p>
+<bold>J</bold>. <bold>Expanded gHMBC spectrum of RIF-1 (&#x3b4;</bold>
+<sub>
+<bold>H</bold>
+</sub> <bold>0-4.00 ppm/&#x3b4;</bold>
+<sub>
+<bold>C</bold>
+</sub> <bold>15.0-85.0 ppm)</bold>: Indicated are correlations between H-2 to C-4/C-1 (&#x3b4;<sub>C</sub> 41.36/51.87), between H-2&#x2019; and C-4&#x2019;/C-3&#x2019; (&#x3b4;<sub>C</sub> 24.99/34.85), between H-1 and C-2/C-3 (&#x3b4;<sub>C</sub> 50.89/71.51), and between H-4 and C-5/C-3 (&#x3b4;<sub>C</sub> 70.20/71.51).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs013"/>
+</fig>
+
+<fig id="sfig14">
+<object-id pub-id-type="doi">10.7554/eLife.00013.019</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 13</label>
+<caption>
+<p>
+<bold>K</bold>. <bold>Expanded gHMBC spectrum of RIF-1 (&#x3b4;</bold>
+<sub>
+<bold>H</bold>
+</sub> <bold>0.80-1.80 ppm/&#x3b4;</bold>
+<sub>
+<bold>C</bold>
+</sub> <bold>20.0-40.0 ppm)</bold>: Key correlations are between H-16 and C-14/C-15/C-17 (&#x3b4;<sub>C</sub> 38.91/27.79/22.09), between H-17 and C-14/C-15/C-16 (&#x3b4;<sub>C</sub> 38.91/27.79/22.09), between H-14&#x2019; and C-12&#x2019;/C-13&#x2019;/C-15&#x2019; (&#x3b4;<sub>C</sub> 38.91/27.79/22.09), and between H-15&#x2019; and C-12&#x2019;/C-13&#x2019;/C-14&#x2019; (&#x3b4;<sub>C</sub> 38.91/27.79/22.09).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs014"/>
+</fig>
+
+<fig id="sfig15">
+<object-id pub-id-type="doi">10.7554/eLife.00013.020</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 14</label>
+<caption>
+<p>
+<bold>L</bold>. <bold>TOCSY spectrum of RIF-1</bold>: The spectrum shows correlations from NH to H<sub>2</sub>-1 and H-5 through H-2, H-3 and H<sub>2</sub>-4, and from 3-OH to H-5 via H<sub>2</sub>-4 and H<sub>2</sub>-1 through H-3 and H-2.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs015"/>
+</fig>
+
+<fig id="sfig16">
+<object-id pub-id-type="doi">10.7554/eLife.00013.021</object-id>
+<label>Fig. 3&#x2013; Figure Supplement 15</label>
+<caption>
+<p>
+<bold>M</bold>. <bold>Expanded TOCSY spectrum of RIF-1 (&#x3b4;</bold>
+<sub>
+<bold>H</bold>
+</sub> <bold>0.50-4.25 ppm/&#x3b4;</bold>
+<sub>
+<bold>H</bold>
+</sub> <bold>0.50-4.25 ppm)</bold>: Another important spin system is clearly demonstrated by the TOCSY correlations between H-2&#x2019; and H<sub>2</sub>-3&#x2019;/H-4&#x2019;/H-5&#x2019; on the top left of the expanded spectrum.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs016"/>
+</fig>
+</fig-group>
+
+</p>
+<p>To isolate and characterize the molecule(s) underlying RIF activity, we focused on the fraction enriched in sphingolipids. Lipids isolated from 160 L of <italic>A. machipongonensis</italic> culture were separated using preparative liquid chromatography&#x2013;mass spectrometry (LC-MS) and the activity of each fraction was measured using the rosette colony induction bioassay. RIF activity tracked with a single fraction, which was further purified by several rounds of preparative thin-layer chromatography (<xref ref-type="fig" rid="sfig2">Fig. 3 - Figure Supplement 1</xref>) to yield approximately 700 &#xb5;g of active compound (RIF-1) with sufficient purity for structural analysis. RIF-1 represents only 0.015% of the <italic>A. machipogonensis</italic> sphingolipid pool. Based on high-resolution mass spectrometry, RIF-1 has a molecular formula of C<sub>32</sub>H<sub>64</sub>NO<sub>7</sub>S (M-H: exptl. 606.44027, calcd. 606.44035, <xref ref-type="fig" rid="sfig3">Fig. 3 - Figure Supplement 2</xref>). Detailed analysis of one- and two-dimensional (COSY, HMBC, TOCSY, <xref ref-type="fig" rid="sfig4">Fig. 3 - Figure Supplement 3</xref>) nuclear magnetic resonance (NMR, 600 MHz, <xref ref-type="table" rid="tbl3">Table 3</xref>) spectra revealed the planar structure of RIF-1, an unusual sulfonolipid shown in <xref ref-type="fig" rid="fig3">Figure 3B</xref>.<table-wrap id="tbl3" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.022</object-id>
+<label>Table 3.</label>
+<caption>
+<p>Table of NMR chemical shifts</p>
+</caption>
+<table>
+<thead>
+<tr>
+<td>position</td>
+<td>&#x3b4; <sup>1</sup>H (multiplicity, <italic>J</italic>, &#x23;H)</td>
+<td>
+<sup>13</sup>C (&#x3b4;, ppm)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NH</td>
+<td>8.21 (d, <italic>J &#x3d;</italic> 9.1 Hz, 1H)</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="2">1</td>
+<td>3.01 (dd, <italic>J</italic> &#x3d; 14.2, 5.1 Hz, 1H)</td>
+<td rowspan="2" align="char" char=".">51.87</td>
+</tr>
+<tr>
+<td>2.56 (dd, <italic>J</italic> &#x3d; 14.3, 3.6 Hz, 1H)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3.88 (ddd, <italic>J</italic> &#x3d; 13.0, 8.6, 4.5 Hz, 1H)</td>
+<td align="char" char=".">50.89</td>
+</tr>
+<tr>
+<td>3</td>
+<td>3.78 &#x2013; 3.71 (m, 1H)</td>
+<td align="char" char=".">71.51</td>
+</tr>
+<tr>
+<td>OH3</td>
+<td>5.20 (d, <italic>J</italic> &#x3d; 4.2 Hz, 1H)</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="2">4</td>
+<td>1.51 &#x2013; 1.47 (m, 1H)</td>
+<td rowspan="2" align="char" char=".">41.36</td>
+</tr>
+<tr>
+<td>1.33 &#x2013; 1.29 (m, 1H)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3.61 &#x2013; 3.53 (m, 1H)</td>
+<td align="char" char=".">70.20</td>
+</tr>
+<tr>
+<td>OH5</td>
+<td>4.31 (d, <italic>J</italic> &#x3d; 3.5 Hz, 1H)</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="2">6</td>
+<td>1.34 &#x2013; 1.29 (m, 1H)</td>
+<td rowspan="2" align="char" char=".">37.27</td>
+</tr>
+<tr>
+<td>1.24 &#x2013; 1.20 (m, 1H)</td>
+</tr>
+<tr>
+<td>7-13</td>
+<td>1.21 &#x2013; 1.27 (br s, 14H)</td>
+<td>22.5-29.6</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1.16 &#x2013; 1.11 (m, 2H)</td>
+<td align="char" char=".">38.91</td>
+</tr>
+<tr>
+<td>15</td>
+<td>1.52 &#x2013; 1.47 (m, 1H)</td>
+<td align="char" char=".">27.79</td>
+</tr>
+<tr>
+<td>16, 17</td>
+<td>0.84 (d, <italic>J</italic> &#x3d; 6.6 Hz, 6H)</td>
+<td align="char" char=".">22.09</td>
+</tr>
+<tr>
+<td>1&#x27;</td>
+<td/>
+<td align="char" char=".">173.23</td>
+</tr>
+<tr>
+<td>2&#x27;</td>
+<td>3.80 (dd, <italic>J</italic> &#x3d; 6.6, 4.2 Hz, 1H)</td>
+<td align="char" char=".">71.29</td>
+</tr>
+<tr>
+<td>OH2&#x27;</td>
+<td>5.52 (d, <italic>J</italic> &#x3d; 5.0 Hz, 1H)</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="2">3&#x27;</td>
+<td>1.59 &#x2013; 1.54 (m, 1H)</td>
+<td rowspan="2" align="char" char=".">34.85</td>
+</tr>
+<tr>
+<td>1.50 &#x2013; 1.45 (m, 1H)</td>
+</tr>
+<tr>
+<td>4&#x27;?</td>
+<td>1.35 &#x2013; 1.30 (m, 2H)</td>
+<td align="char" char=".">24.99</td>
+</tr>
+<tr>
+<td>5&#x27;-11&#x27;</td>
+<td>1.21 &#x2013; 1.27 (br s, 14H)</td>
+<td>22.5-29.6</td>
+</tr>
+<tr>
+<td>12&#x27;</td>
+<td>1.16 &#x2013; 1.11 (m, 2H)</td>
+<td align="char" char=".">38.91</td>
+</tr>
+<tr>
+<td>13&#x27;</td>
+<td>1.52 &#x2013; 1.47 (m, 1H)</td>
+<td align="char" char=".">27.79</td>
+</tr>
+<tr>
+<td>14&#x27;, 15&#x27;</td>
+<td>0.84 (d, <italic>J</italic> &#x3d; 6.6 Hz, 6H)</td>
+<td align="char" char=".">22.09</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</p>
+<p>Sulfonolipids like RIF-1 resemble sphingolipids, but there are important differences between the two. In sphingolipids, a sphingoid base (1,3-dihydroxy-2-aminoalkane) is linked through an amide bond to a fatty acid. The long alkyl chains of both the sphingoid base and fatty acid vary in length, branching, number of double bonds, and placement of hydroxyl substituents. In RIF-1, a capnoid base (2-amino-3-hydroxy-15-methyl-1-<italic>sulfonic acid</italic>) replaces the sphingoid base, and the sphingolipid hydroxyl, which is the attachment point for the major diversifying elements of the sphingolipid family, is replaced by a sulfonic acid. While members of the sphingolipid family, such as the ceramides, glycosphingolipids, sphingomyelins, and gangliosides, differ by the groups attached to the hydroxyl, the sulfonic acid function in sulfonolipids like RIF-1 has no reported diversifying modifications. In this sense sulfonolipid diversity appears more limited than sphingolipid diversity. Significantly, commercial sphingolipids (sphingomyelin, monosiloganglioside, galactocerebroside, and N-palmitoyl-DL-dihydrolacto cerebroside; <xref ref-type="table" rid="tbl2">Table 2</xref>) failed to show any activity in our assay system. To our knowledge, RIF-1 is the first sulfonolipid demonstrated to influence developmental processes in eukaryotes.</p>
+<p>Finally, we investigated the potency of RIF-1 and its ability to induce colony development under plausible environmental conditions. Purified RIF-1 induces rosette formation with a bell-shaped dose-response curve over a broad range of concentrations, from 10<sup>&#x2212;2</sup> fM to 10<sup>7</sup> fM or some nine orders of magnitude (<xref ref-type="fig" rid="fig4">Figure 4</xref>). No observable effects were seen below 10<sup>&#x2212;5</sup> fM, and RIF-1 appears to be inactive above 10<sup>8</sup> fM. <italic>A. machipongonensis</italic> conditioned medium contains 10<sup>4</sup> fM RIF-1 (<xref ref-type="fig" rid="sfig17">Fig. 4 &#x2013; Figure Supplement 1</xref>), and even if this conditioned medium measurement exaggerates natural concentrations by a factor of 10<sup>6</sup>, <italic>S. rosetta</italic> could still respond to its presence. The shape of the dose-response curve and the potency of RIF-1 suggest that <italic>S. rosetta</italic> perceives RIF-1 in a manner consistent with a receptor-ligand interaction, albeit a receptor of exquisite sensitivity and remarkable dynamic range. While RIF-1 is the only molecule detected with rosette-inducing activity, its maximal activity (5.6 &#xb1; 0.5% colonial cells/total cells) differs from that of the sphingolipid-enriched lipid fraction (19.2 &#xb1; 4.6% colonial cells/total cells; <xref ref-type="fig" rid="fig4">Figure 4</xref>). This difference may be due to delivery issues of the purified and highly hydrophobic molecule, which in nature resides in membranes and potentially in membrane vesicles. Alternatively, the full potency of RIF-1 as an inducer of colony development may require additional <italic>A. machipongonensis</italic> molecules not identified in this study.<fig-group>
+<fig id="fig4" position="float">
+<object-id pub-id-type="doi">10.7554/eLife.00013.023</object-id>
+<label>Fig. 4</label>
+<caption>
+<p>
+<bold>Purified RIF-1 is active at plausible environmental concentrations</bold>. RIF-1 concentrations ranging from 10<sup>&#x2212;2</sup> &#x2013; 10<sup>7</sup> fM induce rosette colony development in RCA cultures. Frequency of rosette colony development was quantified in RCA cultures two days after treatment with a dilution series of purified RIF-1. Data are mean &#xb1; s.e. from three independent experiments.. Line indicates non-linear regression of the RIF-1 activity profile.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f004"/>
+</fig>
+
+<fig id="sfig17">
+<object-id pub-id-type="doi">10.7554/eLife.00013.024</object-id>
+<label>Fig. 4&#x2013; Figure Supplement 1</label>
+<caption>
+<p>
+<bold>Quantification of RIF-1 levels in conditioned medium. A</bold>. Detection of purified RIF-1. RIF-1 did not show absorbance at 210 nm (top panel), but the molecule (606 Da, M-H) was detected between 25 and 26 minutes (bottom panel). <bold>B</bold>. Detection of RIF-1 in the conditioned medium of <italic>A. machipongonensis</italic>. RIF-1 (bottom panel) was detected in the conditioned medium after the broth was concentrated 250 times. <bold>C</bold>. Co-injection of the concentrated conditioned medium with purified RIF-1. The peak of the RIF-1 in the conditioned medium was enhanced after the sample was spiked with purified RIF-1 (bottom panel).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs017"/>
+</fig>
+</fig-group>
+
+</p>
+<p>These data reveal that RIF-1, a sulfonolipid produced by the prey bacterium <italic>A. machipongonensis</italic>, regulates morphogenesis in its predator, <italic>S. rosetta</italic>. The ecological relevance of this signaling interaction is indicated both by the coexistence of <italic>S. rosetta</italic> and <italic>A. machipongonensis</italic> in nature and by the fact that the activity of RIF-1 at femtomolar concentrations makes it markedly more potent than other marine signaling molecules (e.g. <italic>Vibrio</italic> autoinducer (<xref ref-type="bibr" rid="bib87">Schaefer et al., 1996</xref>) and the tripeptide pheromones of the Caribbean spiny lobster (<xref ref-type="bibr" rid="bib103">Ziegler &#x26; Forward, 2007</xref>)). The potency of RIF-1 signaling compares favorably with that of silkworm moth sex pheromone signaling, in which vapors from an &#x223c;4 fM solution of bombykol, the sex pheromone of the silkworm moth, induces a pronounced wing fluttering response in males (<xref ref-type="bibr" rid="bib16">Butenandt et al., 1961</xref>; <xref ref-type="bibr" rid="bib1">Agosta, 1992</xref>; <xref ref-type="bibr" rid="bib83">Roelofs, 1995</xref>). While it is formally possible that RIF-1-dependent rosette colony development is a promiscuous response to sphingolipid-type molecules, only a handful of sulfonolipids like RIF-1 have been reported (<xref ref-type="bibr" rid="bib29">Drijber &#x26; McGill, 1994</xref>; <xref ref-type="bibr" rid="bib39">Godchaux &#x26; Leadbetter, 1988</xref>; <xref ref-type="bibr" rid="bib38">Godchaux &#x26; Leadbetter, 1984</xref>; <xref ref-type="bibr" rid="bib37">Godchaux &#x26; Leadbetter, 1983</xref>; <xref ref-type="bibr" rid="bib36">Godchaux &#x26; Leadbetter, 1980</xref>; <xref ref-type="bibr" rid="bib48">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib47">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib56">Kobayashi et al., 1995</xref>) and no other <italic>A machipongonensis</italic> lipid tested in this study induced rosette colony development. Therefore we favor a model in which <italic>A. machipongonensis</italic> cell density, as revealed by RIF-1 concentration, provides <italic>S. rosetta</italic> with an indication of conditions under which rosette colony development would be advantageous, for instance by promoting more efficient capture of planktonic bacteria (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>; <xref ref-type="bibr" rid="bib59">Kreft, 2010</xref>). In analogy to the chemotaxis system of bacteria (<xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>; <xref ref-type="bibr" rid="bib33">Falke et al., 1997</xref>), the ability of <italic>S. rosetta</italic> to respond to increasing bacterial cell density likely requires the hypothesized RIF-1 receptor to become less sensitive at higher concentrations. The high concentration cutoff in the dose-response curve reflects a complete loss of sensitivity at high, but non-physiological, RIF-1 concentrations. Although the presence of RIF-1 in the <italic>A. machipongonensis</italic> cell envelope suggests that it may be encountered by <italic>S. rosetta</italic> during phagocytosis, it can also function at a distance. We hypothesize that RIF-1 may be released into the environment in membrane vesicles, which have been described in Gram-negative bacteria such as Bacteroidetes (<xref ref-type="bibr" rid="bib61">Leadbeater, 1983</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib49">Karpov &#x26; Coupe, 1880</xref>; <xref ref-type="bibr" rid="bib73">M&#xf8;ller et al., 2005</xref>; <xref ref-type="bibr" rid="bib102">Zhou et al., 1998</xref>), and that additional membrane constituents might be required for the full potency of RIF-1. In the future, elucidating RIF-1 delivery, along with determining the three-dimensional structure of RIF-1 and characterizing sulfonolipids from other Bacteroidetes will begin to provide the needed foundation for a molecular understanding of how <italic>S. rosetta</italic> perceives RIFs.</p>
+<p>The morphogenetic interaction described here between <italic>S. rosetta</italic> and <italic>A. machipongonensis</italic> raises the possibility that bacterially-produced sphingolipids in general, and sulfonolipids in particular, may be essential for the chemical signaling that allows Bacteroidetes to influence cell differentiation and morphogenesis in diverse animals (<xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>; <xref ref-type="bibr" rid="bib4">An et al., 2011</xref>; <xref ref-type="bibr" rid="bib68">Mazmanian et al., 2008</xref>; <xref ref-type="bibr" rid="bib62">Lee &#x26; Mazmanian, 2010</xref>). Sulfonolipids like RIF-1 have been reported to have therapeutic activities, but their endogenous functions are not known. Sulfobacins A and B, which were isolated from the culture broth of a <italic>Chryseobacterium</italic> sp. were reported as von Willebrand factor receptor antagonists, and flavocristamide A, from a related bacterial species, was reported as a DNA polymerase &#x3b1; inhibitor (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib47">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib56">Kobayashi et al., 1995</xref>). The pervasiveness of interactions between Bacteroidetes and animals (<xref ref-type="bibr" rid="bib3">Alegado et al., 2012</xref>; <xref ref-type="bibr" rid="bib95">Wexler, 2007</xref>; <xref ref-type="bibr" rid="bib93">Webster et al., 2004</xref>), coupled with the close evolutionary relationship between choanoflagellates and animals (<xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib51">King &#x26; Carroll, 2001</xref>; <xref ref-type="bibr" rid="bib55">King, 2004</xref>), raise the possibility that the connection between Bacteroidetes and animal development has deep evolutionary roots (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib80">Provasoli &#x26; Pintner, 1980</xref>; <xref ref-type="bibr" rid="bib66">Matsuo et al., 2005</xref>). The discovery of RIF-1 and its biological activity toward <italic>S. rosetta</italic> provides both the molecular basis and model organism for further understanding a new and potentially important class of small molecule information transfer.</p>
+<sec sec-type="materials|methods" id="sec1">
+<title>MATERIALS AND METHODS</title>
+<sec id="sec1-1">
+<title>Choanoflagellate husbandry and microscopy</title>
+<p>The environmental isolate of <italic>Salpingoeca rosetta</italic> is deposited at the American Tissue Culture Collection (ATCC) under the designation ATCC50818 (<xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib44">Hoffmann et al., 1999</xref>; <xref ref-type="bibr" rid="bib89">Takeuchi et al., 1999</xref>; <xref ref-type="bibr" rid="bib57">Kopp &#x26; Medzhitov, 1999</xref>; <xref ref-type="bibr" rid="bib70">Medzhitov &#x26; Janeway, 2000</xref>; <xref ref-type="bibr" rid="bib50">Kimbrell &#x26; Beutler, 2001</xref>; <xref ref-type="bibr" rid="bib24">Cohn &#x26; Morse, 1960</xref>; <xref ref-type="bibr" rid="bib52">King et al., 2003</xref>). The <underline>R</underline>osette <underline>C</underline>olonies <underline>A</underline>bsent (RCA) culture line was produced from ATCC50818 by serial treatment with chloramphenicol (68 &#x3bc;g ml<sup>&#x2212;1</sup>), ampicillin (50 &#x3bc;g ml<sup>&#x2212;1</sup>), streptomycin (50 &#x3bc;g ml<sup>&#x2212;1</sup>), and erythromycin (50 &#x3bc;g ml<sup>&#x2212;1</sup>) (<xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>; <xref ref-type="bibr" rid="bib44">Hoffmann et al., 1999</xref>; <xref ref-type="bibr" rid="bib89">Takeuchi et al., 1999</xref>; <xref ref-type="bibr" rid="bib57">Kopp &#x26; Medzhitov, 1999</xref>; <xref ref-type="bibr" rid="bib70">Medzhitov &#x26; Janeway, 2000</xref>; <xref ref-type="bibr" rid="bib50">Kimbrell &#x26; Beutler, 2001</xref>; <xref ref-type="bibr" rid="bib24">Cohn &#x26; Morse, 1960</xref>). A monoxenic line of <italic>S. rosetta</italic> (Px1) was generated by treating ATCC 50818 with a combination of ofloxacin (10 &#x3bc;g ml<sup>&#x2212;1</sup>), kanamycin (50 &#x3bc;g ml<sup>&#x2212;1</sup>), and streptomycin (50 &#x3bc;g ml<sup>&#x2212;1</sup>) antibiotics to kill the undefined environmental bacteria. Following several rounds of serial dilution, a single cell was isolated by FACS and supplemented with <italic>A. machipongonensis</italic> (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib41">Hannun et al., 2001</xref>; <xref ref-type="bibr" rid="bib71">Merrill et al., 2001</xref>; <xref ref-type="bibr" rid="bib79">Prieschl &#x26; Baumruker, 2000</xref>; <xref ref-type="bibr" rid="bib88">Spiegel &#x26; Milstien, 2000</xref>; <xref ref-type="bibr" rid="bib42">Herr et al., 2003</xref>; <xref ref-type="bibr" rid="bib81">Pyne &#x26; Pyne, 2000</xref>). All three <italic>S. rosetta</italic> cell lines (ATCC 50818, RCA, and Px1) were grown in cereal grass infused seawater at 25 &#xb0;C and maintained by splitting cultures 1:10 into fresh medium every three days (<xref ref-type="bibr" rid="bib40">Hannich et al., 2011</xref>; <xref ref-type="bibr" rid="bib54">King et al., 2009</xref>). Live cells were imaged with a Leica DMI6000B microscope equipped with a DFC350 FX camera.</p>
+</sec>
+<sec id="sec1-2">
+<title>Bioassay for rosette colony development</title>
+<p>Under laboratory conditions, <italic>S. rosetta</italic> differentiates into a variety of cell types including attached thecate cells, solitary swimmers, rosette colonies, chain colonies and loose, disorganized associations of cells attached to one another at the collar or to bacterial biofilms (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib4">An et al., 2011</xref>; <xref ref-type="bibr" rid="bib78">Olsen &#x26; Jantzen, 2001</xref>). <italic>S. rosetta</italic> rosette colonies can be distinguished from other cell types in that they contain clusters of at least four closely associated cells with organized polarity; each cell oriented with its flagellum pointing outward from a central focus. In the qualitative bioassay, RCA cultures were diluted in fresh medium to a density of approximately 10<sup>4</sup>-10<sup>5</sup> cells/mL, aliquoted into 24-well flat bottom culture dishes (Costar, Corning, NY), supplemented with various treatments, and scored for the presence or absence of rosette colonies after 48 h. For quantitative measurements, RCA cultures were diluted as before into 6-well flat bottom culture dishes. To measure the percentage of cells within rosette colonies, each well was scraped to detach thecate cells and the total number of cells and the total number of cells in each rosette colony were counted with a Bright-Line hemacytometer (Hausser Scientific, Horsham, PA).</p>
+</sec>
+<sec id="sec1-3">
+<title>Isolation and identification of <italic>A. machipongonensis</italic>
+</title>
+<p>A partial representation of the bacterial flora from ATCC50818 was isolated by standard dilution-plating technique on modified Zobell medium agar (<xref ref-type="bibr" rid="bib87">Schaefer et al., 1996</xref>; <xref ref-type="bibr" rid="bib17">Carlucci &#x26; Pramer, 1957</xref>) at 25 &#xb0;C. Individual isolates were tested for their morphogenic activity by supplementing RCA cultures with a single colony of each isolate. Of 64 isolates tested, the only one that restored rosette colony development to the RCA cell line was a species that formed pink-pigmented colonies (designated strain PR1). Strain PR1 was used to inoculate liquid modified Zobell medium at 25 &#xb0;C and grown with aeration overnight. PR1 cells were harvested by centrifugation, and genomic DNA was isolated using a Bacterial Genomic DNA Mini-prep Kit (Bay Gene, Burlingame, CA) according to the manufacturer&#x2019;s specifications. The 16S rRNA gene was amplified using universal primers 8F (5&#x2019;- AGAGTTTGATCCTGGCTCAG-3&#x2019;) and 1492R (5&#x2019;-ACCTTGTTACGRCTT-3&#x2019;) (<xref ref-type="bibr" rid="bib103">Ziegler &#x26; Forward, 2007</xref>; <xref ref-type="bibr" rid="bib94">Weisburg et al., 1991</xref>); comparison of the PR1 16S rRNA sequence to the Greengenes 16S rRNA database (<xref ref-type="bibr" rid="bib16">Butenandt et al., 1961</xref>; <xref ref-type="bibr" rid="bib1">Agosta, 1992</xref>; <xref ref-type="bibr" rid="bib27">DeSantis et al., 2006</xref>) revealed strain PR1 to be most closely related to members of the <italic>Algoriphagus</italic> genus within the Bacteroidetes phylum. PR1 was subsequently named <italic>Algoriphagus machipongonensis</italic> (<xref ref-type="bibr" rid="bib83">Roelofs, 1995</xref>; <xref ref-type="bibr" rid="bib13">Bradley et al., 2009</xref>)<italic>.</italic>
+</p>
+</sec>
+<sec id="sec1-4">
+<title>Generating a phylogenetic framework for testing the diversity of bacteria that induce rosette colony development</title>
+<p>To investigate whether the ability to trigger rosette colony development was specific to <italic>A. machipongonensis</italic>, we tested three classes of bacterial species for their morphogenic capacity: 15 species in the <italic>Algoriphagus</italic> genus, 16 non-<italic>Algoriphagus</italic> members of the Bacteroidetes phylum, and eight species representing three additional major clades within Bacteria. Each species was screened for morphogenic activity using the bioassay for rosette colony development. Live cells from individual colonies grown from solid agar plates were added directly to RCA cultures and scored for the presence or absence of rosette colonies 48 h after inoculation. Each bacterial species was tested three times.</p>
+<p>To determine the phylogenetic distribution of morphogenic activity in the bacterial species tested (<xref ref-type="table" rid="tbl1">Table 1</xref>), a sequence alignment of 16S rDNA genes from each species was generated by iterative pairwise comparisons using FSA (<xref ref-type="bibr" rid="bib29">Drijber &#x26; McGill, 1994</xref>; <xref ref-type="bibr" rid="bib39">Godchaux &#x26; Leadbetter, 1988</xref>; <xref ref-type="bibr" rid="bib38">Godchaux &#x26; Leadbetter, 1984</xref>; <xref ref-type="bibr" rid="bib37">Godchaux &#x26; Leadbetter, 1983</xref>; <xref ref-type="bibr" rid="bib36">Godchaux &#x26; Leadbetter, 1980</xref>; <xref ref-type="bibr" rid="bib48">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib47">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib56">Kobayashi et al., 1995</xref>; <xref ref-type="bibr" rid="bib13">Bradley et al., 2009</xref>). Poorly aligned regions were removed by Gblocks version 0.91b (<xref ref-type="bibr" rid="bib19">Castresana, 2000</xref>; <xref ref-type="bibr" rid="bib90">Talavera &#x26; Castresana, 2007</xref>) using default block parameters. A distance matrix (distance options according to the Kimura two-parameter model), including clustering with the maximum likelihood algorithm, was calculated using Phylip version 3.67 (<xref ref-type="bibr" rid="bib32">Falenstein, 1989</xref>). Support for the resulting tree topology was estimated using bootstrap analysis (1,000 replicates).</p>
+</sec>
+<sec id="sec1-5">
+<title>Biochemical analysis of Rosette Inducing Factor (RIF-1)</title>
+<p>To determine the biochemical nature of RIF-1, <italic>A. machipongonensis</italic> cell fractions and conditioned medium were subjected to a battery of treatments. The results of these tests are summarized in <xref ref-type="table" rid="tbl2">Table 2</xref>. Conditioned medium (CM) was generated by pelleting either choanoflagellates grown in cereal grass infused with seawater or <italic>A. machipongonensis</italic> cultures grown in seawater complete medium (<xref ref-type="bibr" rid="bib7">Atlas, 2004</xref>) and filtering the culture supernatant through a 0.22 &#x3bc;m pore filter (Millipore) to remove live bacteria. To test whether RIF-1 activity required live bacteria, <italic>A. machipongonensis</italic> was grown overnight at 25 &#xb0;C, centrifuged at 16,000 x g for 1 min to pellet cells, and heated for 30 min at 80 &#xb0;C to kill viable bacteria. To test whether RIF-1 activity might be heat labile (e.g. a polypeptide), <italic>A. machipongonensis</italic> CM was boiled for 10 min. To test whether RIF-1 was a protein, <italic>A. machipongonensis</italic> CM was incubated with 200 &#x3bc;g ml<sup>&#x2212;1</sup>proteinase K (New England Biolabs, Ipswich, MA) for 2 h at 37 &#xb0;C. To test whether RIF-1 was a nucleic acid, 25 mL of <italic>A. machipongonensis</italic> CM was lyophilized, resuspended in 2.5 mL of water, and extracted with 100% ethanol to a final concentration of 80% (vol/vol) for 2 h at -20 &#xb0;C and the precipitate was collected by centrifugation for 30 min at 4,000 x <italic>g</italic> at 4&#xb0;C. The precipitate was dissolved in 0.01 M PBS (containing 10 mM MgCl<sub>2</sub> and 1 mM CaCl<sub>2</sub>) and incubated with either RNase A (100 &#x3bc;g ml<sup>&#x2212;1</sup>; Sigma) or DNase I (100 &#x3bc;g ml<sup>&#x2212;1</sup>; Sigma) for 2.5 h at 37 &#xb0;C. To test whether RIF-1 activity was in the methanolic extract, <italic>A. machipongonensis</italic> cell pellet and CM were lyophilized and vortexed with methanol. Each suspension was centrifuged at 8,000 rpm for 5 min and the methanol layer recovered and dried.</p>
+<p>To test whether RIF-1 was a lipid, <italic>A. machipongonensis</italic> cell pellet was extracted according to the Bligh-Dyer method (<xref ref-type="bibr" rid="bib11">Bligh &#x26; Dyer, 1959</xref>). Briefly, the cell pellet was resuspended in 3 volumes of 1:2 (v/v) CHCl<sub>3</sub>:MeOH and vortexed. One volume of CHCl<sub>3</sub> was added, and the mixture vortexed. 1 volume of distilled water was then added, and the mixture vortexed. The same was then centrifuged at 1000 rpm for 5 min and the bottom layer recovered and dried.</p>
+<p>To test whether RIF-1 was a component of lipopolysaccharide (LPS), <italic>A. machipongonensis</italic> LPS was isolated using a method from Apicella <italic>et al</italic> (<xref ref-type="bibr" rid="bib6">Apicella, 2008</xref>). Lyophilized <italic>A. machipongonensis</italic> cells were ground with a mortar and pestle and suspended in 10mM Tris&#x2013;Cl buffer (pH 8.0), containing 2% sodium dodecyl sulfate (SDS), 4% 2-mercaptoethanol, and 2 mM MgCl<sub>2</sub>. The mixture was vortexed and incubated at 65 &#xb0;C until solubilized. Proteinase K (20 mg ml<sup>&#x2212;1</sup>) was added to the mixture, and incubated at 65 &#xb0;C for an additional hour, followed by 37 &#xb0;C incubation overnight. Three M sodium acetate was then added and the sample mixed. Following addition of cold absolute ethanol to the cell suspension, the sample was incubated overnight at &#x2013;20 &#xb0;C to allow precipitate to form. The mixture was centrifuged at 4000 &#xd7; <italic>g</italic> for 15 min, and the supernatant discarded. The precipitate was suspended in distilled water. Three M sodium acetate was added, and the mixture vortexed. Following addition of cold absolute ethanol, the mixture was vortexed again, and the suspension again allowed to precipitate overnight at &#x2013;20 &#xb0;C. After the centrifugation, the precipitate was suspended in 10 mM Tris&#x2013;Cl (pH 7.4), and DNase I (100 &#x3bc;g ml<sup>&#x2212;1</sup>
+<sub>;</sub> NEB) and RNase (25 &#x3bc;g ml<sup>&#x2212;1</sup>
+<sub>;</sub> NEB) added. The mixture was incubated at 37 &#xb0;C for 4 h, then placed in a 65 &#xb0;C water bath for 30 min. 90% phenol preheated to 65 &#xb0;C was added, and allow to set at 65 &#xb0;C for 15 min. The mixture was placed in an ice bath to cool, and then centrifuged at 6000 &#xd7; <italic>g</italic> for 15 min. The top aqueous layer was removed, and the phenolic layer re-extracted with an equal volume of distilled water. This sample was again incubated at 65 &#xb0;C for 15 min and then placed in ice water. After centrifugation at 6000 &#xd7; <italic>g</italic> for 15 min, the two aqueous layers were combined and dialyzed against multiple changes of distilled water over 2 days.</p>
+<p>To test whether RIF-1 was a peptidoglycan, <italic>A. machipongonensis</italic> peptidoglycan was isolated using a method adapted from de Jong <italic>et al.</italic> (<xref ref-type="bibr" rid="bib26">de Jonge et al., 1992</xref>), <italic>A. machipongonensis</italic> cell pellet was washed with 0.8% NaCl. The cells were resuspended in hot 4% SDS, boiled for 30 minutes, and then incubated at room temperate overnight. The sample was boiled for an additional 10 minutes and then centrifuged at 15,000 x g for 15 minutes at room temperature. The pellet was washed four times with water and resuspended in water. The sample was digested for mutanolysin (10 &#x3bc;g ml<sup>&#x2212;1</sup>
+<sub>;</sub> Sigma) overnight at 37 &#xb0;C. The enzyme was inactivated by incubation at 80 &#xb0;C for 20 minutes.</p>
+</sec>
+<sec id="sec1-6">
+<title>Isolation and purification of RIF-1 from <italic>A. machipongonensis</italic>
+</title>
+<p>
+<italic>A. machipongonensis</italic> was cultured in seawater complete medium (16 x 1 L) at 30 &#xb0;C for 2 days. The cells were harvested by centrifugation and extracted with CHCl<sub>3</sub>:MeOH (2:1, 4 L). The organic extract was filtered, dried over sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>), and concentrated to give approximately 4 g crude lipid extract. The crude extract was dissolved in a minimum amount of CHCl<sub>3</sub>:MeOH (2:1), and purified by preparative high performance liquid chromatography (HPLC). All solvents were purchased from Fisher Scientific unless otherwise noted. Preparative reversed phase HPLC (RP-HPLC) was performed on an Agilent Technologies 1200 Series HPLC using a Phenomenex Luna 5 &#xb5;m C8(2) 100 &#xc5; 250 x 21.2 mm column. Isolation of RIF-1 continued with a crude fractionation in which compounds were eluted at 10 ml/min in a gradient of solvents A (0.1% NH<sub>4</sub>OH in water) and B (0.1% NH<sub>4</sub>OH in methanol): 65% B increasing to 100% B over 30 min, isocratic at 100% B for 1 min. before returning to 65% B and re-equilibrating over 10 min. Fractions were analyzed by low-resolution mass spectrometry (LC-MS) on an Agilent 6130 LC/MS using a Phenomenex Gemini-NX 5 &#xb5;m C18 110 &#xc5; 100 x 2 mm column. The next stage involved a higher resolution separation in which compounds were eluted at 0.5 ml/min in a gradient of solvents A (0.1% NH<sub>4</sub>OH in water) and B (0.1% NH<sub>4</sub>OH in methanol): 65% B increasing to 100% B over 30 min, isocratic at 100% B for 1 min before returning to 65% B and re-equilibrating over 3 min and those which contained a mass peak corresponding to RIF-1 ([M-H] &#x3d; 606.4) were combined and concentrated. This material was then purified by preparative TLC (1 mm, silica gel 60), eluted with CHCl<sub>3</sub>:MeOH:AcOH:H<sub>2</sub>O (100:20:12:5, Rf &#x3d; 0.5). RIF-1 was visualized by staining with ammonium molybdate in 10% H<sub>2</sub>SO<sub>4</sub>. The portion of the plate (Fraction F; Fig. S2) that induced colony formation and contained RIF-1 (LC/MS: [M-H] 606) was scraped off after RIF-1 was visualized by staining with ammonium molybdate in 10% H<sub>2</sub>SO<sub>4</sub>, and the silica was extracted with CHCl<sub>3</sub>:MeOH (5:1). This material was further purified by preparative TLC on a 250 &#x3bc;m TLC plate (silica gel 60), eluted with CHCl<sub>3</sub>:MeOH:AcOH:H<sub>2</sub>O (100:20:12:5). From 16L of <italic>A. machipongonensis</italic> culture, approximately 50 &#x3bc;g RIF-1 was obtained in sufficient purity. The entire process, from growth of the cells to isolation of pure RIF-1, was repeated nine times in order to obtain approximately 0.7 mg RIF-1 from a total of 160 L of <italic>A. machipongonensis</italic> culture.</p>
+<p>High Resolution Mass Spectrometry (HRMS) was carried out by Ted Voss at the WM Keck Foundation Biotechnology Resource Laboratory at Yale University on a Bruker 9.4T FT-ICR MS. RIF-1 was dissolved in 200 &#x3bc;L DMSO-<italic>d</italic>
+<sub>6</sub> and transferred into a 3 mm NMR tube. <sup>1</sup>H, TOCSY, gCOSY and dqfCOSY were recorded on a Varian Inova 600 spectrometer. HMQC and gHMBC experiments were performed on a Bruker Advance (sgu) 900 MHz and Varian Unity Inova 600 MHz equipped with a cryoprobe, respectively. Chemical shifts are reported in ppm from tetramethylsilane with the solvent resonance resulting from incomplete deuteration as the internal standard (DMSO: &#x3b4; 2.50). Data are reported in <xref ref-type="table" rid="tbl3">Table 3</xref> as follows: chemical shift, multiplicity (s &#x3d; singlet, d &#x3d; doublet, t &#x3d; triplet, q &#x3d; quartet, br &#x3d; broad, m &#x3d; multiplet), coupling constants, and integration. Optical rotation was measured on a Jasco P-2000 digital polarimeter with a sodium lamp at 21.4 &#xb0;C. Unless otherwise noted, all solvents and reagents were purchased from VWR or Fisher and used without further purification.</p>
+<p>
+<sup>1</sup>
+<bold>H NMR (600 MHz, DMSO)</bold> and <sup>13</sup>
+<bold>C NMR (600 MHz, DMSO)</bold>: see <xref ref-type="table" rid="tbl3">Table 3</xref>. <bold>Optical rotation:</bold> [&#x3b1;]<sub>[fx1]</sub> &#x2b;6.4 (<italic>c</italic> &#x3d; 0.07, MeOH). <bold>HRMS</bold> <italic>m/z</italic> calcd for C<sub>32</sub>H<sub>64</sub>NO<sub>7</sub>S (M-H): 606.44035. Found: 606.44027 (M-H)<sup>&#x2212;</sup>. <bold>MS/MS analysis:</bold> A major fragment derived from m/z &#x3d; 606 (M-H) in the MS/MS spectrum of RIF-1 corresponds to amino-sulfonic acid, Fig. S3. <bold>HRMS/MS</bold> <italic>m/z</italic> calculated for C<sub>17</sub>H<sub>36</sub>NO<sub>5</sub>S (M-H): 366.23142. Found: 366.2310 (M-H)<sup>&#x2212;</sup>.</p>
+</sec>
+<sec id="sec1-7">
+<title>Quantification of RIF-1 levels in conditioned medium</title>
+<p>Conditioned medium was prepared from <italic>A. machipongonensis</italic> grown in seawater complete medium (750 mL) at 30 &#xb0;C for 2 days. The conditioned medium was lyophilized and extracted with CHCl<sub>3</sub>:MeOH (2:1; 78 mL). The organic extract was filtered, further extracted with CHCl<sub>3</sub> (60 mL &#xd7; 2), and filtrates were combined and concentrated to dryness under vacuum. The crude extract was suspended in 5 mL 50% MeOH:H<sub>2</sub>O and was passed through a C-18 SPE (1 g) column. The open column was then washed with 10 mL 90% MeOH:CHCl<sub>3</sub>. The organic eluate was concentrated and dissolved in 3 mL CHCl<sub>3</sub>:MeOH (2:1) for LC/MS analysis. The chromatography was carried out using an Agilent 6130 Quadrupole LC/MS system with a C18 reverse-phase column (4.6 &#xd7; 100 mm; Phenomenex Luna; 5 &#x3bc;) for 30 min in a linear gradient from solvent A (60% methanol/water with 0.1% ammonium hydroxide) to solvent B (100% methanol with 0.1% ammonium hydroxide). The RIF-1 was detected in the conditioned medium at a concentration of 80 ng L<sup>&#x2212;1</sup>. The purified RIF-1 was used as the standard (<xref ref-type="fig" rid="sfig5">Fig. 4 - Figure Supplement 1</xref>).</p>
+</sec>
+<sec id="sec1-8">
+<title>Activity profile of RIF-1</title>
+<p>The potency of pure RIF-1 was determined using the quantitative bioassay for rosette colony development. Briefly, 100 ug of pure RIF-1 was solubilized in 100 ul DMSO and this 1 g L<sup>&#x2212;1</sup> stock was stored at -80 &#xb0;C. For each experiment, serial dilutions ranging from 10<sup>&#x2212;1</sup> g L<sup>&#x2212;1</sup> down to 10<sup>&#x2212;17</sup> g L<sup>&#x2212;1</sup> were made in DMSO. 2 &#x3bc;L of each dilution was premixed with 1 mL of fresh cereal grass infused seawater (<xref ref-type="bibr" rid="bib52">King et al., 2003</xref>) to avoid precipitation of RIF-1 and the premixed RIF-1 dilution was then added to 1 mL RCA cultures to yield final concentrations ranging from 10<sup>&#x2212;3</sup> g L<sup>&#x2212;1</sup> to 10<sup>&#x2212;20</sup> g L<sup>&#x2212;1</sup>, equivalent to 1.6 x 10<sup>9</sup> fM down to 1.6 x 10<sup>&#x2212;8</sup> fM. The percentage of rosette colonial cells was determined as described above in three independent cell lines in triplicate. From the percent rosette colony development, a bell-shaped dose-response model was determined to be the nonlinear regression curve of best fit determined using GraphPad Prism 5 statistical software.</p>
+</sec>
+</sec>
 
 <sec sec-type="datasets">
 	<title>Dataset</title>
@@ -441,8 +1412,9 @@
 	</related-object>
 </sec>
 </body>
-<back>
 
+
+<back>
 <fn-group>
 <title>&#x2020;Current address</title>
 <fn fn-type="present-address" id="pa1">
@@ -516,8 +1488,9 @@
 </fn>
 </fn-group>
 
-<ack>
-<p>We thank S. Allmann for conducting egg predation assays in 2010; C. Diezel, M. Erb, M. Kallenbach, D. Kessler, D. Marciniak, M. Stanton, and A. Steppke for help with field work; S. Weigl for rating <italic>M. sexta</italic> damage levels; J. Gershenzon for the use of the HP GC-MS; M. Erb, J. Gershenzon, D. Heckel, M. Kallenbach, A. Kessler, A. Steppke, and A. Weinhold for comments on the manuscript; Brigham Young University for the use of their Lytle Preserve field station; and APHIS for constructive regulatory oversight.</p>
+<ack id="ack">
+<title>Acknowledgements</title>
+<p>We thank Michael Fischbach, Richard Losick, and Russell Vance for critical reading of the manuscript. This research was supported by NIH R01 GM099533 (N.K. and J.C.), NIH R01 GM086258 (J.C.), the Gordon and Betty Moore Foundation Marine Microbiology Initiative (N.K.), NIH post-doctoral fellowships to R.A.A. (F32 GM086054) and L.W.B. (F32 GM089018), and NIH training grant T32 HG00047 (S.R.F). N.K. is a Fellow in the Integrated Microbial Biodiversity Program of the Canadian Institute for Advanced Research.</p>
 </ack>
 
 
