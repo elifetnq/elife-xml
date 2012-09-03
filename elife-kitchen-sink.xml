@@ -280,7 +280,7 @@
 	<kwd-group kwd-group-type="major-subject-area">
 	<kwd>Cell biology</kwd>
 	</kwd-group>
-	
+
 
 <abstract>
 	<object-id pub-id-type="doi">10.7554/eLife.00013.001aweofjwoei</object-id>
@@ -1501,6 +1501,9 @@
 </sec>
 </sec>
 
+
+
+
 <sec sec-type="datasets">
 	<title>Dataset</title>
 	<p>The following datasets were generated</p>
@@ -1528,7 +1531,6 @@
 	<comment>Creative Commons, stored on Dryad, available on publication of the article</comment>
 	</related-object>
 </sec>
-
 
 
 </body>
@@ -1608,11 +1610,95 @@
 </fn>
 </fn-group>
 
+
+
+<fn-group>
+<title>Funding Information</title>
+<fn fn-type="other">
+	<award-group id="par-2">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>F32 GM086054</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Alegado</surname>
+	<given-names>Rosanna A.</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-3">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>F32 GM089018</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Brown</surname>
+	<given-names>Laura W.</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-4">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>R01 GM086258</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Clardy</surname>
+	<given-names>Jon</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-5">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>R01 GM099533</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Clardy</surname>
+	<given-names>Jon</given-names>
+	</name>
+	<name>
+	<surname>King</surname>
+	<given-names>Nicole</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-6">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>T32 HG00047</award-id>
+	<principal-award-recipient>
+	<name>
+	<surname>Fairclough</surname>
+	<given-names>Stephen R.</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+
+	<funding-statement>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</funding-statement>
+</fn>
+</fn-group>
+
+
 <ack id="ack">
 <title>Acknowledgements</title>
 <p>We thank Michael Fischbach, Richard Losick, and Russell Vance for critical reading of the manuscript. This research was supported by NIH R01 GM099533 (N.K. and J.C.), NIH R01 GM086258 (J.C.), the Gordon and Betty Moore Foundation Marine Microbiology Initiative (N.K.), NIH post-doctoral fellowships to R.A.A. (F32 GM086054) and L.W.B. (F32 GM089018), and NIH training grant T32 HG00047 (S.R.F). N.K. is a Fellow in the Integrated Microbial Biodiversity Program of the Canadian Institute for Advanced Research.</p>
 </ack>
-
 
 
 <ref-list>
