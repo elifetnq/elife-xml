@@ -268,6 +268,7 @@
 
 
 <abstract>
+	<object-id pub-id-type="doi">10.7554/eLife.00013.001aweofjwoei</object-id>
 	<p>Bacterially-produced small molecules exert profound influences on animal health, morphogenesis, and evolution through poorly understood mechanisms. In one of the closest living relatives of animals, the choanoflagellate <italic>Salpingoeca rosetta</italic>, we find that colony development is induced by the prey bacterium <italic>Algoriphagus machipongonensis</italic> and its close relatives in the Bacteroidetes phylum. Here we show that a rosette inducing factor (RIF-1) produced by <italic>A. machipongonensis</italic> belongs to the small class of sulfonolipids, obscure relatives of the better known sphingolipids that play important roles in signal transmission in plants, animals and fungi. RIF-1 has extraordinary potency (femtomolar, or 10<sup>&#x2212;15</sup> M) and <italic>S. rosetta</italic> can respond to it over a broad dynamic range &#x2013; nine orders of magnitude. This study provides a prototypical example of bacterial sulfonolipids triggering eukaryotic morphogenesis and suggests molecular mechanisms through which bacteria may have contributed to the evolution of animals.</p>
 <p>
 	<mml:math>
@@ -296,6 +297,7 @@
 	</abstract>
 
 <abstract abstract-type="executive-summary">
+	<object-id pub-id-type="doi">10.7554/eLife.00013.00190aj</object-id>
 	<title>eLife digest</title>
 	<p>Humans and other animals evolved in a world filled with bacteria, and bacteria have influenced the evolution of animals and humans. Although bacteria are most familiar as pathogens, they also produce small molecules that animals and other eukaryotes need, although the details of these beneficial effects are not well understood.</p>
 	<p>The choanoflagellates are water-dwelling organisms that use their whip-like flagella to move around, feeding on bacteria. They can exist as one cell or a colony of multiple cells and, perhaps surprisingly, are the closest known living relatives of animals. This means that experiments on these organisms have the potential to improve our understanding of animal development and the transition from egg to embryo to adult.</p>
@@ -3553,6 +3555,7 @@
 </back>
 
 <sub-article article-type="article-commentary" id="SA1">
+	<object-id pub-id-type="doi">10.7554/eLife.00013.001adslk090a9sf</object-id>
     <front-stub>
         <title-group><article-title>Decision letter</article-title></title-group>
 
@@ -3604,6 +3607,7 @@
   </sub-article>
 
   <sub-article article-type="reply" id="s026">
+  	<object-id pub-id-type="doi">10.7554/eLife.00013.00190ias9if</object-id>
 
 
 <front-stub>
