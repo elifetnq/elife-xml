@@ -268,6 +268,20 @@
 	<related-article related-article-type="in-this-issue" ext-link-type="doi" xlink:href="10.7554/eLife.000007" id="ra1">XXX</related-article>
 
 
+	<kwd-group>
+	<kwd>Salpingoeca rosetta</kwd>
+	<kwd>Algoriphagus</kwd>
+	<kwd>bacterial sulfonolipid</kwd>
+	<kwd>multicellular development</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="research-organism">
+	<kwd>Other</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="major-subject-area">
+	<kwd>Cell biology</kwd>
+	</kwd-group>
+	
+
 <abstract>
 	<object-id pub-id-type="doi">10.7554/eLife.00013.001aweofjwoei</object-id>
 	<p>Bacterially-produced small molecules exert profound influences on animal health, morphogenesis, and evolution through poorly understood mechanisms. In one of the closest living relatives of animals, the choanoflagellate <italic>Salpingoeca rosetta</italic>, we find that colony development is induced by the prey bacterium <italic>Algoriphagus machipongonensis</italic> and its close relatives in the Bacteroidetes phylum. Here we show that a rosette inducing factor (RIF-1) produced by <italic>A. machipongonensis</italic> belongs to the small class of sulfonolipids, obscure relatives of the better known sphingolipids that play important roles in signal transmission in plants, animals and fungi. RIF-1 has extraordinary potency (femtomolar, or 10<sup>&#x2212;15</sup> M) and <italic>S. rosetta</italic> can respond to it over a broad dynamic range &#x2013; nine orders of magnitude. This study provides a prototypical example of bacterial sulfonolipids triggering eukaryotic morphogenesis and suggests molecular mechanisms through which bacteria may have contributed to the evolution of animals.</p>
@@ -330,18 +344,6 @@
 	<p>The work of Alegado <italic>et al.</italic> suggests that interactions between <italic>S. rosetta</italic> and <italic>Algoriphagus</italic> bacteria could be a productive model system for studying the influences of bacteria on animal cell biology and for investigating the mechanisms of signal delivery and reception. Moreover, the molecular mechanisms revealed by this work leave open the possibility that bacteria might have contributed to the evolution of multicellularity in animals.</p>
 	</abstract>
 
-	<kwd-group>
-	<kwd>Salpingoeca rosetta</kwd>
-	<kwd>Algoriphagus</kwd>
-	<kwd>bacterial sulfonolipid</kwd>
-	<kwd>multicellular development</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="research-organism">
-	<kwd>Other</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="major-subject-area">
-	<kwd>Cell biology</kwd>
-	</kwd-group>
 
 <funding-group>
 	<award-group id="par-1">
