@@ -4,16 +4,16 @@
 <front>
 
 <journal-meta>
-<journal-id journal-id-type="nlm-ta">eLife</journal-id>
-<journal-id journal-id-type="hwp">eLife</journal-id>
-<journal-id journal-id-type="publisher-id">eLife</journal-id>
-<journal-title-group>
-<journal-title>eLife</journal-title>
-</journal-title-group>
-<issn pub-type="epub">2050-084X</issn>
-<publisher>
-<publisher-name>eLife Sciences Publications, Ltd</publisher-name>
-</publisher>
+	<journal-id journal-id-type="nlm-ta">eLife</journal-id>
+	<journal-id journal-id-type="hwp">eLife</journal-id>
+	<journal-id journal-id-type="publisher-id">eLife</journal-id>
+	<journal-title-group>
+	<journal-title>eLife</journal-title>
+	</journal-title-group>
+	<issn pub-type="epub">2050-084X</issn>
+	<publisher>
+	<publisher-name>elife Sciences Publications, Ltd</publisher-name>
+	</publisher>
 </journal-meta>
 
 <article-meta> 
@@ -125,15 +125,113 @@
 <p>Furthermore, plants also produce so-called direct defenses which directly affect herbivores. Direct defenses may alter the effectiveness of indirect defense by affecting herbivore growth, resistance to attack, and palatability or toxicity to predators and parasitoids.</p>
 </abstract>
 
+	<kwd-group>
+	<kwd>Salpingoeca rosetta</kwd>
+	<kwd>Algoriphagus</kwd>
+	<kwd>bacterial sulfonolipid</kwd>
+	<kwd>multicellular development</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="research-organism">
+	<kwd>Other</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="major-subject-area">
+	<kwd>Cell biology</kwd>
+	</kwd-group>
+
 <funding-group>
-<funding-statement>Funding information All funding was provided by the Max Planck Society, which was not involved in the design of the study, collection or analysis and interpretation of data, nor in the decision to submit this study to eLIFE.</funding-statement>
-</funding-group>
+	<award-group id="par-1">
+	<funding-source>Gordon and Betty Moore Foundation Marine Microbiology Initiative</funding-source>
+	<award-id>Dummy</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>King</surname>
+	<given-names>Nicole</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+<funding-group>
+	<award-group id="par-2">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>F32 GM086054</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Alegado</surname>
+	<given-names>Rosanna A.</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-3">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>F32 GM089018</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Brown</surname>
+	<given-names>Laura W.</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-4">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>R01 GM086258</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Clardy</surname>
+	<given-names>Jon</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-5">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>R01 GM099533</award-id>
+	<principal-award-recipient>
+	<institution>
+	</institution>
+	<name>
+	<surname>Clardy</surname>
+	<given-names>Jon</given-names>
+	</name>
+	<name>
+	<surname>King</surname>
+	<given-names>Nicole</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	</funding-group>
+
+	<funding-group>
+	<award-group id="par-6">
+	<funding-source>National Institutes of Health</funding-source>
+	<award-id>T32 HG00047</award-id>
+	<principal-award-recipient>
+	<name>
+	<surname>Fairclough</surname>
+	<given-names>Stephen R.</given-names>
+	</name>
+	</principal-award-recipient>
+	</award-group>
+	<funding-statement>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</funding-statement>
+	</funding-group>
 
 <custom-meta-group>
-<custom-meta>
-<meta-name>Data statement and reporting standards</meta-name>
-<meta-value>All data will first be deposited to an institute server, and we will consider also depositing it with Dryad.</meta-value>
-</custom-meta>
 	<custom-meta specific-use="meta-only">
 	<meta-name>author-impact-statement</meta-name>
 	<meta-value>
@@ -153,7 +251,7 @@
 	</meta-value>
 	</custom-meta>
 </custom-meta-group>
-	
+
 </article-meta>
 </front>
 
