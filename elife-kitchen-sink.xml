@@ -165,57 +165,6 @@
 	</aff>
 	</contrib-group>
 
-<custom-meta-group>
-	<contrib-group>
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Mullikin</surname>
-	<given-names>Jim</given-names>
-	</name>
-	</contrib>
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Mulvany</surname>
-	<given-names>Ian</given-names>
-	</name>
-	</contrib>
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Bloggs</surname>
-	<given-names>J</given-names>
-	</name>
-	</contrib>
-	</contrib-group>
-
-	<contrib-group>
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Dodd</surname>
-	<given-names>Melissa</given-names>
-	</name>
-	</contrib>
-
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Rogers</surname>
-	<given-names>Fran</given-names>
-	</name>
-	</contrib>
-
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Patterson</surname>
-	<given-names>Mark</given-names>
-	</name>
-	</contrib>
-	<contrib contrib-type="author non-byline">
-	<name>
-	<surname>Harrison</surname>
-	<given-names>Melissa</given-names>
-	</name>
-	</contrib>
-	</contrib-group>
-</custom-meta-group>
 
 	<author-notes>
 	<corresp id="cor1">
@@ -1600,6 +1549,56 @@
 <ack id="ack">
 <title>Acknowledgements</title>
 <p>We thank Michael Fischbach, Richard Losick, and Russell Vance for critical reading of the manuscript. This research was supported by NIH R01 GM099533 (N.K. and J.C.), NIH R01 GM086258 (J.C.), the Gordon and Betty Moore Foundation Marine Microbiology Initiative (N.K.), NIH post-doctoral fellowships to R.A.A. (F32 GM086054) and L.W.B. (F32 GM089018), and NIH training grant T32 HG00047 (S.R.F). N.K. is a Fellow in the Integrated Microbial Biodiversity Program of the Canadian Institute for Advanced Research.</p>
+
+	<contrib-group>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Mullikin</surname>
+	<given-names>Jim</given-names>
+	</name>
+	</contrib>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Mulvany</surname>
+	<given-names>Ian</given-names>
+	</name>
+	</contrib>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Bloggs</surname>
+	<given-names>J</given-names>
+	</name>
+	</contrib>
+	</contrib-group>
+
+	<contrib-group>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Dodd</surname>
+	<given-names>Melissa</given-names>
+	</name>
+	</contrib>
+
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Rogers</surname>
+	<given-names>Fran</given-names>
+	</name>
+	</contrib>
+
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Patterson</surname>
+	<given-names>Mark</given-names>
+	</name>
+	</contrib>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Harrison</surname>
+	<given-names>Melissa</given-names>
+	</name>
+	</contrib>
+	</contrib-group>
 </ack>
 
 
