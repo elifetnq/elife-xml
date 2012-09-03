@@ -16,71 +16,221 @@
 	</publisher>
 </journal-meta>
 
-<article-meta> 
-<article-id pub-id-type="doi">10.7554/eLife.000007</article-id>
-<article-categories>
-<subj-group subj-group-type="heading">
-<subject>Research article</subject>
-</subj-group>
-</article-categories>
-<title-group>
-<article-title>Herbivory-induced volatiles function as defenses increasing fitness of the native plant <italic>Nicotiana attenuata</italic> in nature</article-title>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<name>
-<surname>Schuman</surname>
-<given-names>Meredith C</given-names>
-</name>
-</contrib>
-<contrib contrib-type="author">
-<name>
-<surname>Barthel</surname>
-<given-names>Kathleen</given-names>
-</name>
-<xref ref-type="fn" rid="fn1">&#x2020;</xref>
-</contrib>
-<contrib contrib-type="author" corresp="yes">
-<name>
-<surname>Baldwin</surname>
-<given-names>Ian T</given-names>
-</name>
-<xref ref-type="corresp" rid="cor1">&#x2a;</xref>
-</contrib>
-<aff>
-<addr-line><named-content content-type="department">Department of Molecular Ecology</named-content>
-</addr-line>, <institution>Max Planck Institute for Chemical Ecology</institution>, <addr-line>
-<named-content content-type="city">Jena</named-content>
-</addr-line>, <country>Germany</country></aff>
-</contrib-group>
+<article-meta>
+	<article-id pub-id-type="publisher-id">00013</article-id>
+	<article-id pub-id-type="doi">10.7554/eLife.00013</article-id>
+	<article-categories>
+		<subj-group subj-group-type="heading">
+		<subject>Research article</subject>
+		</subj-group>
+	</article-categories>
+	<title-group>
+	<article-title>Bacterial regulation of colony development in the closest living relatives of animals</article-title>
+	</title-group>
 
-<contrib-group content-type="section">
-<contrib contrib-type="editor">
-<name>
-<surname>Weigel</surname>
-<given-names>Detlef</given-names>
-</name>
-<role>Editor</role>
-</contrib>
-<aff>
-<addr-line>
-<named-content content-type="department">Department of Molecular Ecology</named-content>
-</addr-line>, <institution>Max Planck Institute for Developmental Biology</institution>, <addr-line>
-<named-content content-type="city">T&#xfc;bingen</named-content>
-</addr-line>, <country>Germany</country>&#x2028;</aff>
-</contrib-group>
 
-<author-notes>
-<corresp id="cor1">
-<label>&#x2a;</label>For correspondence: <email>baldwin@ice.mpg.de</email>
-</corresp>
-<fn fn-type="present-address" id="fn1">
-<label>&#x2020;</label>
-<p>Current address: Department of Biology and Ecology, Institute of Biological Sciences, Freiberg, Germany</p>
-</fn>
-<fn fn-type="conflict"><label>Competing interests</label><p>none.</p>
-</fn>
-</author-notes>
+	<contrib-group>
+		<contrib contrib-type="author" id="author-1" equal-contrib="yes">
+		<name>
+		<surname>Alegado</surname>
+		<given-names>Rosanna A.</given-names>
+		</name>
+		<xref ref-type="aff" rid="aff1">1</xref>
+		<xref ref-type="fn" rid="equal-contrib">&#x2021;</xref>
+		<xref ref-type="other" rid="par-2"/>
+		<xref ref-type="fn" rid="con1"/>
+		<xref ref-type="fn" rid="pa1">&#x2020;a</xref>
+		<xref ref-type="other" rid="ro1"/>
+	</contrib>
+	
+	<contrib contrib-type="author" id="author-2" equal-contrib="yes">
+	<name>
+	<surname>Brown</surname>
+	<given-names>Laura W.</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff2">2</xref>
+	<xref ref-type="fn" rid="equal-contrib">&#x2021;</xref>
+	<xref ref-type="other" rid="par-3"/>
+	<xref ref-type="fn" rid="con2"/>
+	<xref ref-type="fn" rid="pa2">&#x2020;b</xref>
+	</contrib>
+
+	<contrib contrib-type="author" id="author-3">
+	<name>
+	<surname>Cao</surname>
+	<given-names>Shugeng</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff2">2</xref>
+	<xref ref-type="fn" rid="con3"/>
+	</contrib>
+	<contrib contrib-type="author" id="author-4">
+	<name>
+	<surname>Dermenjian</surname>
+	<given-names>Renee K.</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff2">2</xref>
+	<xref ref-type="fn" rid="con4"/>
+	</contrib>
+	<contrib contrib-type="author" id="author-5">
+	<name>
+	<surname>Zuzow</surname>
+	<given-names>Richard</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff3">3</xref>
+	<xref ref-type="fn" rid="con5"/>
+	</contrib>
+
+	<contrib contrib-type="author" id="author-6">
+	<name>
+	<surname>Fairclough</surname>
+	<given-names>Stephen R.</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff1">1</xref>
+	<xref ref-type="other" rid="par-6"/>
+	<xref ref-type="fn" rid="con6"/>
+	</contrib>
+
+	<contrib contrib-type="author" corresp="yes" id="author-7">
+	<name>
+	<surname>Clardy</surname>
+	<given-names>Jon</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff2">2</xref>
+	<xref ref-type="corresp" rid="cor1">&#x2a;</xref>
+	<xref ref-type="other" rid="par-4"/>
+	<xref ref-type="other" rid="par-5"/>
+	<xref ref-type="fn" rid="con7"/>
+	<xref ref-type="fn" rid="conf1"/>
+	</contrib>
+
+	<contrib contrib-type="author" corresp="yes" id="author-8">
+	<name>
+	<surname>King</surname>
+	<given-names>Nicole</given-names>
+	</name>
+	<xref ref-type="aff" rid="aff1">1</xref>
+	<xref ref-type="corresp" rid="cor1">&#x2a;</xref>
+	<xref ref-type="other" rid="par-1"/>
+	<xref ref-type="other" rid="par-5"/>
+	<xref ref-type="fn" rid="con8"/>
+	</contrib>
+
+	<contrib contrib-type="author">
+	<collab>NISC Comparative Sequencing Program</collab>
+	<xref ref-type="fn" rid="ga">&#xa7;</xref>
+	</contrib>
+	<contrib contrib-type="author">
+	<collab>eLife staff group</collab>
+	<xref ref-type="fn" rid="ga">&#xa7;</xref>
+	</contrib>
+
+	<aff id="aff1">
+	<label>1</label>
+	<addr-line>
+	<named-content content-type="department">Department of Molecular and Cell Biology</named-content>
+	</addr-line>, <institution>University of California, Berkeley</institution>, <addr-line>
+	<named-content content-type="city">Berkeley</named-content>
+	</addr-line>, <country>United States</country>
+	</aff>
+
+	<aff id="aff2">
+	<label>2</label>
+	<addr-line>
+	<named-content content-type="department">Department of Biological Chemistry and Molecular Pharmacology</named-content>
+	</addr-line>, <institution>Harvard Medical School</institution>, <addr-line>
+	<named-content content-type="city">Boston</named-content>
+	</addr-line>, <country>United States</country>
+	</aff>
+
+	<aff id="aff3">
+	<label>3</label>
+	<addr-line>
+	<named-content content-type="department">Department of Biochemistry</named-content>
+	</addr-line>, <institution>Stanford University School of Medicine</institution>, <addr-line>
+	<named-content content-type="city">Stanford</named-content>
+	</addr-line>, <country>United States</country>
+	</aff>
+	</contrib-group>
+
+	<contrib-group content-type="section">
+	<contrib contrib-type="editor">
+	<name>
+	<surname>Sneden</surname>
+	<given-names>Christopher</given-names>
+	</name>
+	<role>Editor</role>
+	</contrib>
+	<aff>
+	<institution>Pediatric Dengue Vaccine Initiative</institution>, <country>United States of America</country>
+	</aff>
+	</contrib-group>
+
+	<contrib-group>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Mullikin</surname>
+	<given-names>Jim</given-names>
+	</name>
+	</contrib>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Mulvany</surname>
+	<given-names>Ian</given-names>
+	</name>
+	</contrib>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Bloggs</surname>
+	<given-names>J</given-names>
+	</name>
+	</contrib>
+	</contrib-group>
+
+	<contrib-group>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Dodd</surname>
+	<given-names>Melissa</given-names>
+	</name>
+	</contrib>
+
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Rogers</surname>
+	<given-names>Fran</given-names>
+	</name>
+	</contrib>
+
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Patterson</surname>
+	<given-names>Mark</given-names>
+	</name>
+	</contrib>
+	<contrib contrib-type="author non-byline">
+	<name>
+	<surname>Harrison</surname>
+	<given-names>Melissa</given-names>
+	</name>
+	</contrib>
+	</contrib-group>
+
+	<author-notes>
+	<corresp id="cor1">
+	<label>&#x2a;</label>For correspondence: <email>jon_clardy@hms.harvard.edu</email> (J.C.); <email>nking@berkeley.edu</email> (N.K.).</corresp>
+	<fn fn-type="other" id="equal-contrib">
+	<label>&#x2021;</label>
+	<p>These authors contributed equally to this work.</p>
+	</fn>
+	<fn fn-type="other">
+	<label>Clinical trial registration</label>
+	<p>12345678</p>
+	</fn>
+	<fn fn-type="other" id="ga">
+	<label>&#xa7;</label>
+	<p>For list of group authors see Acknowledgements.</p>
+	</fn>
+	</author-notes>
 
 	<pub-date pub-type="epub">
 	<day>31</day><month>08</month><year>2012</year>
