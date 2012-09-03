@@ -493,17 +493,30 @@
 </caption>
 </media>
 
-<media id="jmol1" xlink:role="media-player-id" content-type="play-in-place height-250 width-310" xlink:href="00013jmol1">
-<object-id pub-id-type="doi">10.7554/eLife.00013.02342</object-id>
-<label>Molecule 1.</label>
-<caption>
-<p>This is an example of a payload containing a molecule.</p>
-<p>
-<ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol">https://www.dropbox.com/s/yqgeotanxf81t8r/mol.jmol</ext-link>
-</p>
-</caption>
-</media>
+  <!-- remotely hosted jmol data -->
+    <chem-struct-wrap id="M1">
+      <object-id pub-id-type="doi">10.7554/eLife.00013.02342</object-id>
+      <label>Molecule 1.</label>
+      <caption>
+        <p>This is an example of a payload containing a molecule.</p>
+      </caption>
+      <!-- The @content-type should reflect the mime subtype of the data format used -->
+      <chem-struct content-type="pdb" specific-use="remotely-hosted-data" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol"/>
+    </chem-struct-wrap>
 
+    <!-- remotely hosted jmol data with fallback image -->
+    <chem-struct-wrap id="M2">
+      <object-id pub-id-type="doi">10.7554/eLife.00013.02342</object-id>
+      <label>Molecule 2.</label>
+      <caption>
+        <p>This is an example of a payload containing a molecule and a fallback image</p>
+      </caption>
+      <alternatives>
+        <!-- The @content-type should reflect the mime subtype of the data format used -->
+        <chem-struct content-type="pdb" specific-use="remotely-hosted-data" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol"/>
+        <graphic specific-use="fallback-image" xlink:href="m2.tif"/>
+      </alternatives>
+    </chem-struct-wrap>
 
 <table-wrap id="tbl1" position="float">
 <object-id pub-id-type="doi">10.7554/eLife.00013.003</object-id>
