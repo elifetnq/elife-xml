@@ -223,14 +223,19 @@
 	<label>&#x2021;</label>
 	<p>These authors contributed equally to this work.</p>
 	</fn>
-	<fn fn-type="other">
-	<label>Clinical trial registration</label>
-	<p>12345678</p>
-	</fn>
 	<fn fn-type="other" id="ga">
 	<label>&#xa7;</label>
 	<p>For list of group authors see Acknowledgements.</p>
 	</fn>
+	
+<fn fn-type="present-address" id="pa1">
+<label>a</label>
+<p>Department of Wellcome Trust, Sanger Institute, London, UK</p>
+</fn>
+<fn fn-type="present-address" id="pa2">
+<label>b</label>
+<p>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, United States</p>
+</fn>
 	</author-notes>
 
 	<pub-date pub-type="epub">
@@ -239,7 +244,6 @@
 	<pub-date pub-type="collection">
 	<year>2012</year>
 	</pub-date>
-	<volume>1</volume>
 	<elocation-id>13</elocation-id>
 
 	<history>
@@ -1507,7 +1511,7 @@
 
 
 <sec sec-type="datasets">
-	<title>Dataset</title>
+	<title>Datasets</title>
 	<p>The following datasets were generated</p>
 	<related-object content-type="generated-dataset" id="dataro1" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
 	<name>
@@ -1539,17 +1543,6 @@
 
 
 <back>
-<fn-group>
-<title>&#x2020;Current address</title>
-<fn fn-type="present-address" id="pa1">
-<label>a</label>
-<p>Department of Wellcome Trust, Sanger Institute, London, UK</p>
-</fn>
-<fn fn-type="present-address" id="pa2">
-<label>b</label>
-<p>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, United States</p>
-</fn>
-</fn-group>
 
 <fn-group>
 <title>Author Contributions</title>
@@ -1595,22 +1588,61 @@
 </fn>
 </fn-group>
 
+<fn-group>
+<title>Ethics</title>
+<fn fn-type="other">
+<label>Clinical trial registration</label> 
+<p>INSERT NUMBER PROVIDED</p></fn>
+<fn fn-type="other">
+<label>Human subjects:</label>
+<p>“(Textbox - HUMAN)"></p></fn>
+<fn fn-type="other">
+<label>Animal experimentation:</label>
+<p>“(Textbox - ANIMAL)"></p> 
+</fn>
+</fn-group>
 
-<fn-group>
-<title>Ethics statement</title>
-<fn fn-type="other">
-<p>Human subjects research approved by test text</p>
-<p>Animal subjects research approved by test text</p>
-</fn>
-</fn-group>
-<fn-group>
-<title>Supplemental files</title>
-<fn fn-type="other">
-<p>
-<ext-link ext-link-type="uri" xlink:href="http://www.elifesciences.org/lookup/suppl/doi:10.7554/eLife.00007/-/DC1/ARRIVE_guidelines.pdf" xlink:type="simple">http://www.elifesciences.org/researcharticle/00007.DC1/ARRIVE_guidelines.pdf</ext-link>
-</p>
-</fn>
-</fn-group>
+<sec sec-type="supplementary-material" id="sec4">
+  <title>Supporting information</title>
+
+  <supplementary-material id="SD1-data">
+    <label>A data file</label>
+    <caption>
+      <title>Demonstrations</title>
+      <p>A video demonstration of the methods used in this paper.</p>
+    </caption>
+    <media xlink:href="lak-23-1-14-s1.mp4" mimetype="video" mime-subtype="mp4"/>
+ </supplementary-material>  
+
+  <supplementary-material id="SD1-reporting-standard">
+    <label>A reporting standard</label>
+    <caption>
+      <title>Demonstrations</title>
+      <p>A video demonstration of the methods used in this paper.</p>
+    </caption>
+    <media xlink:href="lak-23-1-14-s1.pdf" mimetype="pdf" />
+ </supplementary-material>  
+
+  <supplementary-material id="SD1-source-code">
+    <label>A piece of source code</label>
+    <caption>
+      <title>Demonstrations</title>
+      <p>A video demonstration of the methods used in this paper.</p>
+    </caption>
+    <media xlink:href="lak-23-1-14-s1.c" mimetype="text" />
+ </supplementary-material>  
+
+
+  <supplementary-material id="SD1-otherfile">
+    <label>A generic Other file</label>
+    <caption>
+      <title>Demonstrations</title>
+      <p>A video demonstration of the methods used in this paper.</p>
+    </caption>
+    <media xlink:href="lak-23-1-14-s1.rar" mimetype="rar" />
+ </supplementary-material>  
+
+</sec>
 
 
 <fn-group>
@@ -1623,14 +1655,6 @@
 	<p>NK, JC: National Institutes of Health R01 GM099533</p>
 	<p>FS: National Institutes of Health T32 HG00047</p>
 </fn>
-</fn-group>
-
-
-<fn-group>
-	<title>Funding Statement</title>
-	<fn fn-type="other">
-		<p>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</p>
-	</fn>
 </fn-group>
 
 <ack id="ack">
