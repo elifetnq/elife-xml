@@ -474,7 +474,6 @@
 <p>In the choanoflagellate <italic>Salpingoeca rosetta</italic>, rosette-shaped multicellular colonies develop when a single founder cell undergoes multiple rounds of incomplete cytokinesis, leaving neighboring cells physically attached by fine intercellular bridges (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>). Although the original stock of <italic>S. rosetta</italic> (ATCC50818) was established from a rosette colony (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>), laboratory cultures consistently produced single cells, with small numbers of rosette colonies forming only sporadically (<xref ref-type="fig" rid="fig1">Figure 1A</xref>, <xref ref-type="fig" rid="sfig1">Fig. 1 - Figure Supplement 1</xref>). Serendipitously, we discovered that the bacterial community influences rosette colony development. Treatment of the ATCC50818 culture with an antibiotic cocktail resulted in a culture of <italic>S. rosetta</italic> cells that proliferated robustly by feeding on the remaining antibiotic-resistant bacteria but never formed rosette colonies, even upon removal of antibiotics (<xref ref-type="fig" rid="fig1">Figure 1B</xref>). This culture line is hereafter referred to as RCA (for &#x27;Rosette Colonies Absent&#x27;). Supplementation of RCA cultures with bacteria from ATCC50818 (<xref ref-type="table" rid="tbl1">Table 1</xref>) restored rosette colony development, revealing that <italic>S. rosetta</italic> cells in the RCA culture remained competent to form colonies and would do so when stimulated by the original community of environmental bacteria (<xref ref-type="other" rid="video1">Video 1</xref>).
 
 <fig-group>
-
 <fig id="fig1" position="anchor">
 <object-id pub-id-type="doi">10.7554/eLife.00013.001</object-id>
 <label>Fig. 1</label>
@@ -1605,41 +1604,40 @@
 <sec sec-type="supplementary-material" id="sec4">
   <title>Supporting information</title>
 
-  <supplementary-material id="SD1-data">
-    <label>A data file</label>
+  <supplementary-material id="SD1-data" xlink:href="http://dx.doi.org/doi/elife.aoimsiof.098098"  xlink:type="simple" xlink:show="embed" xlink:title="http://dx.doi.org/doi/elife.aoimsiof.098098">
+    	<label>http://dx.doi.org/elife.aoimsiof.098098</label>
     <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+      <title>This is data that was used to graph a particular figure</title>
+      <p>This data set is very interesting.</p>
     </caption>
-    <media xlink:href="lak-23-1-14-s1.mp4" mimetype="video" mime-subtype="mp4"/>
+    <media xlink:href="lak-23-1-kljlkj14-s1.csv" mimetype="csv" mime-subtype="csv"/>
  </supplementary-material>  
 
   <supplementary-material id="SD1-reporting-standard">
-    <label>A reporting standard</label>
+    	<label>http://dx.doi.org/elife.aoimsiof.098098234</label>
     <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+      <title>A very important reporting standard</title>
+      <p>We include the reporting standard from the very important organisation Org, because we have followed this reporting standard so closely.</p>
     </caption>
-    <media xlink:href="lak-23-1-14-s1.pdf" mimetype="pdf" />
+    <media xlink:href="lak-23-1ijhftydy-14-s1.pdf" mimetype="pdf" mime-subtype="pdf" />
  </supplementary-material>  
 
-  <supplementary-material id="SD1-source-code">
-    <label>A piece of source code</label>
+  <supplementary-material id="SD1-source-code"> 
+  	<label>http://dx.doi.org/elife.aoimsiof.098098234asdf</label>
     <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+      <title>This is the source code that was used to divine the secrets of the gnene matching of the lesser spotted frog.</title>
+      <p>.</p>
     </caption>
-    <media xlink:href="lak-23-1-14-s1.c" mimetype="text" />
+    <media xlink:href="lak-23oitrsres-1-14-s1.c" mimetype="text" mime-subtype="txt" />
  </supplementary-material>  
-
 
   <supplementary-material id="SD1-otherfile">
-    <label>A generic Other file</label>
-    <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+   	<label>http://dx.doi.org/e.ife8234</label>
+  	  <caption>
+      <title>A recording of the lesser sotted frog in it's natural habbitat.</title>
+      <p>The frog was in a happy mood, and sang like a bird.</p>
     </caption>
-    <media xlink:href="lak-23-1-14-s1.rar" mimetype="rar" />
+    <media xlink:href="lak-2khggcjyt3-1-14-s1.rar" mimetype="rar" mime-subtype="rar" />
  </supplementary-material>  
 
 </sec>
@@ -3621,6 +3619,7 @@
 <sub-article article-type="article-commentary" id="SA1">
 
     <front-stub>
+    	<article-id pub-id-type="doi">10.7554/eLife.00013.0999u0.asdifojas.i2</article-id>
         <title-group><article-title>Decision letter</article-title></title-group>
 
 	<contrib-group>
@@ -3672,6 +3671,7 @@
 
   <sub-article article-type="reply" id="s026">
 <front-stub>
+	<article-id pub-id-type="doi">10.7554/eLife.00013.0999u0.asdifojasi2</article-id>
 <title-group>
 <article-title>Author letter</article-title>
 </title-group>
