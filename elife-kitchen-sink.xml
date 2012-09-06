@@ -1512,40 +1512,37 @@
 
 
 
-<sec sec-type="datasets">
-	<title>Major Datasets</title>
-	<p>The following datasets were generated</p>
-	<related-object content-type="generated-dataset" id="dataro1" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
-	<name>
-	<surname>Alegado</surname>
-	<given-names>Rosanna A</given-names>
-	</name>
-	<year>2012</year>
-	<source>Title</source>
-	<comment>Database, license, and accessibility information</comment>
-	</related-object>
-	<p>The following are previously published datasets</p>
-	<related-object content-type="generated-dataset" id="dataro2" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
-	<name>
-	<surname>Fowler-Finn</surname>
-	<given-names>KD</given-names>
-	</name>
-	<name>
-	<surname>Rodriguez</surname>
-	<given-names>RL</given-names>
-	</name>
-	<year>2012</year>
-	<source>The evolution of experience-mediated plasticity in mate preference</source>
-	<comment>Creative Commons, stored on Dryad, available on publication of the article</comment>
-	</related-object>
-</sec>
-
 
 </body>
 
 
 <back>
 
+<ack id="ack">
+<title>Acknowledgements</title>
+<p>We thank Michael Fischbach, Richard Losick, and Russell Vance for critical reading of the manuscript. This research was supported by NIH R01 GM099533 (N.K. and J.C.), NIH R01 GM086258 (J.C.), the Gordon and Betty Moore Foundation Marine Microbiology Initiative (N.K.), NIH post-doctoral fellowships to R.A.A. (F32 GM086054) and L.W.B. (F32 GM089018), and NIH training grant T32 HG00047 (S.R.F). N.K. is a Fellow in the Integrated Microbial Biodiversity Program of the Canadian Institute for Advanced Research.</p>
+</ack>
+
+
+<sec sec-type="funding-infromation" id="sec4">
+	  <title>Funding</title>
+<fn-group>
+<title>Funding Information</title>
+<fn fn-type="other">
+	<p>The authors of this paper were supported through the following grants</p>
+	<p>RA: National Institutes of Health F32 GM086054</p>
+	<p>LB: National Institutes of Health F32 GM089018</p>
+	<p>JC: National Institutes of Health R01 GM086258</p>
+	<p>NK, JC: National Institutes of Health R01 GM099533</p>
+	<p>FS: National Institutes of Health T32 HG00047</p>
+</fn>
+</fn-group>
+</sec>
+
+
+
+<sec sec-type="additional-infromation" id="sec2342">
+	  <title>Additional information</title>
 <fn-group>
 <title>Author Contributions</title>
 <fn fn-type="con" id="con1">
@@ -1603,8 +1600,38 @@
 <p>“(Textbox - ANIMAL)"></p> 
 </fn>
 </fn-group>
+</sec>
 
-<sec sec-type="supplementary-material" id="sec4">
+<sec sec-type="datasets">
+	<title>Major Datasets</title>
+	<p>The following datasets were generated</p>
+	<related-object content-type="generated-dataset" id="dataro1" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
+	<name>
+	<surname>Alegado</surname>
+	<given-names>Rosanna A</given-names>
+	</name>
+	<year>2012</year>
+	<source>Title</source>
+	<comment>Database, license, and accessibility information</comment>
+	</related-object>
+	<p>The following are previously published datasets</p>
+	<related-object content-type="generated-dataset" id="dataro2" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
+	<name>
+	<surname>Fowler-Finn</surname>
+	<given-names>KD</given-names>
+	</name>
+	<name>
+	<surname>Rodriguez</surname>
+	<given-names>RL</given-names>
+	</name>
+	<year>2012</year>
+	<source>The evolution of experience-mediated plasticity in mate preference</source>
+	<comment>Creative Commons, stored on Dryad, available on publication of the article</comment>
+	</related-object>
+</sec>
+
+
+<sec sec-type="supplementary-material" id="sec23">
   <title>Additional Files</title>
 
   <supplementary-material id="SD1-data">
@@ -1647,22 +1674,7 @@
 </sec>
 
 
-<fn-group>
-<title>Funding Information</title>
-<fn fn-type="other">
-	<p>The authors of this paper were supported through the following grants</p>
-	<p>RA: National Institutes of Health F32 GM086054</p>
-	<p>LB: National Institutes of Health F32 GM089018</p>
-	<p>JC: National Institutes of Health R01 GM086258</p>
-	<p>NK, JC: National Institutes of Health R01 GM099533</p>
-	<p>FS: National Institutes of Health T32 HG00047</p>
-</fn>
-</fn-group>
 
-<ack id="ack">
-<title>Acknowledgements</title>
-<p>We thank Michael Fischbach, Richard Losick, and Russell Vance for critical reading of the manuscript. This research was supported by NIH R01 GM099533 (N.K. and J.C.), NIH R01 GM086258 (J.C.), the Gordon and Betty Moore Foundation Marine Microbiology Initiative (N.K.), NIH post-doctoral fellowships to R.A.A. (F32 GM086054) and L.W.B. (F32 GM089018), and NIH training grant T32 HG00047 (S.R.F). N.K. is a Fellow in the Integrated Microbial Biodiversity Program of the Canadian Institute for Advanced Research.</p>
-</ack>
 
 
 <ref-list>
