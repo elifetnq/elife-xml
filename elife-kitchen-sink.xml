@@ -1617,12 +1617,45 @@
 	<surname>Alegado</surname>
 	<given-names>Rosanna A</given-names>
 	</name>
+	<label>, </label>
+	<name>
+	<surname>Peterson</surname>
+	<given-names>William Gunn P</given-names>
+	</name>
+	<label>, </label>
 	<year>2012</year>
-	<source>Title</source>
+	<label>, </label>
+	<source>The second awesome dataset</source>
+	<label>. </label>
+	<ext-link ext-link-type="uri">http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615</ext-link>
+	<label> (</label>
 	<comment>Database, license, and accessibility information</comment>
+	<label>)</label>
+	<hr/>
+	</related-object>
+	<related-object content-type="generated-dataset" id="dataro2" document-id="Dataset ID and/or url 2" document-type="data" document-id-type="dataset">
+	<name>
+	<surname>Alegado</surname>
+	<given-names>Rosanna A</given-names>
+	</name>
+	<label>, </label>
+	<name>
+	<surname>Peterson</surname>
+	<given-names>William Gunn P</given-names>
+	</name>
+	<label>, </label>
+	<year>2012</year>
+	<label>, </label>
+	<source>The title of the dataset</source>
+	<label>. </label>
+	<ext-link ext-link-type="uri">http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
+	<label> (</label>
+	<comment>Database, license, and accessibility information</comment>
+	<label>)</label>
+	<hr/>
 	</related-object>
 	<p>The following are previously published datasets</p>
-	<related-object content-type="generated-dataset" id="dataro2" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
+	<related-object content-type="generated-dataset" id="dataro3" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
 	<name>
 	<surname>Fowler-Finn</surname>
 	<given-names>KD</given-names>
@@ -1631,9 +1664,16 @@
 	<surname>Rodriguez</surname>
 	<given-names>RL</given-names>
 	</name>
+	<label>, </label>
 	<year>2012</year>
+	<label>, </label>
 	<source>The evolution of experience-mediated plasticity in mate preference</source>
-	<comment>Creative Commons, stored on Dryad, available on publication of the article</comment>
+	<label>. </label>
+	<ext-link ext-link-type="uri">http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
+	<label> (</label>
+	<comment>Creative Commons, stored on Dryad, available on publication of the article)</comment>
+	<label>)</label>
+	<hr/>
 	</related-object>
 </sec>
 
