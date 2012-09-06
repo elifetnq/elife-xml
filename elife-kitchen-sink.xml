@@ -464,7 +464,8 @@
 	</custom-meta>
 </custom-meta-group>
 
-<custom-meta-group id="kw-custom-meta">
+<custom-meta-group>
+	<custom-meta specific-use="meta-only">
 	<custom-meta>
 		<meta-name>Major subject area</meta-name>
 		<meta-value>Cell biology</meta-value>
