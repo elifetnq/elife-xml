@@ -336,21 +336,6 @@
 	<p>The work of Alegado <italic>et al.</italic> suggests that interactions between <italic>S. rosetta</italic> and <italic>Algoriphagus</italic> bacteria could be a productive model system for studying the influences of bacteria on animal cell biology and for investigating the mechanisms of signal delivery and reception. Moreover, the molecular mechanisms revealed by this work leave open the possibility that bacteria might have contributed to the evolution of multicellularity in animals.</p>
 	</abstract>
 
-	<kwd-group>
-	<kwd>Salpingoeca rosetta</kwd>
-	<kwd>Algoriphagus</kwd>
-	<kwd>bacterial sulfonolipid</kwd>
-	<kwd>multicellular development</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="research-organism">
-	<kwd>Other</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="major-subject-area">
-	<kwd>Cell biology</kwd>
-	</kwd-group>
-
-
-
 <funding-group>
 	<award-group id="par-1">
 	<funding-source>Gordon and Betty Moore Foundation Marine Microbiology Initiative</funding-source>
@@ -447,22 +432,36 @@
 
 <custom-meta-group>
 	<custom-meta specific-use="meta-only">
-	<meta-name>author-impact-statement</meta-name>
+	<meta-name>Author impact statement</meta-name>
 	<meta-value>
-	<fn fn-type="other">
-	<label>Author Impact Statement</label>
-	<p>The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules</p>
-	</fn>
+	The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules
 	</meta-value>
 	</custom-meta>
 	<custom-meta specific-use="meta-only">
-	<meta-name>editor-impact-statement</meta-name>
+	<meta-name>Editor impact statement</meta-name>
 	<meta-value>
-	<fn fn-type="other">
-	<label>Editor Impact Statement</label>
-	<p>The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules</p>
-	</fn>
+	The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules
 	</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
+		<meta-name>Major subject area</meta-name>
+		<meta-value>Cell biology</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
+		<meta-name>Author supplied keyword</meta-name>
+		<meta-value>Bacterial sulfonolipid</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
+		<meta-name>Author supplied keyword</meta-name>
+		<meta-value>Algoriphagus</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
+		<meta-name>Research organisim</meta-name>
+		<meta-value>Other</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
+		<meta-name>Research organisim</meta-name>
+		<meta-value>E Coli</meta-value>
 	</custom-meta>
 </custom-meta-group>
 
