@@ -1,0 +1,21 @@
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f001"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs001"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f003"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs002"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs003"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs004"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs005"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs006"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs007"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs008"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs009"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs010"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs011"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs012"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs013"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs014"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs015"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs016"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f004"/>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs017"/>
