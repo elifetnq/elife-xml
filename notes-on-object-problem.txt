@@ -32,4 +32,6 @@ Some notes:
   INFO    :[2012-09-05 05:50:40]: SUMMARY:
 > Processed = 0; Errors = 1; Warnings = 0
 
+it turns out this was a bug in the PMC previewer, which has now been fixed, yay!
+
 
