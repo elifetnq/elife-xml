@@ -5,11 +5,9 @@
 - make decision on data statement tagging @done 
 - make decision on sub-image tagging @done 
 - figure order is odd. @done 
-
-
-- review issue around identifiers in sub-articles - this really seems to be an error in the PMC previewer.
-- figure out how to hide author names as "group authors"
-- keywords are repeated in the executive summary 
-- spacing issue in data statement. 
-- object ids do not appear in figures. 
+- review issue around identifiers in sub-articles - this really seems to be an error in the PMC previewer. @done
+- figure out how to hide author names as "group authors" @done
+- keywords are repeated in the executive summary  @done
+- spacing issue in data statement. @done
+- object ids do not appear in figures. @done
 
