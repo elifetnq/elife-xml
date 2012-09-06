@@ -482,6 +482,13 @@
 <caption>
 <p>
 <bold>Rosette colony development in <italic>S. rosetta</italic> is regulated by <italic>A. machipongonensis</italic>. A</bold>. The original culture of <italic>S. rosetta</italic>, ATCC 50818, contains diverse co-isolated environmental bacteria and forms rosette colonies (arrowheads) rarely. <bold>B</bold>. Treatment of ATCC50818 with a cocktail of antibiotics reduced the bacterial diversity and yielded an <italic>S. rosetta</italic> culture line, RCA, in which rosette colonies never formed. (Representative single cells indicated by arrows.) <bold>C</bold>. Addition of <italic>A. machipongonensis</italic> to RCA cultures was sufficient to induce rosette development. Scale bar, 20 &#x3bc;m.</p>
+<p>
+	<bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/10.7554/eLife.00013.001</ext-link>
+</p>
+<p>
+	<bold>Figure 1, source data 1</bold> This is the title of the source data file
+</p>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/10.7554/eLife.00013.001</ext-link></p>
 </caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f001"/>
 </fig>
@@ -492,7 +499,7 @@
 <caption>
 <p>
 <bold>Frequency of rosette colonies in <italic>S. rosetta</italic> environmental isolate ATCC 50818, RCA with and without <italic>A. machipongonensis</italic> and a monoxenic line with <italic>A. machipongonensis</italic> feeder bacteria (Px1)</bold>. Altering bacterial diversity in <italic>S. rosetta</italic> cultures alters the frequency of rosette colonies. Data are the whisker-box plots of the frequency of colonial cells in ATCC 50818 and a monoxenic culture of <italic>S. rosetta</italic> fed only <italic>A. machipongonensis</italic> bacteria (Px1) for three experiments.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs001"/>
 </fig>
 </fig-group>
@@ -505,7 +512,7 @@
 <p>
 <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/Video%20S1.AVI">https://www.dropbox.com/s/yqgeotanxf81t8r/Video%20S1.AVI</ext-link>
 </p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 </media>
 
   <!-- remotely hosted jmol data -->
@@ -514,7 +521,7 @@
       <label>Molecule 1.</label>
       <caption>
         <p>This is an example of a payload containing a molecule.</p>
-      </caption>
+      <p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
       <!-- The @content-type should reflect the mime subtype of the data format used -->
       <chem-struct content-type="pdb" specific-use="remotely-hosted-data" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol"/>
     </chem-struct-wrap>
@@ -525,7 +532,7 @@
       <label>Molecule 2.</label>
       <caption>
         <p>This is an example of a payload containing a molecule and a fallback image</p>
-      </caption>
+      <p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
       <alternatives>
         <!-- The @content-type should reflect the mime subtype of the data format used -->
         <chem-struct content-type="pdb" specific-use="remotely-hosted-data" xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol"/>
@@ -538,7 +545,7 @@
 <label>Table 1.</label>
 <caption>
 <p>Species tested for colony induction</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <table frame="hsides" rules="groups">
 <thead>
 <tr>
@@ -929,7 +936,7 @@
 <caption>
 <p>
 <bold>Diverse members of the Bacteroidetes phylum induce rosette colony development</bold>. A maximum likelihood phylogeny inferred from 16S rDNA gene sequences reveals the evolutionary relationships among <italic>A. machipongonensis</italic>, other members of the Bacteroidetes phylum, and representative &#x3b3;-proteobacteria (&#x3b3;)<italic>,</italic> &#x3b1;-proteobacteria (&#x3b1;)<italic>,</italic> and Gram-positive (&#x2b;) bacteria. All 15 members of the <italic>Algoriphagus</italic> genus (<xref ref-type="table" rid="tbl1">Table 1</xref>), as well as six other species in the Bacteroidetes phylum, were competent to induce colony development (filled squares). In contrast, no species outside of Bacteroidetes and most of the non-<italic>Algoriphagus</italic> bacteria tested failed to induce rosette colony development (open squares). Scale bar, 0.1 substitutions per nucleotide position.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"/>
 </fig>
 
@@ -939,7 +946,7 @@
 <label>Table 2.</label>
 <caption>
 <p>Responses of RCA<xref ref-type="table-fn" rid="tblfn2">&#x2a;</xref> culture to various supplements</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <table frame="hsides" rules="groups">
 <thead>
 <tr>
@@ -1076,7 +1083,7 @@
 <caption>
 <p>
 <bold>RIF-1, a sulfonolipid that induces rosette colony development. A</bold>. Rosette colony development is induced by live <italic>A. machipongonensis</italic> and the sphingolipid-enriched lipid fraction (20 mg/ml), but not by fresh medium, <italic>A. machipongonensis</italic> LPS (10 mg/ml), PGN (50 mg/ml), or LPS&#x2b;PGN. Shown are the whisker-box plots of the % colonial cells/total cells under each condition in three independent experiments. <bold>B</bold>. The molecular structure of RIF-1 deduced from MS and 1D- and 2D-NMR data. The RIF-1 structure, 3,5-dihydroxy-2-(2-hydroxy-13-methyltetradecanamido)-15-methylhexadecane-1-sulfonic acid, has two parts: a base (shown in red) that defines the capnine, and a fatty acid (shown in black). Features that distinguish RIF-1 from other known capnoids are shown with colored arrows: the 2-hydroxy on the fatty acid (black) and the 5-hydroxy on the capnine base (red).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f003"/>
 </fig>
 
@@ -1086,7 +1093,7 @@
 <caption>
 <p>
 <bold>Separation of <italic>A. machipongonensis</italic> sphingolipids by thin layer chromatography (TLC)</bold>. Lipids enriched in sphingolipids were separated by TLC after visualization with ammonium molybdate in 10% H<sub>2</sub>SO<sub>4</sub>. Bands (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>; <xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>) as well as regions between bands (A-F) were tested for morphogenic activity. Region F possessed activity and was further purified.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs002"/>
 </fig>
 
@@ -1096,7 +1103,7 @@
 <caption>
 <p>
 <bold>MS/MS analysis of RIF-1</bold>. A major fragment derived from <italic>m/z</italic> &#x3d; 606 (M-H) in the MS/MS spectrum of RIF-1 corresponds to amino-sulfonic acid <bold>S1</bold>. <bold>HRMS</bold> <italic>m/z</italic> calcd for C<sub>17</sub>H<sub>36</sub>NO<sub>5</sub>S (M-H): 366.23142. Found: 366.2310 (M-H)<sup>&#x2212;</sup>.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs003"/>
 </fig>
 
@@ -1108,7 +1115,7 @@
 <bold>Key two-dimensional (2D) correlations (a-c) and NMR spectra (d-m) of RIF-1</bold>. <bold>A</bold>. <bold>Observed COSY correlations</bold>: Red double-head arrows show key <sup>3</sup>
 <italic>J</italic> or <sup>4</sup>
 <italic>J</italic> H-H correlations in the head regions (1 to 6 and 2&#x2019; to 3&#x2019;) of the fatty acid and the capnine base and in the tail regions with geminal dimethyl groups (14 to 17 and 12&#x2019; to 15&#x2019;).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs004"/>
 </fig>
 
@@ -1120,7 +1127,7 @@
 <bold>B</bold>. <bold>Observed HMBC correlations</bold>: Blue single-head arrows show key <sup>2</sup>
 <italic>J</italic> or <sup>3</sup>
 <italic>J</italic> H-C correlations in the head and tail regions of the fatty acid and capnine base. The correlations between C-1&#x2019; and H-2/N-H demonstrated that the fatty acid and capnine base are joined through an amide bond.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs005"/>
 </fig>
 
@@ -1130,7 +1137,7 @@
 <caption>
 <p>
 <bold>C</bold>. <bold>Observed TOCSY spin systems</bold>: Green bonds show two key spin systems in RIF-1 &#x2013; HO-CH- in the fatty acid fragment and -CH<sub>2</sub>-CH(NH)-CH(OH)-CH<sub>2</sub>-CH(OH)-CH<sub>2</sub>- in the capnine base fragment.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs006"/>
 </fig>
 
@@ -1143,7 +1150,7 @@
 <bold>1</bold>
 </sup>
 <bold>H NMR spectrum of RIF-1</bold>: The spectrum exhibits one NH (&#x3b4;<sub>H</sub> 8.21), three hydroxyl groups (&#x3b4;<sub>H</sub> 5.52, 5.20, and 4.31), five signals from 2.50-4.00 ppm (four methines connected to either nitrogen at &#x3b4;<sub>H-2</sub> 3.88 or oxygens at &#x3b4;<sub>H-2&#x2019;</sub> 3.80/&#x3b4;<sub>H-3</sub> 3.71-3.78/&#x3b4;<sub>H-5</sub> 3.53-3.61, and one methylene connected to sulfur at &#x3b4;<sub>H-1</sub> 2.56 &#x26; 3.01), twenty methylenes and four methyls (&#x3b4;<sub>H</sub> d, <italic>J</italic> &#x3d; 6.6 Hz, 12H) in the high field region (&#x3b4;<sub>H</sub> 0.75-1.75 ppm).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs007"/>
 </fig>
 
@@ -1154,7 +1161,7 @@
 <p>
 <bold>E</bold>. <bold>gHMQC spectrum of RIF-1</bold>: The <sup>1</sup>
 <italic>J</italic> H-C correlations demonstrate that 2 (&#x3b4;<sub>H</sub> 3.88, &#x3b4;<sub>C</sub> 50.89) is connected to a nitrogen; 2&#x2019;, 3, and 5 (&#x3b4;<sub>H</sub> 3.80/&#x3b4;<sub>C</sub> 71.29, &#x3b4;<sub>H</sub> 3.71-3.78/&#x3b4;<sub>C</sub> 71.51, and &#x3b4;<sub>H</sub> 3.53-3.61/&#x3b4;<sub>C</sub> 70.20, respectively) are oxygenated; 1 (&#x3b4;<sub>H</sub> 3.01 and 2.56, &#x3b4;<sub>C</sub> 51.87) is adjacent to a sulfonic acid group; and all the other twenty methylenes and four methyls at high filed (&#x3b4;<sub>H</sub> 0.75-1.75/&#x3b4;<sub>C</sub> 22.00-42.00).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs008"/>
 </fig>
 
@@ -1164,7 +1171,7 @@
 <caption>
 <p>
 <bold>F</bold>. <bold>gCOSY spectrum of RIF-1</bold>: Indicated are important H-H correlations between NH and H-2, 2&#x2019;-OH and H-2&#x2019;, 3-OH and H-3, and 5-OH and H-5.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs009"/>
 </fig>
 
@@ -1174,7 +1181,7 @@
 <caption>
 <p>
 <bold>G. dqfCOSY spectrum of RIF-1</bold>: A dqfCOSY spectrum was collected in order to get a clear connectivity in the oxygenated region (1-position to 6-position) in the capnoid base fragment.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs010"/>
 </fig>
 
@@ -1184,7 +1191,7 @@
 <caption>
 <p>
 <bold>H</bold>. <bold>Expanded dqfCOSY spectra of RIF-1</bold>: In panel A (&#x3b4;<sub>H</sub> 1.15-1.65 ppm/&#x3b4;<sub>H</sub> 3.52-3.82 ppm), H-3 (&#x3b4;<sub>H</sub> 3.73) shows correlation to H-4a (&#x3b4;<sub>H</sub> 1.30), H-5 (&#x3b4;<sub>H</sub> 3.57) to H-4a/H-4b (&#x3b4;<sub>H</sub> 1.30/1.47), and H-5 to H<sub>2</sub>-6 (&#x3b4;<sub>H</sub> 1.20/1.29); H-2&#x2019; (&#x223c;&#x3b4;<sub>H</sub> 3.8) correlates to H<sub>2</sub>-3&#x2019; (&#x3b4;<sub>H</sub> 1.45 and 1.54). Panel B (&#x3b4;<sub>H</sub> 2.4-4.0 ppm/&#x3b4;<sub>H</sub> 2.4-4.0 ppm) demonstrates the correlations between H<sub>2</sub>-1 (&#x3b4;<sub>H</sub> 2.56/&#x223c;3.0) and H-2 (&#x3b4;<sub>H</sub> 3.88), and between H-2 and H-3. Panel C (&#x3b4;<sub>H</sub> 0.75-1.60 ppm/&#x3b4;<sub>H</sub> 0.75-1.60 ppm) exhibits correlations in the other methylenes and methyl groups.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs011"/>
 </fig>
 
@@ -1196,7 +1203,7 @@
 <bold>I</bold>. <bold>gHMBC spectrum of RIF-1</bold>: Indicated are important <sup>2</sup>
 <italic>J</italic> or <sup>3</sup>
 <italic>J</italic> H-C correlations between NH/H-2/H-2&#x2019; and C-1&#x2019; (&#x3b4;<sub>C</sub> 173.23), and between NH and C-2/C-3 (&#x3b4;<sub>C</sub> 50.89/71.51). Based on the MS/MS analysis (Supplementary <xref ref-type="fig" rid="sfig5">Figure 4</xref>), the fatty acid fragment must be 2-hydroxy-13-methyltetradecanoyl, and the capnine base fragment must be 2-NH-3,5-dihydroxy-15-methylhexadecane-1-sulfonate. Hence, the planar structure of RIF-1 is determined as shown in Fig. 3 and Supplementary Figure 5a-5c.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs012"/>
 </fig>
 
@@ -1212,7 +1219,7 @@
 <sub>
 <bold>C</bold>
 </sub> <bold>15.0-85.0 ppm)</bold>: Indicated are correlations between H-2 to C-4/C-1 (&#x3b4;<sub>C</sub> 41.36/51.87), between H-2&#x2019; and C-4&#x2019;/C-3&#x2019; (&#x3b4;<sub>C</sub> 24.99/34.85), between H-1 and C-2/C-3 (&#x3b4;<sub>C</sub> 50.89/71.51), and between H-4 and C-5/C-3 (&#x3b4;<sub>C</sub> 70.20/71.51).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs013"/>
 </fig>
 
@@ -1228,7 +1235,7 @@
 <sub>
 <bold>C</bold>
 </sub> <bold>20.0-40.0 ppm)</bold>: Key correlations are between H-16 and C-14/C-15/C-17 (&#x3b4;<sub>C</sub> 38.91/27.79/22.09), between H-17 and C-14/C-15/C-16 (&#x3b4;<sub>C</sub> 38.91/27.79/22.09), between H-14&#x2019; and C-12&#x2019;/C-13&#x2019;/C-15&#x2019; (&#x3b4;<sub>C</sub> 38.91/27.79/22.09), and between H-15&#x2019; and C-12&#x2019;/C-13&#x2019;/C-14&#x2019; (&#x3b4;<sub>C</sub> 38.91/27.79/22.09).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs014"/>
 </fig>
 
@@ -1238,7 +1245,7 @@
 <caption>
 <p>
 <bold>L</bold>. <bold>TOCSY spectrum of RIF-1</bold>: The spectrum shows correlations from NH to H<sub>2</sub>-1 and H-5 through H-2, H-3 and H<sub>2</sub>-4, and from 3-OH to H-5 via H<sub>2</sub>-4 and H<sub>2</sub>-1 through H-3 and H-2.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs015"/>
 </fig>
 
@@ -1254,7 +1261,7 @@
 <sub>
 <bold>H</bold>
 </sub> <bold>0.50-4.25 ppm)</bold>: Another important spin system is clearly demonstrated by the TOCSY correlations between H-2&#x2019; and H<sub>2</sub>-3&#x2019;/H-4&#x2019;/H-5&#x2019; on the top left of the expanded spectrum.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs016"/>
 </fig>
 </fig-group>
@@ -1265,7 +1272,7 @@
 <label>Table 3.</label>
 <caption>
 <p>Table of NMR chemical shifts</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <table>
 <thead>
 <tr>
@@ -1412,7 +1419,7 @@
 <caption>
 <p>
 <bold>Purified RIF-1 is active at plausible environmental concentrations</bold>. RIF-1 concentrations ranging from 10<sup>&#x2212;2</sup> &#x2013; 10<sup>7</sup> fM induce rosette colony development in RCA cultures. Frequency of rosette colony development was quantified in RCA cultures two days after treatment with a dilution series of purified RIF-1. Data are mean &#xb1; s.e. from three independent experiments.. Line indicates non-linear regression of the RIF-1 activity profile.</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f004"/>
 </fig>
 
@@ -1422,7 +1429,7 @@
 <caption>
 <p>
 <bold>Quantification of RIF-1 levels in conditioned medium. A</bold>. Detection of purified RIF-1. RIF-1 did not show absorbance at 210 nm (top panel), but the molecule (606 Da, M-H) was detected between 25 and 26 minutes (bottom panel). <bold>B</bold>. Detection of RIF-1 in the conditioned medium of <italic>A. machipongonensis</italic>. RIF-1 (bottom panel) was detected in the conditioned medium after the broth was concentrated 250 times. <bold>C</bold>. Co-injection of the concentrated conditioned medium with purified RIF-1. The peak of the RIF-1 in the conditioned medium was enhanced after the sample was spiked with purified RIF-1 (bottom panel).</p>
-</caption>
+<p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="child-fig" xlink:href="elife00013fs017"/>
 </fig>
 </fig-group>
@@ -1639,7 +1646,7 @@
     <caption>
       <title>Demonstrations</title>
       <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
     <media xlink:href="lak-23-1-14-s1.mp4" mimetype="video" mime-subtype="mp4"/>
  </supplementary-material>  
 
@@ -1648,7 +1655,7 @@
     <caption>
       <title>Demonstrations</title>
       <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
     <media xlink:href="lak-23-1-14-s1.pdf" mimetype="pdf" />
  </supplementary-material>  
 
@@ -1657,7 +1664,7 @@
     <caption>
       <title>Demonstrations</title>
       <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
     <media xlink:href="lak-23-1-14-s1.c" mimetype="text" />
  </supplementary-material>  
 
@@ -1667,7 +1674,7 @@
     <caption>
       <title>Demonstrations</title>
       <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi">http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
     <media xlink:href="lak-23-1-14-s1.rar" mimetype="rar" />
  </supplementary-material>  
 
