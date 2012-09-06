@@ -1,0 +1,37 @@
+Some notes:
+
+- Jeff gets a version to work
+- object ids are not allowed in the content model (see _v1)
+
+- converting front-stub to front produces the following error:
+
+  Conversion process failed
+  INFO    :[2012-09-05 05:50:39]: =======================
+> ======================
+  INFO    :[2012-09-05 05:50:39]: [user: pmc]
+  ERROR   :[2012-09-05 05:50:40]: elife-kitchen-sink_v2-i
+> nvalid.XML: <<<= check the error source here.
+  ERROR   :[2012-09-05 05:50:40]: Warning:
+> Content model for front does not allow
+> element article-id here in unnamed entity
+> at line 3624 char 17  
+  ERROR   :[2012-09-05 05:50:40]: Warning
+> Content model for front does not allow
+> element article-id here in unnamed entity
+> at line 3676 char 13  
+  ERROR   :[2012-09-05 05:50:40]: elife-kitchen-sink_v2-i
+> nvalid.XML: Warning: Content model for
+> front does not allow element article-id
+> here in unnamed entity at line 3624 char 17  
+  ERROR   :[2012-09-05 05:50:40]: Warning
+> Content model for front does not allow
+> element article-id here in unnamed entity
+> at line 3676 char 13  
+  INFO    :[2012-09-05 05:50:40]: elife-kitchen-sink_v2.x
+> ml: FAILED [processed in  0.39 sec.]
+  INFO    :[2012-09-05 05:50:40]: SUMMARY:
+> Processed = 0; Errors = 1; Warnings = 0
+
+it turns out this was a bug in the PMC previewer, which has now been fixed, yay!
+
+
