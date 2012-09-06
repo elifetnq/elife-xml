@@ -349,7 +349,28 @@
 	<kwd>Cell biology</kwd>
 	</kwd-group>
 
-
+<custom-meta-group id="kw-custom-meta">
+	<custom-meta>
+		<meta-name>Major subject area</meta-name>
+		<meta-value>Cell biology</meta-value>
+	</custom-meta>
+	<custom-meta>
+		<meta-name>Author supplied keyword</meta-name>
+		<meta-value>Bacterial sulfonolipid</meta-value>
+	</custom-meta>
+	<custom-meta>
+		<meta-name>Author supplied keyword</meta-name>
+		<meta-value>Algoriphagus</meta-value>
+	</custom-meta>
+	<custom-meta>
+		<meta-name>Research organisim</meta-name>
+		<meta-value>Other</meta-value>
+	</custom-meta>
+	<custom-meta>
+		<meta-name>Research organisim</meta-name>
+		<meta-value>E Coli</meta-value>
+	</custom-meta>
+</custom-meta-group>
 
 <funding-group>
 	<award-group id="par-1">
