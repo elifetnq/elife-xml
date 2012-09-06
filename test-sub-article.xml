@@ -223,19 +223,14 @@
 	<label>&#x2021;</label>
 	<p>These authors contributed equally to this work.</p>
 	</fn>
+	<fn fn-type="other">
+	<label>Clinical trial registration</label>
+	<p>12345678</p>
+	</fn>
 	<fn fn-type="other" id="ga">
 	<label>&#xa7;</label>
 	<p>For list of group authors see Acknowledgements.</p>
 	</fn>
-	
-<fn fn-type="present-address" id="pa1">
-<label>a</label>
-<p>Department of Wellcome Trust, Sanger Institute, London, UK</p>
-</fn>
-<fn fn-type="present-address" id="pa2">
-<label>b</label>
-<p>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, United States</p>
-</fn>
 	</author-notes>
 
 	<pub-date pub-type="epub">
@@ -244,6 +239,7 @@
 	<pub-date pub-type="collection">
 	<year>2012</year>
 	</pub-date>
+	<volume>1</volume>
 	<elocation-id>13</elocation-id>
 
 	<history>
@@ -470,8 +466,6 @@
 </front>
 
 <body>
-<sec sec-type="intro">
-<title>Introduction</title>
 <p>Eukaryotes evolved in a world filled with bacteria and throughout their shared history these two branches of life have developed a complex set of ways to compete and cooperate with each other. While research on these interactions has historically emphasized bacterial pathogens, bacteria also regulate the biology of eukaryotes in many other ways (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>) and may have exerted critical influences on animal evolution. Choanoflagellates, microscopic bacteria-eating eukaryotes that are the closest living relatives of animals, could provide particularly important insights into the mechanisms underlying bacterial influences on animal biology and evolution (<xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>). Moreover, some choanoflagellates have both solitary and multicellular stages in their life histories (<xref ref-type="bibr" rid="bib61">Leadbeater, 1983</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib49">Karpov &#x26; Coupe, 1880</xref>) and understanding the environmental cues that regulate choanoflagellate colony formation could provide a molecular model for animal multicellularity.</p>
 <p>In the choanoflagellate <italic>Salpingoeca rosetta</italic>, rosette-shaped multicellular colonies develop when a single founder cell undergoes multiple rounds of incomplete cytokinesis, leaving neighboring cells physically attached by fine intercellular bridges (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>). Although the original stock of <italic>S. rosetta</italic> (ATCC50818) was established from a rosette colony (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>), laboratory cultures consistently produced single cells, with small numbers of rosette colonies forming only sporadically (<xref ref-type="fig" rid="fig1">Figure 1A</xref>, <xref ref-type="fig" rid="sfig1">Fig. 1 - Figure Supplement 1</xref>). Serendipitously, we discovered that the bacterial community influences rosette colony development. Treatment of the ATCC50818 culture with an antibiotic cocktail resulted in a culture of <italic>S. rosetta</italic> cells that proliferated robustly by feeding on the remaining antibiotic-resistant bacteria but never formed rosette colonies, even upon removal of antibiotics (<xref ref-type="fig" rid="fig1">Figure 1B</xref>). This culture line is hereafter referred to as RCA (for &#x27;Rosette Colonies Absent&#x27;). Supplementation of RCA cultures with bacteria from ATCC50818 (<xref ref-type="table" rid="tbl1">Table 1</xref>) restored rosette colony development, revealing that <italic>S. rosetta</italic> cells in the RCA culture remained competent to form colonies and would do so when stimulated by the original community of environmental bacteria (<xref ref-type="other" rid="video1">Video 1</xref>).
 
@@ -1431,7 +1425,6 @@
 </p>
 <p>These data reveal that RIF-1, a sulfonolipid produced by the prey bacterium <italic>A. machipongonensis</italic>, regulates morphogenesis in its predator, <italic>S. rosetta</italic>. The ecological relevance of this signaling interaction is indicated both by the coexistence of <italic>S. rosetta</italic> and <italic>A. machipongonensis</italic> in nature and by the fact that the activity of RIF-1 at femtomolar concentrations makes it markedly more potent than other marine signaling molecules (e.g. <italic>Vibrio</italic> autoinducer (<xref ref-type="bibr" rid="bib87">Schaefer et al., 1996</xref>) and the tripeptide pheromones of the Caribbean spiny lobster (<xref ref-type="bibr" rid="bib103">Ziegler &#x26; Forward, 2007</xref>)). The potency of RIF-1 signaling compares favorably with that of silkworm moth sex pheromone signaling, in which vapors from an &#x223c;4 fM solution of bombykol, the sex pheromone of the silkworm moth, induces a pronounced wing fluttering response in males (<xref ref-type="bibr" rid="bib16">Butenandt et al., 1961</xref>; <xref ref-type="bibr" rid="bib1">Agosta, 1992</xref>; <xref ref-type="bibr" rid="bib83">Roelofs, 1995</xref>). While it is formally possible that RIF-1-dependent rosette colony development is a promiscuous response to sphingolipid-type molecules, only a handful of sulfonolipids like RIF-1 have been reported (<xref ref-type="bibr" rid="bib29">Drijber &#x26; McGill, 1994</xref>; <xref ref-type="bibr" rid="bib39">Godchaux &#x26; Leadbetter, 1988</xref>; <xref ref-type="bibr" rid="bib38">Godchaux &#x26; Leadbetter, 1984</xref>; <xref ref-type="bibr" rid="bib37">Godchaux &#x26; Leadbetter, 1983</xref>; <xref ref-type="bibr" rid="bib36">Godchaux &#x26; Leadbetter, 1980</xref>; <xref ref-type="bibr" rid="bib48">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib47">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib56">Kobayashi et al., 1995</xref>) and no other <italic>A machipongonensis</italic> lipid tested in this study induced rosette colony development. Therefore we favor a model in which <italic>A. machipongonensis</italic> cell density, as revealed by RIF-1 concentration, provides <italic>S. rosetta</italic> with an indication of conditions under which rosette colony development would be advantageous, for instance by promoting more efficient capture of planktonic bacteria (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>; <xref ref-type="bibr" rid="bib59">Kreft, 2010</xref>). In analogy to the chemotaxis system of bacteria (<xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>; <xref ref-type="bibr" rid="bib33">Falke et al., 1997</xref>), the ability of <italic>S. rosetta</italic> to respond to increasing bacterial cell density likely requires the hypothesized RIF-1 receptor to become less sensitive at higher concentrations. The high concentration cutoff in the dose-response curve reflects a complete loss of sensitivity at high, but non-physiological, RIF-1 concentrations. Although the presence of RIF-1 in the <italic>A. machipongonensis</italic> cell envelope suggests that it may be encountered by <italic>S. rosetta</italic> during phagocytosis, it can also function at a distance. We hypothesize that RIF-1 may be released into the environment in membrane vesicles, which have been described in Gram-negative bacteria such as Bacteroidetes (<xref ref-type="bibr" rid="bib61">Leadbeater, 1983</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib49">Karpov &#x26; Coupe, 1880</xref>; <xref ref-type="bibr" rid="bib73">M&#xf8;ller et al., 2005</xref>; <xref ref-type="bibr" rid="bib102">Zhou et al., 1998</xref>), and that additional membrane constituents might be required for the full potency of RIF-1. In the future, elucidating RIF-1 delivery, along with determining the three-dimensional structure of RIF-1 and characterizing sulfonolipids from other Bacteroidetes will begin to provide the needed foundation for a molecular understanding of how <italic>S. rosetta</italic> perceives RIFs.</p>
 <p>The morphogenetic interaction described here between <italic>S. rosetta</italic> and <italic>A. machipongonensis</italic> raises the possibility that bacterially-produced sphingolipids in general, and sulfonolipids in particular, may be essential for the chemical signaling that allows Bacteroidetes to influence cell differentiation and morphogenesis in diverse animals (<xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>; <xref ref-type="bibr" rid="bib4">An et al., 2011</xref>; <xref ref-type="bibr" rid="bib68">Mazmanian et al., 2008</xref>; <xref ref-type="bibr" rid="bib62">Lee &#x26; Mazmanian, 2010</xref>). Sulfonolipids like RIF-1 have been reported to have therapeutic activities, but their endogenous functions are not known. Sulfobacins A and B, which were isolated from the culture broth of a <italic>Chryseobacterium</italic> sp. were reported as von Willebrand factor receptor antagonists, and flavocristamide A, from a related bacterial species, was reported as a DNA polymerase &#x3b1; inhibitor (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib47">Kamiyama et al., 1995</xref>; <xref ref-type="bibr" rid="bib56">Kobayashi et al., 1995</xref>). The pervasiveness of interactions between Bacteroidetes and animals (<xref ref-type="bibr" rid="bib3">Alegado et al., 2012</xref>; <xref ref-type="bibr" rid="bib95">Wexler, 2007</xref>; <xref ref-type="bibr" rid="bib93">Webster et al., 2004</xref>), coupled with the close evolutionary relationship between choanoflagellates and animals (<xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>; <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib51">King &#x26; Carroll, 2001</xref>; <xref ref-type="bibr" rid="bib55">King, 2004</xref>), raise the possibility that the connection between Bacteroidetes and animal development has deep evolutionary roots (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib80">Provasoli &#x26; Pintner, 1980</xref>; <xref ref-type="bibr" rid="bib66">Matsuo et al., 2005</xref>). The discovery of RIF-1 and its biological activity toward <italic>S. rosetta</italic> provides both the molecular basis and model organism for further understanding a new and potentially important class of small molecule information transfer.</p>
-</sec>
 <sec sec-type="materials|methods" id="sec1">
 <title>MATERIALS AND METHODS</title>
 <sec id="sec1-1">
@@ -1514,7 +1507,7 @@
 
 
 <sec sec-type="datasets">
-	<title>Major Datasets</title>
+	<title>Dataset</title>
 	<p>The following datasets were generated</p>
 	<related-object content-type="generated-dataset" id="dataro1" document-id="Dataset ID and/or url" document-type="data" document-id-type="dataset">
 	<name>
@@ -1546,6 +1539,17 @@
 
 
 <back>
+<fn-group>
+<title>&#x2020;Current address</title>
+<fn fn-type="present-address" id="pa1">
+<label>a</label>
+<p>Department of Wellcome Trust, Sanger Institute, London, UK</p>
+</fn>
+<fn fn-type="present-address" id="pa2">
+<label>b</label>
+<p>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, United States</p>
+</fn>
+</fn-group>
 
 <fn-group>
 <title>Author Contributions</title>
@@ -1591,61 +1595,22 @@
 </fn>
 </fn-group>
 
+
 <fn-group>
-<title>Ethics</title>
+<title>Ethics statement</title>
 <fn fn-type="other">
-<label>Clinical trial registration</label> 
-<p>INSERT NUMBER PROVIDED</p></fn>
-<fn fn-type="other">
-<label>Human subjects:</label>
-<p>“(Textbox - HUMAN)"></p></fn>
-<fn fn-type="other">
-<label>Animal experimentation:</label>
-<p>“(Textbox - ANIMAL)"></p> 
+<p>Human subjects research approved by test text</p>
+<p>Animal subjects research approved by test text</p>
 </fn>
 </fn-group>
-
-<sec sec-type="supplementary-material" id="sec4">
-  <title>Additional Files</title>
-
-  <supplementary-material id="SD1-data">
-    <label>A data file</label>
-    <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
-    <media xlink:href="lak-23-1-14-s1.mp4" mimetype="video" mime-subtype="mp4"/>
- </supplementary-material>  
-
-  <supplementary-material id="SD1-reporting-standard">
-    <label>A reporting standard</label>
-    <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
-    <media xlink:href="lak-23-1-14-s1.pdf" mimetype="pdf" />
- </supplementary-material>  
-
-  <supplementary-material id="SD1-source-code">
-    <label>A piece of source code</label>
-    <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
-    <media xlink:href="lak-23-1-14-s1.c" mimetype="text" />
- </supplementary-material>  
-
-
-  <supplementary-material id="SD1-otherfile">
-    <label>A generic Other file</label>
-    <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
-    </caption>
-    <media xlink:href="lak-23-1-14-s1.rar" mimetype="rar" />
- </supplementary-material>  
-
-</sec>
+<fn-group>
+<title>Supplemental files</title>
+<fn fn-type="other">
+<p>
+<ext-link ext-link-type="uri" xlink:href="http://www.elifesciences.org/lookup/suppl/doi:10.7554/eLife.00007/-/DC1/ARRIVE_guidelines.pdf" xlink:type="simple">http://www.elifesciences.org/researcharticle/00007.DC1/ARRIVE_guidelines.pdf</ext-link>
+</p>
+</fn>
+</fn-group>
 
 
 <fn-group>
@@ -1658,6 +1623,14 @@
 	<p>NK, JC: National Institutes of Health R01 GM099533</p>
 	<p>FS: National Institutes of Health T32 HG00047</p>
 </fn>
+</fn-group>
+
+
+<fn-group>
+	<title>Funding Statement</title>
+	<fn fn-type="other">
+		<p>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</p>
+	</fn>
 </fn-group>
 
 <ack id="ack">
@@ -3676,7 +3649,7 @@
 
   <sub-article article-type="reply" id="s026">
 <front-stub>
-	<article-id pub-id-type="doi">10.7554/eLife.00013.0999u0.asdifojasi2</article-id>
+	    	<article-id pub-id-type="doi">10.7554/eLife.00013.0999u0.asdifojasi2</article-id>
 <title-group>
 <article-title>Author letter</article-title>
 </title-group>
