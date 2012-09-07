@@ -1685,38 +1685,38 @@
   <supplementary-material id="SD1-data">
     <label>A data file</label>
     <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+      <title>Amazing data points in a csv file</title>
+      <p>A file containing underlying data.</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT">the link is http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s1.mp4" mimetype="video" mime-subtype="mp4"/>
+    <media xlink:href="lak-23-1-14-s1.csv" mimetype="csv" mime-subtype="csv"/>
  </supplementary-material>  
 
   <supplementary-material id="SD1-reporting-standard">
     <label>A reporting standard</label>
     <caption>
-      <title>Demonstrations</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+      <title>Reporting standard</title>
+      <p>A reporting standard, which is a pdf because we like those.</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT">the link is http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s1.pdf" mimetype="pdf" />
+    <media xlink:href="lak-23-1-14-s2.pdf" mimetype="pdf" />
  </supplementary-material>  
 
   <supplementary-material id="SD1-source-code">
     <label>A piece of source code</label>
     <caption>
-      <title>Demonstrations</title>
+      <title>Source</title>
       <p>A video demonstration of the methods used in this paper.</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT">the link is http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s1.c" mimetype="text" />
+    <media xlink:href="lak-23-1-14-s3.py" mimetype="text" />
  </supplementary-material>  
 
 
-  <supplementary-material id="SD1-otherfile">
-    <label>A generic Other file</label>
+  <supplementary-material id="SD1-data">
+    <label>A data file</label>
     <caption>
-      <title>Demonstrations</title>
+      <title>Amazing video</title>
       <p>A video demonstration of the methods used in this paper.</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT">the link is http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s1.rar" mimetype="rar" />
+    <media xlink:href="lak-23-1-14-s4.mp4" mimetype="video" mime-subtype="mp4"/>
  </supplementary-material>  
 
 </sec>
