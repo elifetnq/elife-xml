@@ -1704,7 +1704,7 @@
     <label>A piece of source code</label>
     <caption>
       <title>Source</title>
-      <p>A video demonstration of the methods used in this paper.</p>
+      <p>A piece of code that generated the video.</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT">the link is http://dx.doi.org/elife/THE_DOI_OF_THE_OBJECT</ext-link></p></caption>
     <media xlink:href="lak-23-1-14-s3.py" mimetype="text" />
  </supplementary-material>  
