@@ -432,6 +432,10 @@
 
 <custom-meta-group>
 	<custom-meta specific-use="meta-only">
+	<meta-name>elife-xml-version</meta-name>
+	<meta-value>0.1</meta-value>
+	</custom-meta>
+	<custom-meta specific-use="meta-only">
 	<meta-name>Author impact statement</meta-name>
 	<meta-value>
 	The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules
