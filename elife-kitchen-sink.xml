@@ -1597,20 +1597,20 @@
 	<surname>Alegado</surname>
 	<given-names>Rosanna A</given-names>
 	</name>
-	<label>, </label>
+	<x>, </x>
 	<name>
 	<surname>Peterson</surname>
 	<given-names>William Gunn P</given-names>
 	</name>
-	<label>, </label>
+	<x>, </x>
 	<year>2012</year>
-	<label>, </label>
+	<x>, </x>
 	<source>The second awesome dataset</source>
-	<label>. </label>
+	<x>. </x>
 	<ext-link ext-link-type="uri">http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615</ext-link>
-	<label> (</label>
+	<x> (</x>
 	<comment>Database, license, and accessibility information</comment>
-	<label>)</label>
+	<x>)</x>
 	<hr/>
 	</related-object>
 	<related-object content-type="generated-dataset" id="dataro2" document-id="Dataset ID and/or url 2" document-type="data" document-id-type="dataset">
@@ -1618,20 +1618,20 @@
 	<surname>Alegado</surname>
 	<given-names>Rosanna A</given-names>
 	</name>
-	<label>, </label>
+	<x>, </x>
 	<name>
 	<surname>Peterson</surname>
 	<given-names>William Gunn P</given-names>
 	</name>
-	<label>, </label>
+	<x>, </x>
 	<year>2012</year>
-	<label>, </label>
+	<x>, </x>
 	<source>The title of the dataset</source>
-	<label>. </label>
+	<x>. </x>
 	<ext-link ext-link-type="uri">http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
-	<label> (</label>
+	<x> (</x>
 	<comment>Database, license, and accessibility information</comment>
-	<label>)</label>
+	<x>)</x>
 	<hr/>
 	</related-object>
 	<p>The following are previously published datasets</p>
@@ -1644,15 +1644,15 @@
 	<surname>Rodriguez</surname>
 	<given-names>RL</given-names>
 	</name>
-	<label>, </label>
+	<x>, </x>
 	<year>2012</year>
-	<label>, </label>
+	<x>, </x>
 	<source>The evolution of experience-mediated plasticity in mate preference</source>
-	<label>. </label>
+	<x>. </x>
 	<ext-link ext-link-type="uri">http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
-	<label> (</label>
+	<x> (</x>
 	<comment>Creative Commons, stored on Dryad, available on publication of the article</comment>
-	<label>)</label>
+	<x>)</x>
 	<hr/>
 	</related-object>
 </sec>
