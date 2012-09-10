@@ -430,6 +430,20 @@
 	<funding-statement>The funder(s) had no role in study design; collection, analysis, and interpretation of data; writing the article; and or the decision to submit to the journal.</funding-statement>
 	</funding-group>
 
+	<kwd-group>
+	<kwd>Salpingoeca rosetta</kwd>
+	<kwd>Algoriphagus</kwd>
+	<kwd>bacterial sulfonolipid</kwd>
+	<kwd>multicellular development</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="research-organism">
+	<kwd>Other</kwd>
+	</kwd-group>
+	<kwd-group kwd-group-type="major-subject-area">
+	<kwd>Cell biology</kwd>
+	</kwd-group>
+
+
 <custom-meta-group>
 	<custom-meta specific-use="meta-only">
 	<meta-name>elife-xml-version</meta-name>
@@ -446,27 +460,6 @@
 	<meta-value>
 	The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules
 	</meta-value>
-	</custom-meta>
-	<custom-meta specific-use="meta-only">
-		<meta-name>Major subject area</meta-name>
-		<meta-value>Cell biology</meta-value>
-	</custom-meta>
-	<custom-meta specific-use="meta-only">
-		<meta-name>Author supplied keyword</meta-name>
-		<meta-value>Bacterial sulfonolipid</meta-value>
-	</custom-meta>
-	<custom-meta specific-use="meta-only">
-		<meta-name>Author supplied keyword</meta-name>
-		<meta-value>Algoriphagus</meta-value>
-	</custom-meta>
-	<custom-meta specific-use="meta-only">
-		<meta-name>Research organisim</meta-name>
-		<meta-value>Other</meta-value>
-	</custom-meta>
-	<custom-meta specific-use="meta-only">
-		<meta-name>Research organisim</meta-name>
-		<meta-value>E Coli</meta-value>
-	</custom-meta>
 </custom-meta-group>
 
 </article-meta>
