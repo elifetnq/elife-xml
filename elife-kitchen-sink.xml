@@ -1533,35 +1533,35 @@
 <fn-group>
 <title>Author Contributions</title>
 <fn fn-type="con" id="con1">
-<label>RA:</label>
+<x>RA:</x>
 <p>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con2">
-<label>LB:</label>
+<x>LB:</x>
 <p>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con3">
-<label>SC:</label>
+<x>SC:</x>
 <p>Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con4">
-<label>RD:</label>
+<x>RD:</x>
 <p>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con5">
-<label>RZ:</label>
+<x>RZ:</x>
 <p>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con6">
-<label>SF:</label>
+<x>SF:</x>
 <p>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con7">
-<label>JC:</label>
+<x>JC:</x>
 <p>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con8">
-<label>NK:</label>
+<x>NK:</x>
 <p>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 </fn-group>
@@ -1577,13 +1577,13 @@
 <fn-group>
 <title>Ethics</title>
 <fn fn-type="other">
-<label>Clinical trial registration</label> 
+<x>Clinical trial registration</x> 
 <p>INSERT NUMBER PROVIDED</p></fn>
 <fn fn-type="other">
-<label>Human subjects:</label>
+<x>Human subjects:</x>
 <p>“(Textbox - HUMAN)"></p></fn>
 <fn fn-type="other">
-<label>Animal experimentation:</label>
+<x>Animal experimentation:</x>
 <p>“(Textbox - ANIMAL)"></p> 
 </fn>
 </fn-group>
@@ -1662,7 +1662,7 @@
   <title>Additional Files</title>
 
   <supplementary-material id="SD1-data">
-    <label>A data file</label>
+    <x>A data file</x>
     <caption>
       <title>Amazing data points in a csv file</title>
       <p>A file containing underlying data.</p>
@@ -1671,7 +1671,7 @@
  </supplementary-material>  
 
   <supplementary-material id="SD1-reporting-standard">
-    <label>A reporting standard</label>
+    <x>A reporting standard</x>
     <caption>
       <title>Reporting standard</title>
       <p>A reporting standard, which is a pdf because we like those.</p>
@@ -1680,7 +1680,7 @@
  </supplementary-material>  
 
   <supplementary-material id="SD1-source-code">
-    <label>A piece of source code</label>
+    <x>A piece of source code</x>
     <caption>
       <title>Source</title>
       <p>A piece of code that generated the video.</p>
@@ -1690,7 +1690,7 @@
 
 
   <supplementary-material id="SD1-video">
-    <label>A data file</label>
+    <x>A data file</x>
     <caption>
       <title>Amazing video</title>
       <p>A video demonstration of the methods used in this paper.</p>
