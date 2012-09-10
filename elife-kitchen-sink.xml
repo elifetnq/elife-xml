@@ -429,13 +429,13 @@
 	<meta-value>0.2</meta-value>
 	</custom-meta>
 	<custom-meta specific-use="meta-only">
-	<meta-name>impact-statement</meta-name>
+	<meta-name>author-impact-statement</meta-name>
 	<meta-value>
 	The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules
 	</meta-value>
 	</custom-meta>
 	<custom-meta specific-use="meta-only">
-	<meta-name>Editor impact statement</meta-name>
+	<meta-name>editor-impact-statement</meta-name>
 	<meta-value>
 	The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules
 	</meta-value>
