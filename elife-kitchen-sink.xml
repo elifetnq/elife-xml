@@ -12,7 +12,7 @@
 	</journal-title-group>
 	<issn pub-type="epub">2050-084X</issn>
 	<publisher>
-	<publisher-name>elife Sciences Publications, Ltd</publisher-name>
+	<publisher-name>eLife Sciences Publications, Ltd</publisher-name>
 	</publisher>
 </journal-meta>
 
@@ -1531,36 +1531,28 @@
 <fn-group>
 <title>Author Contributions</title>
 <fn fn-type="con" id="con1">
-<x>RA:</x>
-<p>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>RA:</x>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con2">
-<x>LB:</x>
-<p>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>LB:</x>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con3">
-<x>SC:</x>
-<p>Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>SC:</x>Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con4">
-<x>RD:</x>
-<p>Acquisition of data, Analysis and interpretation of data</p>
+<p><x>RD:</x>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con5">
-<x>RZ:</x>
-<p>Acquisition of data, Analysis and interpretation of data</p>
+<p><x>RZ:</x>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con6">
-<x>SF:</x>
-<p>Acquisition of data, Analysis and interpretation of data</p>
+<p><x>SF:</x>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con7">
-<x>JC:</x>
-<p>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>JC:</x>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con8">
-<x>NK:</x>
-<p>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>NK:</x>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 </fn-group>
 
@@ -1575,14 +1567,11 @@
 <fn-group>
 <title>Ethics</title>
 <fn fn-type="other">
-<x>Clinical trial registration</x> 
-<p>INSERT NUMBER PROVIDED</p></fn>
+<p><x>Clinical trial registration</x> INSERT NUMBER PROVIDED</p></fn>
 <fn fn-type="other">
-<x>Human subjects:</x>
-<p>“(Textbox - HUMAN)"></p></fn>
+<p><x>Human subjects:</x>“(Textbox - HUMAN)"></p></fn>
 <fn fn-type="other">
-<x>Animal experimentation:</x>
-<p>“(Textbox - ANIMAL)"></p> 
+<p><x>Animal experimentation:</x>“(Textbox - ANIMAL)"></p> 
 </fn>
 </fn-group>
 </sec>
@@ -1660,7 +1649,7 @@
   <title>Additional Files</title>
 
   <supplementary-material id="SD1-data">
-    <x>A data file</x>
+    <label>A data file</label>
     <caption>
       <title>Amazing data points in a csv file</title>
       <p>A file containing underlying data.</p>
@@ -1669,7 +1658,7 @@
  </supplementary-material>  
 
   <supplementary-material id="SD1-reporting-standard">
-    <x>A reporting standard</x>
+    <label>A reporting standard</label>
     <caption>
       <title>Reporting standard</title>
       <p>A reporting standard, which is a pdf because we like those.</p>
@@ -1678,7 +1667,7 @@
  </supplementary-material>  
 
   <supplementary-material id="SD1-source-code">
-    <x>A piece of source code</x>
+    <label>A piece of source code</label>
     <caption>
       <title>Source</title>
       <p>A piece of code that generated the video.</p>
@@ -1688,7 +1677,7 @@
 
 
   <supplementary-material id="SD1-video">
-    <x>A data file</x>
+    <label>A data file</label>
     <caption>
       <title>Amazing video</title>
       <p>A video demonstration of the methods used in this paper.</p>
