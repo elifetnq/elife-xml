@@ -360,9 +360,7 @@
 	</name>
 	</principal-award-recipient>
 	</award-group>
-	</funding-group>
 
-	<funding-group>
 	<award-group id="par-3">
 	<funding-source>National Institutes of Health</funding-source>
 	<award-id>F32 GM089018</award-id>
@@ -373,9 +371,7 @@
 	</name>
 	</principal-award-recipient>
 	</award-group>
-	</funding-group>
 
-	<funding-group>
 	<award-group id="par-4">
 	<funding-source>National Institutes of Health</funding-source>
 	<award-id>R01 GM086258</award-id>
@@ -386,9 +382,7 @@
 	</name>
 	</principal-award-recipient>
 	</award-group>
-	</funding-group>
 
-	<funding-group>
 	<award-group id="par-5">
 	<funding-source>National Institutes of Health</funding-source>
 	<award-id>R01 GM099533</award-id>
@@ -403,9 +397,7 @@
 	</name>
 	</principal-award-recipient>
 	</award-group>
-	</funding-group>
 
-	<funding-group>
 	<award-group id="par-6">
 	<funding-source>National Institutes of Health</funding-source>
 	<award-id>T32 HG00047</award-id>
