@@ -426,7 +426,7 @@
 <custom-meta-group>
 	<custom-meta specific-use="meta-only">
 	<meta-name>elife-xml-version</meta-name>
-	<meta-value>0.1</meta-value>
+	<meta-value>0.2</meta-value>
 	</custom-meta>
 	<custom-meta specific-use="meta-only">
 	<meta-name>impact-statement</meta-name>
