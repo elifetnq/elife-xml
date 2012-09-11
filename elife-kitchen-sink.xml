@@ -19,11 +19,21 @@
 <article-meta>
 	<article-id pub-id-type="publisher-id">00013</article-id>
 	<article-id pub-id-type="doi">10.7554/eLife.00013</article-id>
+
 	<article-categories>
 		<subj-group subj-group-type="heading">
 		<subject>Research article</subject>
 		</subj-group>
+         <subj-group subj-group-type="heading">
+                 <subject>Cell biology</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+                <subject>Computer science</subject>
+        </subj-group>
 	</article-categories>
+
+
+
 	<title-group>
 	<article-title>Bacterial regulation of colony development in the closest living relatives of animals</article-title>
 	</title-group>
@@ -344,9 +354,6 @@
 	</kwd-group>
 	<kwd-group kwd-group-type="research-organism">
 	<kwd>Other</kwd>
-	</kwd-group>
-	<kwd-group kwd-group-type="major-subject-area">
-	<kwd>Cell biology</kwd>
 	</kwd-group>
 
 <funding-group>
