@@ -345,14 +345,14 @@
 	</abstract>
 
 <kwd-group>
-  	<label>Author keywords</label>
+  	<title>Author keywords</title>
 	<kwd>Salpingoeca rosetta</kwd>
 	<kwd>Algoriphagus</kwd>
 	<kwd>bacterial sulfonolipid</kwd>
 	<kwd>multicellular development</kwd>
 </kwd-group>
 <kwd-group kwd-group-type="research-organism">
-  	<label>Research organsim</label>
+  	<title>Research organsim</title>
 	<kwd>Other</kwd>
 </kwd-group>
 
