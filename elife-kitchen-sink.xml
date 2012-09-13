@@ -460,7 +460,7 @@
 
 <fig-group>
 
-<fig id="fig1" position="anchor">
+<fig id="fig1" position="float">
 <object-id pub-id-type="doi">10.7554/eLife.00013.001</object-id>
 <label>Fig. 1</label>
 <caption>
@@ -480,7 +480,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f001"/>
 </fig>
 
-<fig id="sfig1" position="anchor" specific-use="child-fig"> 
+<fig id="sfig1" position="float" specific-use="child-fig"> 
 <object-id pub-id-type="doi">10.7554/eLife.00013.002</object-id>
 <label>Fig. 1&#x2013; Figure Supplement 1</label>
 <caption>
@@ -921,7 +921,7 @@
 <p>To determine which co-isolated bacterial species stimulate rosette colony development in <italic>S. rosetta</italic>, the RCA cell line was supplemented with 64 independent bacterial isolates from ATCC50818 and monitored for the appearance of rosette colonies. Only one bacterial species from ATCC50818, the previously undescribed <italic>Algoriphagus machipongonensis</italic> (phylum Bacteroidetes) (<xref ref-type="bibr" rid="bib3">Alegado et al., 2012</xref>), induced rosette colony development in the RCA cell line (<xref ref-type="fig" rid="fig1">Figure 1C</xref>). <italic>S. rosetta</italic> cultures fed solely with <italic>A. machipongonensis</italic> yielded high percentages of rosette colonies (<xref ref-type="fig" rid="sfig1">Fig. S1</xref>, <xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>), demonstrating that no other co-isolated bacterial species is required to stimulate rosette colony development.</p>
 <p>What was not clear was whether other bacteria might also be competent to induce rosette colony development. Therefore, representative Bacteroidetes and non-Bacteroidetes bacteria were cultured and fed to RCA cultures (<xref ref-type="fig" rid="fig2">Figure 2</xref>, <xref ref-type="table" rid="tbl1">Table 1</xref>). None of the non-Bacteroidetes species tested, including members of the &#x3b3;-proteobacteria, &#x3b1;-proteobacteria<italic>,</italic> and Gram-positive bacteria, were competent to induce rosette colony development. In contrast, all 15 <italic>Algoriphagus</italic> species tested induced rosette colony development, as did six of 16 other closely related species tested in the Bacteroidetes phylum (<xref ref-type="table" rid="tbl1">Table 1</xref>). Therefore, the ability to induce rosette colony development is enriched in <italic>Algoriphagus</italic> bacteria and their relatives.
 
-<fig id="fig2" position="anchor">
+<fig id="fig2" position="float">
 <object-id pub-id-type="doi">10.7554/eLife.00013.004</object-id>
 <label>Fig. 2</label>
 <caption>
@@ -1068,7 +1068,7 @@
 <p>The bacterial cell envelope components lipopolysaccharide (LPS) and peptidoglycan (PGN) from Gram-negative bacteria have long been known to affect host biology (<xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib44">Hoffmann et al., 1999</xref>; <xref ref-type="bibr" rid="bib89">Takeuchi et al., 1999</xref>; <xref ref-type="bibr" rid="bib57">Kopp &#x26; Medzhitov, 1999</xref>; <xref ref-type="bibr" rid="bib70">Medzhitov &#x26; Janeway, 2000</xref>; <xref ref-type="bibr" rid="bib50">Kimbrell &#x26; Beutler, 2001</xref>; <xref ref-type="bibr" rid="bib24">Cohn &#x26; Morse, 1960</xref>), but neither LPS nor PGN from <italic>A. machipongonensis</italic> triggered rosette development, alone or in combination (<xref ref-type="fig" rid="fig3">Figure 3A</xref>). Instead, we found that <italic>A. machipongonensis</italic> crude lipid extracts enriched in sphingolipids robustly induced rosette development (<xref ref-type="fig" rid="fig3">Figure 3A</xref>). In animals, sphingolipid signaling pathways regulate developmental processes such as cell death, survival, differentiation, and migration (<xref ref-type="bibr" rid="bib41">Hannun et al., 2001</xref>; <xref ref-type="bibr" rid="bib71">Merrill et al., 2001</xref>; <xref ref-type="bibr" rid="bib79">Prieschl &#x26; Baumruker, 2000</xref>; <xref ref-type="bibr" rid="bib88">Spiegel &#x26; Milstien, 2000</xref>; <xref ref-type="bibr" rid="bib42">Herr et al., 2003</xref>; <xref ref-type="bibr" rid="bib81">Pyne &#x26; Pyne, 2000</xref>). Moreover, sphingolipids serve essential functions both as structural components of cell membranes and as signaling molecules in diverse eukaryotes (<xref ref-type="bibr" rid="bib40">Hannich et al., 2011</xref>). In contrast, the phylogenetic distribution of sphingolipids in bacteria is largely limited to Bacteroidetes and <italic>Sphingomonas</italic>, where their endogenous functions are poorly understood (<xref ref-type="bibr" rid="bib4">An et al., 2011</xref>; <xref ref-type="bibr" rid="bib78">Olsen &#x26; Jantzen, 2001</xref>).
 
 <fig-group>
-<fig id="fig3" position="anchor">
+<fig id="fig3" position="float">
 <object-id pub-id-type="doi">10.7554/eLife.00013.006</object-id>
 <label>Fig. 3</label>
 <caption>
@@ -1078,7 +1078,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f003"/>
 </fig>
 
-<fig id="sfig2" position="anchor" specific-use="child-fig">
+<fig id="sfig2" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.007</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 1</label>
 <caption>
@@ -1090,7 +1090,7 @@
 
 </fig>
 
-<fig id="sfig3" position="anchor" specific-use="child-fig">
+<fig id="sfig3" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.008</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 2</label>
 <caption>
@@ -1102,7 +1102,7 @@
 
 </fig>
 
-<fig id="sfig4" position="anchor" specific-use="child-fig">
+<fig id="sfig4" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.009</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 3</label>
 <caption>
@@ -1117,7 +1117,7 @@
 
 </fig>
 
-<fig id="sfig5" position="anchor" specific-use="child-fig">
+<fig id="sfig5" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 4</label>
 <caption>
@@ -1132,7 +1132,7 @@
 
 </fig>
 
-<fig id="sfig6" position="anchor" specific-use="child-fig">
+<fig id="sfig6" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.011</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 5</label>
 <caption>
@@ -1144,7 +1144,7 @@
 
 </fig>
 
-<fig id="sfig7" position="anchor" specific-use="child-fig">
+<fig id="sfig7" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.012</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 6</label>
 <caption>
@@ -1160,7 +1160,7 @@
 
 </fig>
 
-<fig id="sfig8" position="anchor" specific-use="child-fig">
+<fig id="sfig8" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.013</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 7</label>
 <caption>
@@ -1174,7 +1174,7 @@
 
 </fig>
 
-<fig id="sfig9" position="anchor" specific-use="child-fig" >
+<fig id="sfig9" position="float" specific-use="child-fig" >
 <object-id pub-id-type="doi">10.7554/eLife.00013.014</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 8</label>
 <caption>
@@ -1187,7 +1187,7 @@
 
 </fig>
 
-<fig id="sfig10" position="anchor" specific-use="child-fig">
+<fig id="sfig10" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.015</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 9</label>
 <caption>
@@ -1200,7 +1200,7 @@
 
 </fig>
 
-<fig id="sfig11" position="anchor" specific-use="child-fig">
+<fig id="sfig11" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.016</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 10</label>
 <caption>
@@ -1213,7 +1213,7 @@
 
 </fig>
 
-<fig id="sfig12" position="anchor" specific-use="child-fig">
+<fig id="sfig12" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.017</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 11</label>
 <caption>
@@ -1228,7 +1228,7 @@
 
 </fig>
 
-<fig id="sfig13" position="anchor" specific-use="child-fig">
+<fig id="sfig13" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.018</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 12</label>
 <caption>
@@ -1247,7 +1247,7 @@
 
 </fig>
 
-<fig id="sfig14" position="anchor" specific-use="child-fig">
+<fig id="sfig14" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.019</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 13</label>
 <caption>
@@ -1266,7 +1266,7 @@
 
 </fig>
 
-<fig id="sfig15" position="anchor" specific-use="child-fig">
+<fig id="sfig15" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.020</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 14</label>
 <caption>
@@ -1279,7 +1279,7 @@
 
 </fig>
 
-<fig id="sfig16" position="anchor" specific-use="child-fig">
+<fig id="sfig16" position="float" specific-use="child-fig">
 <object-id pub-id-type="doi">10.7554/eLife.00013.021</object-id>
 <label>Fig. 3&#x2013; Figure Supplement 15</label>
 <caption>
@@ -1446,7 +1446,7 @@
 <p>Finally, we investigated the potency of RIF-1 and its ability to induce colony development under plausible environmental conditions. Purified RIF-1 induces rosette formation with a bell-shaped dose-response curve over a broad range of concentrations, from 10<sup>&#x2212;2</sup> fM to 10<sup>7</sup> fM or some nine orders of magnitude (<xref ref-type="fig" rid="fig4">Figure 4</xref>). No observable effects were seen below 10<sup>&#x2212;5</sup> fM, and RIF-1 appears to be inactive above 10<sup>8</sup> fM. <italic>A. machipongonensis</italic> conditioned medium contains 10<sup>4</sup> fM RIF-1 (<xref ref-type="fig" rid="sfig17">Fig. 4 &#x2013; Figure Supplement 1</xref>), and even if this conditioned medium measurement exaggerates natural concentrations by a factor of 10<sup>6</sup>, <italic>S. rosetta</italic> could still respond to its presence. The shape of the dose-response curve and the potency of RIF-1 suggest that <italic>S. rosetta</italic> perceives RIF-1 in a manner consistent with a receptor-ligand interaction, albeit a receptor of exquisite sensitivity and remarkable dynamic range. While RIF-1 is the only molecule detected with rosette-inducing activity, its maximal activity (5.6 &#xb1; 0.5% colonial cells/total cells) differs from that of the sphingolipid-enriched lipid fraction (19.2 &#xb1; 4.6% colonial cells/total cells; <xref ref-type="fig" rid="fig4">Figure 4</xref>). This difference may be due to delivery issues of the purified and highly hydrophobic molecule, which in nature resides in membranes and potentially in membrane vesicles. Alternatively, the full potency of RIF-1 as an inducer of colony development may require additional <italic>A. machipongonensis</italic> molecules not identified in this study.
 
 <fig-group>
-<fig id="fig4" position="anchor">
+<fig id="fig4" position="float">
 <object-id pub-id-type="doi">10.7554/eLife.00013.023</object-id>
 <label>Fig. 4</label>
 <caption>
@@ -1456,7 +1456,7 @@
 <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f004"/>
 </fig>
 
-<fig id="sfig17" position="anchor" specific-use="child-fig" >
+<fig id="sfig17" position="float" specific-use="child-fig" >
 <object-id pub-id-type="doi">10.7554/eLife.00013.024</object-id>
 <label>Fig. 4&#x2013; Figure Supplement 1</label>
 <caption>
