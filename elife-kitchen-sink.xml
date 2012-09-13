@@ -433,7 +433,7 @@
 <custom-meta-group>
 	<custom-meta >
 	<meta-name>elife-xml-version</meta-name>
-	<meta-value>0.4</meta-value>
+	<meta-value>0.5</meta-value>
 	</custom-meta>
 	<custom-meta >
 	<meta-name>author-impact-statement</meta-name>
