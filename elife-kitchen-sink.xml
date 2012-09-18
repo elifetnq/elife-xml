@@ -1594,47 +1594,46 @@
 <fn-group>
 <title>Author Contributions</title>
 <fn fn-type="con" id="con1">
-<p><x>RA:</x>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>RA: </x>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con2">
-<p><x>LB:</x>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>LB: </x>Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con3">
-<p><x>SC:</x>Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>SC: </x>Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con4">
-<p><x>RD:</x>Acquisition of data, Analysis and interpretation of data</p>
+<p><x>RD: </x>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con5">
-<p><x>RZ:</x>Acquisition of data, Analysis and interpretation of data</p>
+<p><x>RZ: </x>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con6">
-<p><x>SF:</x>Acquisition of data, Analysis and interpretation of data</p>
+<p><x>SF: </x>Acquisition of data, Analysis and interpretation of data</p>
 </fn>
 <fn fn-type="con" id="con7">
-<p><x>JC:</x>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>JC: </x>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 <fn fn-type="con" id="con8">
-<p><x>NK:</x>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
+<p><x>NK: </x>Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
 </fn>
 </fn-group>
 
 <fn-group>
 <title>Competing interests</title>
 <fn fn-type="conflict" id="conf1">
-<label>JC:</label>
-<p>Is one of <italic>eLife&#x27;s</italic> Reviewing Editors.</p>
+<p><x>JC: </x>Is one of <italic>eLife&#x27;s</italic> Reviewing Editors.</p>
 </fn>
 </fn-group>
 
 <fn-group>
 <title>Ethics</title>
 <fn fn-type="other">
-<p><x>Clinical trial registration</x> INSERT NUMBER PROVIDED</p></fn>
+<p><x>Clinical trial registration </x> INSERT NUMBER PROVIDED</p></fn>
 <fn fn-type="other">
-<p><x>Human subjects:</x>“(Textbox - HUMAN)"></p></fn>
+<p><x>Human subjects: </x>“(Textbox - HUMAN)"></p></fn>
 <fn fn-type="other">
-<p><x>Animal experimentation:</x>“(Textbox - ANIMAL)"></p> 
+<p><x>Animal experimentation: </x>“(Textbox - ANIMAL)"></p> 
 </fn>
 </fn-group>
 </sec>
