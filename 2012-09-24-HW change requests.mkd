@@ -1,0 +1,67 @@
+# 2012-09-24 - HW change requests. 
+
+#### Author popups
+The markup for conflict of interest, present address, and author contributions does not support putting that information in the author popups. This needs to be discussed.
+
+
+#### References
+The markup for bibr xrefs in the body e.g. "(<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>)" does not support the display of bib references that is shown in the Ripe mockups.
+ 
+This: (<xref ref-type="bibr" rid="bib25">Dayel et al., 2011</xref>; <xref ref-type="bibr" rid="bib31">Fairclough et al., 2010</xref>)
+ 
+Should be: <xref ref-type="bibr" rid="bib25">25</xref><xref ref-type="bibr" rid="bib31">31</xref>
+
+
+#### Major data sets, additional files
+The markup for "Major data sets" and "Additional files" may need to be revised depending on the features that need to be driven by it, including but not necessarily limited to, supplying data supplements separate from the article content via HWX.
+ 
+This: <media xlink:href="lak-23-1-14-s1.csv" mimetype="csv" mime-subtype="csv"/>
+ 
+Should be: <media xlink:href="lak-23-1-14-s1.csv" mimetype="text" mime-subtype="comma-separated-values"/>
+ 
+And this: <media xlink:href="lak-23-1-14-s2.pdf" mimetype="pdf" />
+ 
+Should be: <media xlink:href="lak-23-1-14-s2.pdf" mimetype="application" mime-subtype="pdf" />
+
+> I'm just going to assume that this is requesting the information about supplying data supplements separate from the article and allow you and Kathryn to respond to this.
+
+
+#### Volume numbers
+Volume number needs to be included as <volume>2012</volume>
+
+
+#### Related articles
+
+We have special support for the text of related-article when it is a child of article-meta. This text should either be omitted or should be link text that can stand alone without other text templating around it e.g. should be "See related article on pg. XXX".
+
+>  I'm not sure what he's asking for, I gave an example and he quoted it. Technically we don't actually have the support in place that we're talking about, it's part of the New RelMgr that we're working on developing so we don't have the full details of what we will do with the link text besides store it in the DB. However, we do know that if they just include the page number it probably won't display like they want when we add RelMgr support
+
+>> We're asking that if they include a related-article in the article-meta of an article, that the text of the related-article either be omitted or something other than just a page number, instead something like "See related article on pg. XXX". The reason we're asking for this is because we're in the midst of designing a new system (the New RelMgr) which if they were to supply the text of a related-article in article-meta as just something like "XXX" the data that would be generated in that system from the source xml would not be useful. If it's really important to them that the text of that link be just "XXX" then go for it.
+
+
+
+#### DOIs in abstracts
+Remove DOIs from abstracts.
+
+
+#### MathML
+
+Do not use mml:semantics without including mml:annotation as it is invalid per the MathML XML Schema (http://www.w3.org/Math/XMLSchema/mathml2/content/semantics.xsd), in these cases, the mml:semantics elements should just be omitted.
+
+
+#### Impact statement
+Do not include whitespace in the impact statement meta-value elements that shouldn't be displayed.
+
+
+#### fn-group elements
+Include descriptive @content-type values on the fn-group elements.
+
+
+#### x tags
+Do not use the x element for text other than punctuation and whitespace.
+ 
+
+#### Consistency of markup
+Markup similar things consistently in different places, e.g. the author initials in various fn were all tagged differently.
+
+
