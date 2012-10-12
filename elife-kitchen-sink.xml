@@ -1590,52 +1590,95 @@
 
 
 <sec sec-type="additional-infromation" id="sec2342">
-	  <title>Additional information</title>
-<fn-group>
-<title>Author contributions</title>
-<fn fn-type="con" id="con1">
-<p><x>RA: </x>Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
-</fn>
-<fn fn-type="con" id="con2">
-<p><x>LB: </x>Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
-</fn>
-<fn fn-type="con" id="con3">
-<p><x>SC: </x>Acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
-</fn>
-<fn fn-type="con" id="con4">
-<p><x>RD: </x>Acquisition of data, analysis and interpretation of data</p>
-</fn>
-<fn fn-type="con" id="con5">
-<p><x>RZ: </x>Acquisition of data, analysis and interpretation of data</p>
-</fn>
-<fn fn-type="con" id="con6">
-<p><x>SF: </x>Acquisition of data, analysis and interpretation of data</p>
-</fn>
-<fn fn-type="con" id="con7">
-<p><x>JC: </x>Conception and design, analysis and interpretation of data, drafting or revising the article</p>
-</fn>
-<fn fn-type="con" id="con8">
-<p><x>NK: </x>Conception and design, analysis and interpretation of data, drafting or revising the article</p>
-</fn>
-</fn-group>
+			  <title>Additional information</title>
+		<fn-group>
+		<title>Author contributions</title>
+		<fn fn-type="con" id="con1">
+		<p><x>RA: </x>Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
+		</fn>
+		<fn fn-type="con" id="con2">
+		<p><x>LB: </x>Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
+		</fn>
+		<fn fn-type="con" id="con3">
+		<p><x>SC: </x>Acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
+		</fn>
+		<fn fn-type="con" id="con4">
+		<p><x>RD: </x>Acquisition of data, analysis and interpretation of data</p>
+		</fn>
+		<fn fn-type="con" id="con5">
+		<p><x>RZ: </x>Acquisition of data, analysis and interpretation of data</p>
+		</fn>
+		<fn fn-type="con" id="con6">
+		<p><x>SF: </x>Acquisition of data, analysis and interpretation of data</p>
+		</fn>
+		<fn fn-type="con" id="con7">
+		<p><x>JC: </x>Conception and design, analysis and interpretation of data, drafting or revising the article</p>
+		</fn>
+		<fn fn-type="con" id="con8">
+		<p><x>NK: </x>Conception and design, analysis and interpretation of data, drafting or revising the article</p>
+		</fn>
+		</fn-group>
 
-<fn-group>
-<title>Competing interests</title>
-<fn fn-type="conflict" id="conf1">
-<p><x>JC: </x>Is one of <italic>eLife&#x27;s</italic> reviewing editors</p>
-</fn>
-</fn-group>
+		<fn-group>
+		<title>Competing interests</title>
+		<fn fn-type="conflict" id="conf1">
+		<p><x>JC: </x>Is one of <italic>eLife&#x27;s</italic> reviewing editors</p>
+		</fn>
+		</fn-group>
 
-<fn-group>
-<title>Ethics</title>
-<fn fn-type="other">
-<p><x>Clinical trial registration </x> INSERT NUMBER PROVIDED</p></fn>
-<fn fn-type="other">
-<p><x>Human subjects: </x>“(Textbox - HUMAN)"></p></fn>
-<fn fn-type="other">
-<p><x>Animal experimentation: </x>“(Textbox - ANIMAL)"></p> 
-</fn>
-</fn-group>
+		<fn-group>
+		<title>Ethics</title>
+		<fn fn-type="other">
+		<p><x>Clinical trial registration </x> INSERT NUMBER PROVIDED</p></fn>
+		<fn fn-type="other">
+		<p><x>Human subjects: </x>“(Textbox - HUMAN)"></p></fn>
+		<fn fn-type="other">
+		<p><x>Animal experimentation: </x>“(Textbox - ANIMAL)"></p> 
+		</fn>
+		</fn-group>
+</sec>
+
+
+<sec sec-type="supplementary-material" id="sec23">
+  <title>Additional files</title>
+
+  <supplementary-material id="SD1-data">
+    <label>A data file</label>
+    <caption>
+      <title>Amazing data points in a csv file</title>
+      <p>A file containing underlying data</p>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
+    <media xlink:href="lak-23-1-14-s1.csv" mimetype="csv" mime-subtype="csv"/>
+ </supplementary-material>  
+
+  <supplementary-material id="SD1-reporting-standard">
+    <label>A reporting standard</label>
+    <caption>
+      <title>Reporting standard</title>
+      <p>A reporting standard, which is a pdf because we like those</p>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
+    <media xlink:href="lak-23-1-14-s2.pdf" mimetype="pdf" />
+ </supplementary-material>  
+
+  <supplementary-material id="SD1-source-code">
+    <label>A piece of source code</label>
+    <caption>
+      <title>Source</title>
+      <p>A piece of code that generated the video</p>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
+    <media xlink:href="lak-23-1-14-s3.py" mimetype="text" />
+ </supplementary-material>  
+
+
+  <supplementary-material id="SD1-video">
+    <label>A data file</label>
+    <caption>
+      <title>Amazing video</title>
+      <p>A video demonstration of the methods used in this paper</p>
+    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
+    <media xlink:href="lak-23-1-14-s4.mp4" mimetype="video" mime-subtype="mp4"/>
+ </supplementary-material>  
+
 </sec>
 
 <sec sec-type="datasets">
@@ -1704,49 +1747,6 @@
 	<x>)</x>
 	<hr/>
 	</related-object>
-</sec>
-
-
-<sec sec-type="supplementary-material" id="sec23">
-  <title>Additional files</title>
-
-  <supplementary-material id="SD1-data">
-    <label>A data file</label>
-    <caption>
-      <title>Amazing data points in a csv file</title>
-      <p>A file containing underlying data</p>
-    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s1.csv" mimetype="csv" mime-subtype="csv"/>
- </supplementary-material>  
-
-  <supplementary-material id="SD1-reporting-standard">
-    <label>A reporting standard</label>
-    <caption>
-      <title>Reporting standard</title>
-      <p>A reporting standard, which is a pdf because we like those</p>
-    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s2.pdf" mimetype="pdf" />
- </supplementary-material>  
-
-  <supplementary-material id="SD1-source-code">
-    <label>A piece of source code</label>
-    <caption>
-      <title>Source</title>
-      <p>A piece of code that generated the video</p>
-    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s3.py" mimetype="text" />
- </supplementary-material>  
-
-
-  <supplementary-material id="SD1-video">
-    <label>A data file</label>
-    <caption>
-      <title>Amazing video</title>
-      <p>A video demonstration of the methods used in this paper</p>
-    <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s4.mp4" mimetype="video" mime-subtype="mp4"/>
- </supplementary-material>  
-
 </sec>
 
 
