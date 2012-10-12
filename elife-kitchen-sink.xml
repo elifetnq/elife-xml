@@ -489,6 +489,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.002</object-id>
 <label>Figure 1&#x2013; figure supplement 1</label>
 <caption>
+	<title>The title of the child-fig</title>
 <p>
 <bold>Frequency of rosette colonies in <italic>S. rosetta</italic> environmental isolate ATCC 50818, RCA with and without <italic>A. machipongonensis</italic> and a monoxenic line with <italic>A. machipongonensis</italic> feeder bacteria (Px1)</bold>. Altering bacterial diversity in <italic>S. rosetta</italic> cultures alters the frequency of rosette colonies. Data are the whisker-box plots of the frequency of colonial cells in ATCC 50818 and a monoxenic culture of <italic>S. rosetta</italic> fed only <italic>A. machipongonensis</italic> bacteria (Px1) for three experiments.</p>
 	<p>
@@ -1087,6 +1088,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.007</object-id>
 <label>Figure 3&#x2013; figure supplement 1</label>
 <caption>
+	<title>The title of the child fig</title>
 <p>
 <bold>Separation of <italic>A. machipongonensis</italic> sphingolipids by thin layer chromatography (TLC)</bold>. Lipids enriched in sphingolipids were separated by TLC after visualization with ammonium molybdate in 10% H<sub>2</sub>SO<sub>4</sub>. Bands (<xref ref-type="bibr" rid="bib67">Mazmanian et al., 2005</xref>; <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>; <xref ref-type="bibr" rid="bib34">Falkow, 2006</xref>; <xref ref-type="bibr" rid="bib45">Hughes &#x26; Sperandio, 2008</xref>; <xref ref-type="bibr" rid="bib69">McFall-Ngai, 1999</xref>; <xref ref-type="bibr" rid="bib28">Desbrosses &#x26; Stougaard, 2011</xref>; <xref ref-type="bibr" rid="bib46">James-Clark, 1868</xref>; <xref ref-type="bibr" rid="bib86">Saville Kent, 1880</xref>; <xref ref-type="bibr" rid="bib43">Hibberd, 1975</xref>; <xref ref-type="bibr" rid="bib18">Carr et al., 2008</xref>; <xref ref-type="bibr" rid="bib85">Ruiz-Trillo et al., 2008</xref>; <xref ref-type="bibr" rid="bib53">King et al., 2008</xref>) as well as regions between bands (A-F) were tested for morphogenic activity. Region F possessed activity and was further purified.</p>
 
@@ -1099,6 +1101,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.008</object-id>
 <label>Figure 3&#x2013; figure supplement 2</label>
 <caption>
+	<title>The title of the child fig</title>	
 <p>
 <bold>MS/MS analysis of RIF-1</bold>. A major fragment derived from <italic>m/z</italic> &#x3d; 606 (M-H) in the MS/MS spectrum of RIF-1 corresponds to amino-sulfonic acid <bold>S1</bold>. <bold>HRMS</bold> <italic>m/z</italic> calcd for C<sub>17</sub>H<sub>36</sub>NO<sub>5</sub>S (M-H): 366.23142. Found: 366.2310 (M-H)<sup>&#x2212;</sup>.</p>
 
@@ -1111,6 +1114,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.009</object-id>
 <label>Figure 3&#x2013; figure supplement 3</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>Key two-dimensional (2D) correlations (a-c) and NMR spectra (d-m) of RIF-1</bold>. <bold>A</bold>. <bold>Observed COSY correlations</bold>: Red double-head arrows show key <sup>3</sup>
 <italic>J</italic> or <sup>4</sup>
@@ -1126,6 +1130,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
 <label>Figure 3&#x2013; figure supplement 4</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>B</bold>. <bold>Observed HMBC correlations</bold>: Blue single-head arrows show key <sup>2</sup>
 <italic>J</italic> or <sup>3</sup>
@@ -1141,6 +1146,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.011</object-id>
 <label>Figure 3&#x2013; figure supplement 5</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>C</bold>. <bold>Observed TOCSY spin systems</bold>: Green bonds show two key spin systems in RIF-1 &#x2013; HO-CH- in the fatty acid fragment and -CH<sub>2</sub>-CH(NH)-CH(OH)-CH<sub>2</sub>-CH(OH)-CH<sub>2</sub>- in the capnine base fragment.</p>
 
@@ -1153,6 +1159,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.012</object-id>
 <label>Figure 3&#x2013; figure supplement 6</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>D</bold>. <sup>
 <bold>1</bold>
@@ -1169,6 +1176,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.013</object-id>
 <label>Figure 3&#x2013; figure supplement 7</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>E</bold>. <bold>gHMQC spectrum of RIF-1</bold>: The <sup>1</sup>
 <italic>J</italic> H-C correlations demonstrate that 2 (&#x3b4;<sub>H</sub> 3.88, &#x3b4;<sub>C</sub> 50.89) is connected to a nitrogen; 2&#x2019;, 3, and 5 (&#x3b4;<sub>H</sub> 3.80/&#x3b4;<sub>C</sub> 71.29, &#x3b4;<sub>H</sub> 3.71-3.78/&#x3b4;<sub>C</sub> 71.51, and &#x3b4;<sub>H</sub> 3.53-3.61/&#x3b4;<sub>C</sub> 70.20, respectively) are oxygenated; 1 (&#x3b4;<sub>H</sub> 3.01 and 2.56, &#x3b4;<sub>C</sub> 51.87) is adjacent to a sulfonic acid group; and all the other twenty methylenes and four methyls at high filed (&#x3b4;<sub>H</sub> 0.75-1.75/&#x3b4;<sub>C</sub> 22.00-42.00).</p>
@@ -1183,6 +1191,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.014</object-id>
 <label>Figure 3&#x2013; figure supplement 8</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>F</bold>. <bold>gCOSY spectrum of RIF-1</bold>: Indicated are important H-H correlations between NH and H-2, 2&#x2019;-OH and H-2&#x2019;, 3-OH and H-3, and 5-OH and H-5.</p>
 
@@ -1196,6 +1205,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.015</object-id>
 <label>Figure 3&#x2013; figure supplement 9</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>G. dqfCOSY spectrum of RIF-1</bold>: A dqfCOSY spectrum was collected in order to get a clear connectivity in the oxygenated region (1-position to 6-position) in the capnoid base fragment.</p>
 
@@ -1209,6 +1219,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.016</object-id>
 <label>Figure 3&#x2013; figure supplement 10</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>H</bold>. <bold>Expanded dqfCOSY spectra of RIF-1</bold>: In panel A (&#x3b4;<sub>H</sub> 1.15-1.65 ppm/&#x3b4;<sub>H</sub> 3.52-3.82 ppm), H-3 (&#x3b4;<sub>H</sub> 3.73) shows correlation to H-4a (&#x3b4;<sub>H</sub> 1.30), H-5 (&#x3b4;<sub>H</sub> 3.57) to H-4a/H-4b (&#x3b4;<sub>H</sub> 1.30/1.47), and H-5 to H<sub>2</sub>-6 (&#x3b4;<sub>H</sub> 1.20/1.29); H-2&#x2019; (&#x223c;&#x3b4;<sub>H</sub> 3.8) correlates to H<sub>2</sub>-3&#x2019; (&#x3b4;<sub>H</sub> 1.45 and 1.54). Panel B (&#x3b4;<sub>H</sub> 2.4-4.0 ppm/&#x3b4;<sub>H</sub> 2.4-4.0 ppm) demonstrates the correlations between H<sub>2</sub>-1 (&#x3b4;<sub>H</sub> 2.56/&#x223c;3.0) and H-2 (&#x3b4;<sub>H</sub> 3.88), and between H-2 and H-3. Panel C (&#x3b4;<sub>H</sub> 0.75-1.60 ppm/&#x3b4;<sub>H</sub> 0.75-1.60 ppm) exhibits correlations in the other methylenes and methyl groups.</p>
 
@@ -1222,6 +1233,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.017</object-id>
 <label>Figure 3&#x2013; figure supplement 11</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>I</bold>. <bold>gHMBC spectrum of RIF-1</bold>: Indicated are important <sup>2</sup>
 <italic>J</italic> or <sup>3</sup>
@@ -1237,6 +1249,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.018</object-id>
 <label>Figure 3&#x2013; figure supplement 12</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>J</bold>. <bold>Expanded gHMBC spectrum of RIF-1 (&#x3b4;</bold>
 <sub>
@@ -1256,6 +1269,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.019</object-id>
 <label>Figure 3&#x2013; figure supplement 13</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>K</bold>. <bold>Expanded gHMBC spectrum of RIF-1 (&#x3b4;</bold>
 <sub>
@@ -1275,6 +1289,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.020</object-id>
 <label>Fig. 3&#x2013; figure supplement 14</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>L</bold>. <bold>TOCSY spectrum of RIF-1</bold>: The spectrum shows correlations from NH to H<sub>2</sub>-1 and H-5 through H-2, H-3 and H<sub>2</sub>-4, and from 3-OH to H-5 via H<sub>2</sub>-4 and H<sub>2</sub>-1 through H-3 and H-2.</p>
 
@@ -1288,6 +1303,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.021</object-id>
 <label>Figure 3&#x2013; figure supplement 15</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>M</bold>. <bold>Expanded TOCSY spectrum of RIF-1 (&#x3b4;</bold>
 <sub>
@@ -1465,6 +1481,7 @@
 <object-id pub-id-type="doi">10.7554/eLife.00013.024</object-id>
 <label>Figure 4&#x2013; figure supplement 1</label>
 <caption>
+		<title>The title of the child fig</title>
 <p>
 <bold>Quantification of RIF-1 levels in conditioned medium. A</bold>. Detection of purified RIF-1. RIF-1 did not show absorbance at 210 nm (top panel), but the molecule (606 Da, M-H) was detected between 25 and 26 minutes (bottom panel). <bold>B</bold>. Detection of RIF-1 in the conditioned medium of <italic>A. machipongonensis</italic>. RIF-1 (bottom panel) was detected in the conditioned medium after the broth was concentrated 250 times. <bold>C</bold>. Co-injection of the concentrated conditioned medium with purified RIF-1. The peak of the RIF-1 in the conditioned medium was enhanced after the sample was spiked with purified RIF-1 (bottom panel).</p>
 
