@@ -1651,7 +1651,7 @@
       <title>Amazing data points in a csv file</title>
       <p>A file containing underlying data</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s1.csv" mimetype="csv" mime-subtype="csv"/>
+    <media xlink:href="lak-23-1-14-s1.csv" mimetype="text" mime-subtype="comma-separated-values"/>
  </supplementary-material>  
 
   <supplementary-material id="SD1-reporting-standard">
@@ -1660,7 +1660,7 @@
       <title>Reporting standard</title>
       <p>A reporting standard, which is a pdf because we like those</p>
     <p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.placeholder">http://dx.doi.org/elife/10.7554/eLife.00013.placeholder</ext-link></p></caption>
-    <media xlink:href="lak-23-1-14-s2.pdf" mimetype="pdf" />
+    <media xlink:href="lak-23-1-14-s2.pdf" mimetype="application" mime-subtype="pdf" />
  </supplementary-material>  
 
   <supplementary-material id="SD1-source-code">
