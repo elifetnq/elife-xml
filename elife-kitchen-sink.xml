@@ -1526,7 +1526,7 @@
 
 <p>
 	<mml:math>
-<mml:semantics>
+
 <mml:mrow>
 <mml:munder>
 <mml:mo>&sum;</mml:mo>
@@ -1544,7 +1544,7 @@
 <mml:mn>0</mml:mn>
 </mml:mrow>
 </mml:mrow>
-</mml:semantics>
+
 </mml:math>
 </p>
 
