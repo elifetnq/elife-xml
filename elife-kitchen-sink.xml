@@ -1594,46 +1594,46 @@
 		<fn-group content-type="author-contribution">
 		<title>Author contributions</title>
 		<fn fn-type="con" id="con1">
-		<p><x>RA: </x>Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
+		<p>RA: Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
 		</fn>
 		<fn fn-type="con" id="con2">
-		<p><x>LB: </x>Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
+		<p>LB: Conception and design, acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
 		</fn>
 		<fn fn-type="con" id="con3">
-		<p><x>SC: </x>Acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
+		<p>SC: Acquisition of data, analysis and interpretation of data, drafting or revising the article</p>
 		</fn>
 		<fn fn-type="con" id="con4">
-		<p><x>RD: </x>Acquisition of data, analysis and interpretation of data</p>
+		<p>RD: Acquisition of data, analysis and interpretation of data</p>
 		</fn>
 		<fn fn-type="con" id="con5">
-		<p><x>RZ: </x>Acquisition of data, analysis and interpretation of data</p>
+		<p>RZ: Acquisition of data, analysis and interpretation of data</p>
 		</fn>
 		<fn fn-type="con" id="con6">
-		<p><x>SF: </x>Acquisition of data, analysis and interpretation of data</p>
+		<p>SF: Acquisition of data, analysis and interpretation of data</p>
 		</fn>
 		<fn fn-type="con" id="con7">
-		<p><x>JC: </x>Conception and design, analysis and interpretation of data, drafting or revising the article</p>
+		<p>JC: Conception and design, analysis and interpretation of data, drafting or revising the article</p>
 		</fn>
 		<fn fn-type="con" id="con8">
-		<p><x>NK: </x>Conception and design, analysis and interpretation of data, drafting or revising the article</p>
+		<p>NK: Conception and design, analysis and interpretation of data, drafting or revising the article</p>
 		</fn>
 		</fn-group>
 
 		<fn-group content-type="competing-interest">
 		<title>Competing interests</title>
 		<fn fn-type="conflict" id="conf1">
-		<p><x>JC: </x>Is one of <italic>eLife&#x27;s</italic> reviewing editors</p>
+		<p>JC: Is one of <italic>eLife&#x27;s</italic> reviewing editors</p>
 		</fn>
 		</fn-group>
 
 		<fn-group content-type="ethics-information">
 		<title>Ethics</title>
 		<fn fn-type="other">
-		<p><x>Clinical trial registration </x> INSERT NUMBER PROVIDED</p></fn>
+		<p>Clinical trial registration INSERT NUMBER PROVIDED</p></fn>
 		<fn fn-type="other">
-		<p><x>Human subjects: </x>“(Textbox - HUMAN)"></p></fn>
+		<p>Human subjects: “(Textbox - HUMAN)"></p></fn>
 		<fn fn-type="other">
-		<p><x>Animal experimentation: </x>“(Textbox - ANIMAL)"></p> 
+		<p>Animal experimentation: “(Textbox - ANIMAL)"></p> 
 		</fn>
 		</fn-group>
 </sec>
